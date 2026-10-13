@@ -2,7 +2,7 @@
 
 ## Required Software
 
--  [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) or [MultiworldGG](https://github.com/MultiworldGG/MultiworldGG/releases)
+-  [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases)
 - Wild Arms .apworld [wildarms.apworld](https://github.com/TheDaedron/WildArms-apworld/releases)
 - [BizHawk 2.10 (x64)](https://tasvideos.org/BizHawk/ReleaseHistory) or later
 - Your legally obtained Wild Arms (USA) disc image, as a .BIN and .CUE. The .BIN must have the MD5 `19f6de83eb8b7525d7bf8eb27566ce30`.
