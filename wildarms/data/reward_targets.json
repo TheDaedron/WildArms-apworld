@@ -1,0 +1,1892 @@
+{
+  "base_version": "97139633d5cdf296d380f72f03e88eaecf89da1bd3b49c88a45481be687dcac8",
+  "locations": {
+    "[Adlehyde Castle] Chest - Council Room 1": [
+      22354780
+    ],
+    "[Adlehyde Castle] Chest - Council Room 10": [
+      22354942
+    ],
+    "[Adlehyde Castle] Chest - Council Room 2": [
+      22354798
+    ],
+    "[Adlehyde Castle] Chest - Council Room 3": [
+      22354816
+    ],
+    "[Adlehyde Castle] Chest - Council Room 4": [
+      22354834
+    ],
+    "[Adlehyde Castle] Chest - Council Room 5": [
+      22354852
+    ],
+    "[Adlehyde Castle] Chest - Council Room 6": [
+      22354870
+    ],
+    "[Adlehyde Castle] Chest - Council Room 7": [
+      22354888
+    ],
+    "[Adlehyde Castle] Chest - Council Room 8": [
+      22354906
+    ],
+    "[Adlehyde Castle] Chest - Council Room 9": [
+      22354924
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Bottom-Left": [
+      7348814,
+      82377614,
+      22354582
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Bottom-Right": [
+      7348832,
+      82377632,
+      22354600
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Middle": [
+      7348724,
+      82377524,
+      22354492
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Top-Left": [
+      7348706,
+      82377506,
+      22354474
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Top-Right": [
+      7348796,
+      82377596,
+      22354564
+    ],
+    "[Adlehyde Castle] Chest - East Wing, Outside Near Water": [
+      7348760,
+      82377560,
+      22354528
+    ],
+    "[Adlehyde Castle] Chest - East Wing, Outside On Wall": [
+      7348778,
+      82377578,
+      22354546
+    ],
+    "[Adlehyde Castle] Chest - South of Kitchen": [
+      7348742,
+      82377542,
+      22354510
+    ],
+    "[Adlehyde Festival] Barrel - East Stalls": [
+      6665088
+    ],
+    "[Adlehyde Festival] Barrel - South Stalls": [
+      6665070
+    ],
+    "[Adlehyde Festival] Barrel - West Stalls": [
+      6665106
+    ],
+    "[Adlehyde] Barrel - 7-Shape House": [
+      5985340,
+      23718430,
+      24400510,
+      25082590,
+      25764670,
+      21674132,
+      23038292,
+      83061332
+    ],
+    "[Adlehyde] Barrel - Engineer Tom's Shop": [
+      5985268,
+      23718664,
+      24400744,
+      25082824,
+      25764904,
+      21674060,
+      23038220,
+      83061260
+    ],
+    "[Adlehyde] Barrel - Inn, Bottom Floor": [
+      5985286,
+      23718538,
+      24400618,
+      25082698,
+      25764778,
+      21674078,
+      23038238,
+      83061278
+    ],
+    "[Adlehyde] Barrel - Mayor's House": [
+      5985322,
+      23718448,
+      24400528,
+      25082608,
+      25764688,
+      21674114,
+      23038274,
+      83061314
+    ],
+    "[Adlehyde] Barrel - Secret Tunnel Shed": [
+      5985304,
+      23718466,
+      24400546,
+      25082626,
+      25764706,
+      21674096,
+      23038256,
+      83061296
+    ],
+    "[Adlehyde] Big Box - Left Storage, Left": [
+      5984800,
+      23718880,
+      24400960,
+      25083040,
+      25765120,
+      21672640,
+      23036800,
+      83059840
+    ],
+    "[Adlehyde] Big Box - Left Storage, Right": [
+      5984818,
+      23718898,
+      24400978,
+      25083058,
+      25765138,
+      21672658,
+      23036818,
+      83059858
+    ],
+    "[Adlehyde] Big Box - West of Chapel": [
+      5984836,
+      23718916,
+      24400996,
+      25083076,
+      25765156,
+      21672676,
+      23036836,
+      83059876
+    ],
+    "[Adlehyde] Boss - Belselk 1": [
+      21699030,
+      23063190,
+      83086230
+    ],
+    "[Adlehyde] Box - Right Storage, Left": [
+      5985448,
+      23717818,
+      24399898,
+      25081978,
+      25764058,
+      21674240,
+      23038400,
+      83061440
+    ],
+    "[Adlehyde] Box - Right Storage, Right": [
+      5985466,
+      23717800,
+      24399880,
+      25081960,
+      25764040,
+      21674258,
+      23038418,
+      83061458
+    ],
+    "[Adlehyde] Chest - Behind Trees": [
+      5984854,
+      23718826,
+      24400906,
+      25082986,
+      25765066,
+      21672694,
+      23036854,
+      83059894
+    ],
+    "[Adlehyde] Chest - Secret Tunnel Shed": [
+      5984872,
+      23718862,
+      24400942,
+      25083022,
+      25765102,
+      21672712,
+      23036872,
+      83059912
+    ],
+    "[Adlehyde] NPC - 1,000 Gella Donation": [
+      23736816,
+      24418896,
+      25100976,
+      25783056
+    ],
+    "[Adlehyde] NPC - 10,000 Gella Donation": [
+      23736510,
+      24418590,
+      25100670,
+      25782750
+    ],
+    "[Adlehyde] NPC - 100,000 Gella Donation": [
+      23735843,
+      24417923,
+      25100003,
+      25782083
+    ],
+    "[Adlehyde] NPC - 2,000 Gella Donation": [
+      23736735,
+      24418815,
+      25100895,
+      25782975
+    ],
+    "[Adlehyde] NPC - 20,000 Gella Donation": [
+      23736423,
+      24418503,
+      25100583,
+      25782663
+    ],
+    "[Adlehyde] NPC - 3,000 Gella Donation": [
+      23736656,
+      24418736,
+      25100816,
+      25782896
+    ],
+    "[Adlehyde] NPC - 30,000 Gella Donation": [
+      23736038,
+      24418118,
+      25100198,
+      25782278
+    ],
+    "[Adlehyde] NPC - 5,000 Gella Donation": [
+      23736596,
+      24418676,
+      25100756,
+      25782836
+    ],
+    "[Adlehyde] NPC - 50,000 Gella Donation": [
+      23735959,
+      24418039,
+      25100119,
+      25782199
+    ],
+    "[Adlehyde] NPC - 500 Gella Donation": [
+      23736900,
+      24418980,
+      25101060,
+      25783140
+    ],
+    "[Ancient Arena] Barrel - Inn, Near Beds": [
+      14851352
+    ],
+    "[Ancient Arena] Barrel - Inn, Top-Right": [
+      14851334
+    ],
+    "[Ancient Arena] Barrel - Near Bar": [
+      14851370
+    ],
+    "[Ancient Arena] Chest - Duplicator Door, Left": [
+      14850560
+    ],
+    "[Ancient Arena] Chest - Duplicator Door, Middle": [
+      14850578
+    ],
+    "[Ancient Arena] Chest - Duplicator Door, Right": [
+      14850596
+    ],
+    "[Arctica Castle] ARM - Wild Bunch": [
+      46918544,
+      87161264
+    ],
+    "[Arctica Castle] Chest - Boom Getter": [
+      46908964,
+      87151684
+    ],
+    "[Arctica Castle] Chest - Full Revive 1": [
+      46908874,
+      87151594
+    ],
+    "[Arctica Castle] Chest - Full Revive 2": [
+      46908856,
+      87151576
+    ],
+    "[Arctica Castle] Chest - Lucky Card": [
+      46909306,
+      87152026
+    ],
+    "[Arctica Castle] Chest - Mega Berry 1": [
+      46908892,
+      87151612
+    ],
+    "[Arctica Castle] Chest - Mega Berry 2": [
+      46908910,
+      87151630
+    ],
+    "[Arctica Castle] Chest - Nectar": [
+      46909252,
+      87151972
+    ],
+    "[Arctica Castle] Chest - Secret Sign 1": [
+      46909270,
+      87151990
+    ],
+    "[Arctica Castle] Chest - Secret Sign 2": [
+      46908820,
+      87151540
+    ],
+    "[Arctica Castle] Chest - Secret Sign 3": [
+      46908838,
+      87151558
+    ],
+    "[Arctica Castle] Chest - Secret Sign 4": [
+      46909288,
+      87152008
+    ],
+    "[Baskar Village] Barrel - Inside North-West House": [
+      8710930
+    ],
+    "[Baskar Village] Barrel - Outside Chief's House": [
+      8710894
+    ],
+    "[Baskar Village] Barrel - Outside Item Shop, West": [
+      8710858
+    ],
+    "[Baskar Village] Barrel - Outside North-East House, West": [
+      8710876
+    ],
+    "[Baskar Village] Barrel - West Tent": [
+      8710912
+    ],
+    "[Baskar Village] Box - North of Fenced Crops": [
+      8711074
+    ],
+    "[Baskar Village] Box - Outside Item Shop, East": [
+      8711038
+    ],
+    "[Baskar Village] Box - Outside North-East House, East": [
+      8711056
+    ],
+    "[Baskar Village] NPC - Chief Gift": [
+      8717456
+    ],
+    "[Baskar Village] Rune - Hope Rune": [
+      8731925
+    ],
+    "[Berry Cave] Big Box - After Bomb Wall, West": [
+      27127324,
+      83739964
+    ],
+    "[Berry Cave] Big Box - Before Bomb Wall": [
+      27126946,
+      83739586
+    ],
+    "[Berry Cave] Big Box - Near Entrance": [
+      27126712,
+      83739352
+    ],
+    "[Berry Cave] Boss - Zombie": [
+      27144467,
+      83757107
+    ],
+    "[Berry Cave] Chest - After Bomb Wall, East": [
+      27128132,
+      83740772
+    ],
+    "[Berry Cave] Chest - East of 5 Boxes": [
+      27127432,
+      83740072
+    ],
+    "[Berry Cave] Chest - East of Bat Bridge": [
+      27128096,
+      83740736
+    ],
+    "[Berry Cave] Chest - Holy Berry Room": [
+      27127486,
+      83740126
+    ],
+    "[Berry Cave] Chest - Inside Bomb Wall, Left": [
+      27127396,
+      83740036
+    ],
+    "[Berry Cave] Chest - Inside Bomb Wall, Middle": [
+      27127378,
+      83740018
+    ],
+    "[Berry Cave] Chest - Inside Bomb Wall, Right": [
+      27127414,
+      83740054
+    ],
+    "[Berry Cave] Chest - Near Save Point": [
+      27127468,
+      83740108
+    ],
+    "[Berry Cave] Chest - South of Bat Bridge": [
+      27127450,
+      83740090
+    ],
+    "[Berry Cave] Chest - South of Bombable Sign": [
+      27128150,
+      83740790
+    ],
+    "[Berry Cave] Pickup - Holy Berry": [
+      27142226,
+      83754866
+    ],
+    "[Cage Tower] ARM - 4th Floor, Middle": [
+      33279142,
+      86481382
+    ],
+    "[Cage Tower] Chest - 11th Floor, Left": [
+      33267796,
+      86470036
+    ],
+    "[Cage Tower] Chest - 11th Floor, Middle": [
+      33267814,
+      86470054
+    ],
+    "[Cage Tower] Chest - 11th Floor, Right": [
+      33267832,
+      86470072
+    ],
+    "[Cage Tower] Chest - 2nd Floor": [
+      33267310,
+      86469550
+    ],
+    "[Cage Tower] Chest - 4th Floor, Left": [
+      33267274,
+      86469514
+    ],
+    "[Cage Tower] Chest - 4th Floor, Right": [
+      33267292,
+      86469532
+    ],
+    "[Court Seim] Barrel - Agile Apple": [
+      12804518
+    ],
+    "[Court Seim] Barrel - Crest Graph": [
+      12804500
+    ],
+    "[Court Seim] Barrel - Hardy Apple": [
+      12804554
+    ],
+    "[Court Seim] Barrel - Mystic Apple": [
+      12804536
+    ],
+    "[Court Seim] Barrel - Power Apple": [
+      12804572
+    ],
+    "[Curan Abbey] Barrel - Dormitory": [
+      5304006,
+      16899366
+    ],
+    "[Curan Abbey] Barrel - Kitchen": [
+      5304024,
+      16899384
+    ],
+    "[Curan Abbey] Barrel - Magic Vendor": [
+      5303988,
+      16899348
+    ],
+    "[Curan Abbey] NPC - Magic Teacher Gift": [
+      5323077,
+      16920478
+    ],
+    "[Dead Sanctuary] Chest - Crest Graph": [
+      41452764
+    ],
+    "[Dead Sanctuary] Chest - Elder Scroll": [
+      41452782
+    ],
+    "[Dead Sanctuary] Chest - Lunar Rod": [
+      41452836
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 1": [
+      41452728
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 2": [
+      41452746
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 3": [
+      41452800
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 4": [
+      41452818
+    ],
+    "[Dead Sanctuary] Chest - Wise Slate": [
+      41452710
+    ],
+    "[Demon's Lab] ARM - Bazooka": [
+      42147978
+    ],
+    "[Demon's Lab] Chest - Bullet Clip 1": [
+      42135458
+    ],
+    "[Demon's Lab] Chest - Bullet Clip 2": [
+      42135476
+    ],
+    "[Demon's Lab] Chest - Energy Saber": [
+      42135062
+    ],
+    "[Demon's Lab] Chest - Mega Berry": [
+      42135098
+    ],
+    "[Demon's Lab] Chest - Potion Berry 1": [
+      42135044
+    ],
+    "[Demon's Lab] Chest - Potion Berry 2": [
+      42135008
+    ],
+    "[Demon's Lab] Chest - Potion Berry 3": [
+      42135026
+    ],
+    "[Demon's Lab] Chest - Revive Fruit": [
+      42135116
+    ],
+    "[Dragon Shrine] Chest - Crest Graph 1": [
+      40087782
+    ],
+    "[Dragon Shrine] Chest - Crest Graph 2": [
+      40087800
+    ],
+    "[Dragon Shrine] Chest - Crest Graph 3": [
+      40087818
+    ],
+    "[Dragon Shrine] Chest - Duplicator": [
+      40087764
+    ],
+    "[Dragon Shrine] Chest - Lucky Card": [
+      40087746
+    ],
+    "[Dragon Shrine] Chest - Magic Carrot": [
+      40087728
+    ],
+    "[Dragon Shrine] Chest - Magic Vase": [
+      40094078
+    ],
+    "[Dragon Shrine] Chest - Shining Cape": [
+      40087836
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Left": [
+      15533052
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Middle": [
+      15533070
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Right": [
+      15533088
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Left": [
+      15532980
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Middle": [
+      15532998
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Right": [
+      15533034
+    ],
+    "[Elw Pyramid] Chest - Saint Centour East, West Room, Left": [
+      15532944
+    ],
+    "[Elw Pyramid] Chest - Saint Centour East, West Room, Right": [
+      15532962
+    ],
+    "[Elw Pyramid] Chest - Saint Centour North": [
+      15532926
+    ],
+    "[Epitaph Sea] Chest - Agile Apple": [
+      38041806
+    ],
+    "[Epitaph Sea] Chest - Bullet Clip": [
+      38041824
+    ],
+    "[Epitaph Sea] Chest - Crest Graph": [
+      38041860
+    ],
+    "[Epitaph Sea] Chest - Duplicator": [
+      38041698
+    ],
+    "[Epitaph Sea] Chest - Full Revive": [
+      38041770
+    ],
+    "[Epitaph Sea] Chest - Lucky Card": [
+      38041734
+    ],
+    "[Epitaph Sea] Chest - Magic Carrot": [
+      38041752
+    ],
+    "[Epitaph Sea] Chest - Mystic Apple": [
+      38041788
+    ],
+    "[Epitaph Sea] Chest - Potion Berry": [
+      38042058
+    ],
+    "[Epitaph Sea] Chest - Reflex": [
+      38042076
+    ],
+    "[Epitaph Sea] Chest - Rune Drive": [
+      38041896
+    ],
+    "[Epitaph Sea] Chest - Secret Sign": [
+      38041842
+    ],
+    "[Epitaph Sea] Chest - Talisman": [
+      38041716
+    ],
+    "[Epitaph Sea] Trap Chest - Metal Bird": [
+      38041320,
+      38047919
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Adlehyde": [
+      3253614
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Mountain Pass": [
+      3255682
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Saint Centour": [
+      3255628
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Tripillar": [
+      3255646
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Baskar": [
+      3255772
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Court Seim": [
+      3255754
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Demon's Lab": [
+      3255826
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Milama": [
+      3255844
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Port Timney": [
+      3255808
+    ],
+    "[Forest Mound] Chest - Crest Graph 1": [
+      19623922
+    ],
+    "[Forest Mound] Chest - Crest Graph 2": [
+      19623940
+    ],
+    "[Forest Mound] Chest - Full Libra": [
+      19623958
+    ],
+    "[Forest Prison] Chest - Crest Graph 1": [
+      43498886
+    ],
+    "[Forest Prison] Chest - Crest Graph 2": [
+      43498922
+    ],
+    "[Forest Prison] Chest - Crest Graph 3": [
+      43498940
+    ],
+    "[Forest Prison] Chest - Crest Graph 4": [
+      43498958
+    ],
+    "[Forest Prison] Chest - Crest Graph 5": [
+      43498976
+    ],
+    "[Forest Prison] Chest - Mirage Coat": [
+      43498904
+    ],
+    "[Forest Prison] Chest - Prairie Coat": [
+      43499066
+    ],
+    "[Forest Prison] Chest - Warrior Vest": [
+      43499048
+    ],
+    "[Forgotten Ruins] Barrel - Bullet Clip": [
+      78282294
+    ],
+    "[Gate Generator] Chest - Bullet Clip 1": [
+      42816200,
+      47590760
+    ],
+    "[Gate Generator] Chest - Bullet Clip 2": [
+      42816110,
+      47590670
+    ],
+    "[Gate Generator] Chest - Crest Graph": [
+      42816146,
+      47590706
+    ],
+    "[Gate Generator] Chest - Force Unit": [
+      42816164,
+      47590724
+    ],
+    "[Gate Generator] Chest - Heal Berry": [
+      42815930,
+      47590490
+    ],
+    "[Gate Generator] Chest - Magic Carrot 1": [
+      42816884,
+      47591444
+    ],
+    "[Gate Generator] Chest - Magic Carrot 2": [
+      42816866,
+      47591426
+    ],
+    "[Gate Generator] Chest - Nectar": [
+      42816920,
+      47591480
+    ],
+    "[Gate Generator] Chest - Potion Berry 1": [
+      42816902,
+      47591462
+    ],
+    "[Gate Generator] Chest - Potion Berry 2": [
+      42816182,
+      47590742
+    ],
+    "[Gate Generator] Chest - Secret Sign": [
+      42816128,
+      47590688
+    ],
+    "[Gemini's Corpse] ARM - Phaser": [
+      44868545,
+      89203745
+    ],
+    "[Gemini's Corpse] Chest - Ambrosia": [
+      44862630,
+      89197830
+    ],
+    "[Gemini's Corpse] Chest - Black Pass": [
+      44862468,
+      89197668
+    ],
+    "[Gemini's Corpse] Chest - Crest Graph": [
+      44862450,
+      89197650
+    ],
+    "[Gemini's Corpse] Chest - Duplicator": [
+      44862612,
+      89197812
+    ],
+    "[Gemini's Corpse] Chest - Lucky Card": [
+      44863188,
+      89198388
+    ],
+    "[Gemini's Corpse] Chest - Magic Carrot": [
+      44863170,
+      89198370
+    ],
+    "[Gemini's Corpse] Chest - Mega Berry": [
+      44862504,
+      89197704
+    ],
+    "[Gemini's Corpse] Chest - Pouch": [
+      44863206,
+      89198406
+    ],
+    "[Gemini's Corpse] Chest - Power Glove": [
+      44868763,
+      89203963
+    ],
+    "[Gemini's Corpse] Chest - Secret Sign 1": [
+      44862540,
+      89197740
+    ],
+    "[Gemini's Corpse] Chest - Secret Sign 2": [
+      44862558,
+      89197758
+    ],
+    "[Ghost Ship] Boss - Captain Geist": [
+      35320208
+    ],
+    "[Ghost Ship] Chest - Deck, Left": [
+      35313278
+    ],
+    "[Ghost Ship] Chest - Deck, Right": [
+      35313260
+    ],
+    "[Ghost Ship] Chest - Final Path Across Gap": [
+      35313368
+    ],
+    "[Ghost Ship] Chest - Final Path Left": [
+      35313296
+    ],
+    "[Ghost Ship] Chest - Left Path Before Grapple": [
+      35313350
+    ],
+    "[Ghost Ship] Chest - Right Path Before Grapple": [
+      35313332
+    ],
+    "[Ghost Ship] Chest - Right Path Inside Door": [
+      35313314
+    ],
+    "[Giant's Cradle] Chest - Crest Graph 1": [
+      37360274
+    ],
+    "[Giant's Cradle] Chest - Crest Graph 2": [
+      37360292
+    ],
+    "[Giant's Cradle] Chest - Magic Carrot 1": [
+      37360346
+    ],
+    "[Giant's Cradle] Chest - Magic Carrot 2": [
+      37360364
+    ],
+    "[Giant's Cradle] Chest - Potion Berry 1": [
+      37360310
+    ],
+    "[Giant's Cradle] Chest - Potion Berry 2": [
+      37360328
+    ],
+    "[Guardian Shrine] Chest - 1st Room, East": [
+      30539664
+    ],
+    "[Guardian Shrine] Chest - 1st Room, West": [
+      30539646
+    ],
+    "[Guardian Shrine] Chest - Left Path Room": [
+      30539682
+    ],
+    "[Guardian Shrine] Chest - Mystic Apple Room , Right": [
+      30539736
+    ],
+    "[Guardian Shrine] Chest - Mystic Apple Room, Left": [
+      30539718
+    ],
+    "[Guardian Shrine] Chest - Mystic Apple Room, Middle": [
+      30539754
+    ],
+    "[Guardian Shrine] Chest - Right Path Room": [
+      30539700
+    ],
+    "[Guardian Shrine] Force - Summon Guardian Cecilia": [
+      57141515
+    ],
+    "[Guardian Shrine] Force - Summon Guardian Jack": [
+      57141485
+    ],
+    "[Guardian Shrine] Force - Summon Guardian Rudy": [
+      57141455
+    ],
+    "[Guardian Shrine] Rune - Earth Rune": [
+      57141545
+    ],
+    "[Guardian Shrine] Rune - Fire Rune": [
+      57141879
+    ],
+    "[Guardian Shrine] Rune - Wind Rune": [
+      57141909
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 1": [
+      45544770
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 2": [
+      45544788
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 3": [
+      45545004
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 4": [
+      45545022
+    ],
+    "[Heaven Corridor] Chest - Magic Carrot": [
+      45544824
+    ],
+    "[Heaven Corridor] Chest - Nectar": [
+      45544806
+    ],
+    "[Ka Dingel] Chest - Ambrosia 1": [
+      48275264
+    ],
+    "[Ka Dingel] Chest - Ambrosia 2": [
+      48274312
+    ],
+    "[Ka Dingel] Chest - Full Revive 1": [
+      48275030
+    ],
+    "[Ka Dingel] Chest - Full Revive 2": [
+      48275048
+    ],
+    "[Ka Dingel] Chest - Full Revive 3": [
+      48275228
+    ],
+    "[Ka Dingel] Chest - Full Revive 4": [
+      48275192
+    ],
+    "[Ka Dingel] Chest - Lucky Card": [
+      48275084
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 1": [
+      48274994
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 2": [
+      48275012
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 3": [
+      48275102
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 4": [
+      48275138
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 5": [
+      48275156
+    ],
+    "[Ka Dingel] Chest - Mega Berry 1": [
+      48274958
+    ],
+    "[Ka Dingel] Chest - Mega Berry 2": [
+      48274976
+    ],
+    "[Ka Dingel] Chest - Mega Berry 3": [
+      48275120
+    ],
+    "[Ka Dingel] Chest - Mega Berry 4": [
+      48275210
+    ],
+    "[Ka Dingel] Chest - Mega Berry 5": [
+      48275174
+    ],
+    "[Ka Dingel] Chest - Metal Shield": [
+      48275282
+    ],
+    "[Ka Dingel] Chest - Nectar 1": [
+      48275066
+    ],
+    "[Ka Dingel] Chest - Nectar 2": [
+      48275246
+    ],
+    "[Lolithia's Tomb] Boss - Magtortous": [
+      28520862,
+      84451422
+    ],
+    "[Lolithia's Tomb] Chest - 3rd Switch Room, Top": [
+      28493958,
+      84424518
+    ],
+    "[Lolithia's Tomb] Chest - After 1st Switch Room": [
+      28493904,
+      84424464
+    ],
+    "[Lolithia's Tomb] Chest - Bomb Ledge, Left": [
+      28496152,
+      84426712
+    ],
+    "[Lolithia's Tomb] Chest - Bomb Ledge, Right": [
+      28494012,
+      84424572
+    ],
+    "[Lolithia's Tomb] Chest - East Room, Left": [
+      28494030,
+      84424590
+    ],
+    "[Lolithia's Tomb] Chest - East Room, Right": [
+      28494048,
+      84424608
+    ],
+    "[Lolithia's Tomb] Chest - Lolithia Room, East": [
+      28496188,
+      84426748
+    ],
+    "[Lolithia's Tomb] Chest - Lolithia Room, West": [
+      28496170,
+      84426730
+    ],
+    "[Lolithia's Tomb] Chest - Tear Door Room, East": [
+      28493922,
+      84424482
+    ],
+    "[Lolithia's Tomb] Chest - Tear Door Room, West": [
+      28493994,
+      84424554
+    ],
+    "[Lolithia's Tomb] Chest - West Path 2nd Switch Room": [
+      28495450,
+      84426010
+    ],
+    "[Lolithia's Tomb] Chest - West Room, Left": [
+      28495684,
+      84426244
+    ],
+    "[Lolithia's Tomb] Chest - West Room, Middle": [
+      28495702,
+      84426262
+    ],
+    "[Lolithia's Tomb] Chest - West Room, Right": [
+      28495720,
+      84426280
+    ],
+    "[Lolithia's Tomb] NPC - Emma Reward": [
+      28512250,
+      84442810
+    ],
+    "[Lolithia's Tomb] Trap Chest - 1st Switch Room": [
+      28493886,
+      28509885,
+      84424446,
+      84440445
+    ],
+    "[Lolithia's Tomb] Trap Chest - 3rd Switch Room, Bottom": [
+      28493976,
+      28509925,
+      84424536,
+      84440485
+    ],
+    "[Lolithia's Tomb] Trap Chest - After Four Blocks Switch Room": [
+      28493940,
+      28509905,
+      84424500,
+      84440465
+    ],
+    "[Lolithia's Tomb] Trap Chest - East Path 2nd Switch Room": [
+      28495432,
+      28509945,
+      84425992,
+      84440505
+    ],
+    "[Malduke] ARM - Arch Smash": [
+      48965866,
+      85116106
+    ],
+    "[Malduke] Chest - Ambrosia": [
+      48957098,
+      85107338
+    ],
+    "[Malduke] Chest - Arms": [
+      51682002
+    ],
+    "[Malduke] Chest - Assault Coat": [
+      51682398
+    ],
+    "[Malduke] Chest - Bullet Clip": [
+      48955660,
+      85105900
+    ],
+    "[Malduke] Chest - Eye 1": [
+      50319090
+    ],
+    "[Malduke] Chest - Eye 2": [
+      50319108
+    ],
+    "[Malduke] Chest - Eye 3": [
+      50319072
+    ],
+    "[Malduke] Chest - Eye 4": [
+      50319054
+    ],
+    "[Malduke] Chest - Eye 5": [
+      50319036
+    ],
+    "[Malduke] Chest - Eye 6": [
+      50319018
+    ],
+    "[Malduke] Chest - Filgaia Robe": [
+      51682416
+    ],
+    "[Malduke] Chest - Guitar": [
+      48969351,
+      85119591
+    ],
+    "[Malduke] Chest - Jolla Poncho": [
+      51682380
+    ],
+    "[Malduke] Chest - Magic Carrot 1": [
+      48957080,
+      85107320
+    ],
+    "[Malduke] Chest - Magic Carrot 2": [
+      48957062,
+      85107302
+    ],
+    "[Malduke] Chest - Nectar 1": [
+      48956990,
+      85107230
+    ],
+    "[Malduke] Chest - Nectar 2": [
+      48957008,
+      85107248
+    ],
+    "[Malduke] Chest - Nectar 3": [
+      48956954,
+      85107194
+    ],
+    "[Malduke] Chest - Nectar 4": [
+      48957044,
+      85107284
+    ],
+    "[Malduke] Chest - Nectar 5": [
+      48957026,
+      85107266
+    ],
+    "[Malduke] Chest - Princess Rod": [
+      48956560,
+      85106800
+    ],
+    "[Malduke] Chest - Silver Blade": [
+      48956524,
+      85106764
+    ],
+    "[Malduke] Chest - Violator": [
+      48956542,
+      85106782
+    ],
+    "[Malduke] Chest - Wings": [
+      52363686
+    ],
+    "[Maze of Death] Boss - Chaos": [
+      31910117
+    ],
+    "[Maze of Death] Chest - Left Path Near Pit": [
+      31903926
+    ],
+    "[Maze of Death] Chest - Left Path, North Room, Left": [
+      31903944
+    ],
+    "[Maze of Death] Chest - Left Path, North Room, Right": [
+      31903962
+    ],
+    "[Maze of Death] Chest - Path to Chaos, East": [
+      31903998
+    ],
+    "[Maze of Death] Chest - Path to Chaos, West": [
+      31903980
+    ],
+    "[Maze of Death] Chest - Right Path Near Pit": [
+      31904088
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 1": [
+      31904016
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 2": [
+      31904034
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 3": [
+      31904052
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 4": [
+      31904070
+    ],
+    "[Maze of Death] Pickup - Crystal Bud": [
+      31909759
+    ],
+    "[Maze of Death] Rune - Death Rune": [
+      31910409
+    ],
+    "[Memory Temple] Chest - Emiko Room, East": [
+      27810372
+    ],
+    "[Memory Temple] Chest - Emiko Room, North": [
+      27810390
+    ],
+    "[Memory Temple] Chest - Emiko Room, West": [
+      27810354
+    ],
+    "[Memory Temple] Chest - First Room, Entrance": [
+      27810318
+    ],
+    "[Memory Temple] Chest - First Room, North-West": [
+      27810282
+    ],
+    "[Memory Temple] Chest - Maze Room, Left": [
+      27810444
+    ],
+    "[Memory Temple] Chest - Maze Room, Right": [
+      27810462
+    ],
+    "[Memory Temple] Chest - Spear Room, East": [
+      27810426
+    ],
+    "[Memory Temple] Chest - Spear Room, West": [
+      27810300
+    ],
+    "[Memory Temple] Chest - Spike Room, South": [
+      27810336
+    ],
+    "[Milama Village] Barrel - Inside House East of Chapel": [
+      8030044
+    ],
+    "[Milama Village] Barrel - Inside Sibling's House": [
+      8030062
+    ],
+    "[Milama Village] Barrel - Inside South-East House": [
+      8030080
+    ],
+    "[Milama Village] Barrel - Ouside Radar House": [
+      8030008
+    ],
+    "[Milama Village] Barrel - Outside Grandpa's House": [
+      8029972
+    ],
+    "[Milama Village] Barrel - Outside Pub": [
+      8030026
+    ],
+    "[Milama Village] Barrel - Outside Sibling's House": [
+      8029954
+    ],
+    "[Milama Village] Barrel - Outside Waterfront House": [
+      8030098
+    ],
+    "[Milama Village] Barrel - South of Chapel": [
+      8029936
+    ],
+    "[Milama Village] Barrel - South of Inn": [
+      8029990
+    ],
+    "[Milama Village] Big Box - Outside Waterfront House, Left": [
+      8030152
+    ],
+    "[Milama Village] Big Box - Outside Waterfront House, Middle": [
+      8030134
+    ],
+    "[Milama Village] Big Box - Outside Waterfront House, Right": [
+      8030116
+    ],
+    "[Milama Village] Chest - Inside Radar House": [
+      8053307
+    ],
+    "[Milama Village] NPC - Pub Owner Gift": [
+      8038699
+    ],
+    "[Mount Zenom] Boss - Orga Widow": [
+      31227979
+    ],
+    "[Mount Zenom] Chest - Inside Tier 5": [
+      31220532
+    ],
+    "[Mount Zenom] Chest - Outside Tier 2, East": [
+      31220820
+    ],
+    "[Mount Zenom] Chest - Outside Tier 2, North": [
+      31220838
+    ],
+    "[Mount Zenom] Chest - Outside Tier 2, West": [
+      31220856
+    ],
+    "[Mount Zenom] Chest - Outside Tier 3": [
+      31220766
+    ],
+    "[Mount Zenom] Chest - Outside Tier 4,West": [
+      31220784
+    ],
+    "[Mount Zenom] Chest - Outside Tier 5, After Drop": [
+      31220802
+    ],
+    "[Mount Zenom] Fast Draw - Meteor Dive": [
+      31230666
+    ],
+    "[Mount Zenom] Rune - Summit Rune": [
+      31227685
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down": [
+      31221630,
+      31231254
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down-Left": [
+      31221612,
+      31231234
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down-Right": [
+      31221648,
+      31231274
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Left": [
+      31221594,
+      31231214
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Right": [
+      31221666,
+      31231294
+    ],
+    "[Mountain Pass] Chest - East Side Left Path, Left": [
+      29173712
+    ],
+    "[Mountain Pass] Chest - East Side Left Path, Right": [
+      29173694
+    ],
+    "[Mountain Pass] Chest - East Side Peak": [
+      29173730
+    ],
+    "[Mountain Pass] Chest - East Side, After Rock": [
+      29173838
+    ],
+    "[Mountain Pass] Chest - West Side Peak, Right": [
+      29173766
+    ],
+    "[Mountain Pass] Chest - West Side Peak, Top": [
+      29173748
+    ],
+    "[Mountain Pass] Chest - West Side, After Rock": [
+      29173856
+    ],
+    "[Mountain Pass] Chest - West Side, In Bushes": [
+      29173784
+    ],
+    "[Mountain Pass] Chest - West Side, Inside Bomb Wall": [
+      29173802
+    ],
+    "[Mountain Pass] Fast Draw - Sonic Buster": [
+      29179897
+    ],
+    "[Mountain Pass] Pickup - Lighter": [
+      29180504
+    ],
+    "[Pandemonium] Chest - Ambrosia": [
+      46229346
+    ],
+    "[Pandemonium] Chest - Bullet Clip": [
+      46229472
+    ],
+    "[Pandemonium] Chest - Crest Graph 1": [
+      46229382
+    ],
+    "[Pandemonium] Chest - Crest Graph 2": [
+      46229364
+    ],
+    "[Pandemonium] Chest - Lucky Card": [
+      46229400
+    ],
+    "[Pandemonium] Chest - Magic Carrot 1": [
+      46229454
+    ],
+    "[Pandemonium] Chest - Magic Carrot 2": [
+      46229418
+    ],
+    "[Pandemonium] Chest - Mega Berry": [
+      46229328
+    ],
+    "[Pandemonium] Chest - Mind Gem": [
+      46229310
+    ],
+    "[Pandemonium] Chest - Secret Sign": [
+      46229436
+    ],
+    "[Photosphere] ARM - Twin Orbs": [
+      39412947
+    ],
+    "[Photosphere] Chest - Agile Apple": [
+      39405478
+    ],
+    "[Photosphere] Chest - Full Revive": [
+      39405120
+    ],
+    "[Photosphere] Chest - Gauntlet": [
+      39405514
+    ],
+    "[Photosphere] Chest - Hardy Apple 1": [
+      39405442
+    ],
+    "[Photosphere] Chest - Hardy Apple 2": [
+      39405460
+    ],
+    "[Photosphere] Chest - Magic Carrot": [
+      39406792
+    ],
+    "[Photosphere] Chest - Mega Berry": [
+      39405532
+    ],
+    "[Photosphere] Chest - Potion Berry 1": [
+      39406738
+    ],
+    "[Photosphere] Chest - Potion Berry 2": [
+      39406720
+    ],
+    "[Photosphere] Chest - Potion Berry 3": [
+      39405102
+    ],
+    "[Photosphere] Chest - Potion Berry 4": [
+      39406756
+    ],
+    "[Photosphere] Chest - Potion Berry 5": [
+      39406774
+    ],
+    "[Photosphere] Chest - Revive Fruit 1": [
+      39406828
+    ],
+    "[Photosphere] Chest - Revive Fruit 2": [
+      39406846
+    ],
+    "[Photosphere] Chest - Revive Fruit 3": [
+      39406810
+    ],
+    "[Pleasing Garden] Boss - Gigmantis": [
+      34638354
+    ],
+    "[Pleasing Garden] Chest - Behind Switch Blocks, Left": [
+      34631994
+    ],
+    "[Pleasing Garden] Chest - Behind Switch Blocks, Right": [
+      34632012
+    ],
+    "[Pleasing Garden] Chest - Dead-end Room": [
+      34632030
+    ],
+    "[Pleasing Garden] Chest - East Portal Room": [
+      34632048
+    ],
+    "[Pleasing Garden] Pickup - Bracelet": [
+      34638216
+    ],
+    "[Pleasing Garden] Pickup - Grappling Hook": [
+      34639161
+    ],
+    "[Pleasing Garden] Rune - Flash Rune": [
+      34638554
+    ],
+    "[Port Timney] Barrel - East of North House": [
+      9393100
+    ],
+    "[Port Timney] Barrel - East of Storage Room": [
+      9393136
+    ],
+    "[Port Timney] Barrel - Inside North House": [
+      9393154
+    ],
+    "[Port Timney] Barrel - Inside Storage Room": [
+      9393118
+    ],
+    "[Port Timney] Barrel - North of Inn": [
+      9393082
+    ],
+    "[Port Timney] Barrel - South of Inn": [
+      9393064
+    ],
+    "[Port Timney] Chest - Inside Storage Room": [
+      9392614
+    ],
+    "[Port Timney] Chest - West of Pub": [
+      9392596
+    ],
+    "[Port Timney] Fast Draw - Trickster": [
+      9416244
+    ],
+    "[Port Timney] NPC - Bartholomew's Gift": [
+      9408321
+    ],
+    "[Rosetta Town] Barrel - 1 Gella Coin": [
+      12121612
+    ],
+    "[Rosetta Town] Barrel - 498 gella": [
+      12121630
+    ],
+    "[Rosetta Town] Chest - Crest Graph": [
+      12121702
+    ],
+    "[Rosetta Town] Chest - Hardy Apple": [
+      12121666
+    ],
+    "[Rosetta Town] Chest - Head Gear": [
+      12121684
+    ],
+    "[Rosetta Town] Chest - Magic Carrot": [
+      12121738
+    ],
+    "[Rosetta Town] Chest - Power Apple": [
+      12121648
+    ],
+    "[Sacred Shrine] Barrel - 2130 gella": [
+      26445416,
+      38722856
+    ],
+    "[Sacred Shrine] Barrel - 320 gella": [
+      26445344,
+      38722784
+    ],
+    "[Sacred Shrine] Barrel - 4800 gella": [
+      26445434,
+      38722874
+    ],
+    "[Sacred Shrine] Barrel - Duplicator": [
+      26445380,
+      38722820
+    ],
+    "[Sacred Shrine] Barrel - Potion Berry 1": [
+      26445362,
+      38722802
+    ],
+    "[Sacred Shrine] Barrel - Potion Berry 2": [
+      26445398,
+      38722838
+    ],
+    "[Sacred Shrine] Chest - Crest Graph": [
+      26445542,
+      38722982
+    ],
+    "[Sacred Shrine] Chest - Magic Carrot": [
+      26445524,
+      38722964
+    ],
+    "[Sacred Shrine] Chest - Potion Berry": [
+      26446656,
+      38724096
+    ],
+    "[Sacred Shrine] Chest - Revive Fruit": [
+      26446674,
+      38724114
+    ],
+    "[Sacred Shrine] Chest - Rune Drive": [
+      26446620,
+      38724060
+    ],
+    "[Sacred Shrine] Chest - Secret Book": [
+      26445506,
+      38722946
+    ],
+    "[Sacred Shrine] Chest - Secret Sign": [
+      26445488,
+      38722928
+    ],
+    "[Saint Centour] Barrel - Outside Magic Shop, North": [
+      10757580
+    ],
+    "[Saint Centour] Barrel - Outside Pub, South": [
+      10757652
+    ],
+    "[Saint Centour] Barrel - Outside South-West House, South": [
+      10757634
+    ],
+    "[Saint Centour] Chest - Inside North House": [
+      10757688
+    ],
+    "[Saint Centour] Chest - Inside West House": [
+      10757706
+    ],
+    "[Saint Centour] Chest - North-West House Basement": [
+      10756878
+    ],
+    "[Saint Centour] Chest - Outside Inn, North": [
+      10757760
+    ],
+    "[Saint Centour] Chest - Outside Item Shop, East": [
+      10758082
+    ],
+    "[Saint Centour] Chest - Outside Item Shop, South": [
+      10757742
+    ],
+    "[Saint Centour] Chest - Outside North-West House, West": [
+      10757598
+    ],
+    "[Saint Centour] Chest - Outside Pub, East": [
+      10757670
+    ],
+    "[Saint Centour] Chest - Pub, Left": [
+      10756914
+    ],
+    "[Saint Centour] Chest - Pub, Middle": [
+      10756932
+    ],
+    "[Saint Centour] Chest - Pub, Right": [
+      10756950
+    ],
+    "[Saint Centour] Chest - South of Ione Paua": [
+      10757616
+    ],
+    "[Saint Centour] Chest - West House Basement": [
+      10756896
+    ],
+    "[Saint Centour] NPC - Researcher's Gift": [
+      10770296
+    ],
+    "[Saint Centour] Rune - Saint Rune": [
+      10766345
+    ],
+    "[Sand River] Chest - 1st Room, Left": [
+      33947744
+    ],
+    "[Sand River] Chest - 1st Room, Right": [
+      33947762
+    ],
+    "[Sand River] Chest - 2nd Room, Left": [
+      33947780
+    ],
+    "[Sand River] Chest - 2nd Room, Right": [
+      33947834
+    ],
+    "[Sand River] Chest - 3rd Room, Left": [
+      33947726
+    ],
+    "[Sand River] Chest - 3rd Room, Right": [
+      33947798
+    ],
+    "[Sand River] Chest - 6th Room": [
+      33947852
+    ],
+    "[Sand River] Chest - After Bomb Wall": [
+      33947816
+    ],
+    "[Sand River] Fast Draw - Heal Blade": [
+      33953659
+    ],
+    "[Sealed Library] Boss - Nelgaul": [
+      16224518
+    ],
+    "[Sealed Library] Chest - 1st Crystal Room, Bottom": [
+      16217926
+    ],
+    "[Sealed Library] Chest - 1st Crystal Room, Top": [
+      16217908
+    ],
+    "[Sealed Library] Chest - 2nd Crystal Room, Left": [
+      16217800
+    ],
+    "[Sealed Library] Chest - 2nd Crystal Room, Right": [
+      16217818
+    ],
+    "[Sealed Library] Chest - Library, Left": [
+      16217836
+    ],
+    "[Sealed Library] Chest - Library, Right": [
+      16217854
+    ],
+    "[Sealed Library] Rune - Water Rune": [
+      16225453
+    ],
+    "[Secret Passage] Chest - 1st Section, Across water": [
+      29855444
+    ],
+    "[Secret Passage] Chest - 1st Section, Near broken bridge": [
+      29855516
+    ],
+    "[Secret Passage] Chest - 2nd Section, Bottom": [
+      29855552
+    ],
+    "[Secret Passage] Chest - 2nd Section, Right": [
+      29855462
+    ],
+    "[Secret Passage] Chest - 3rd Section, Across water": [
+      29855498
+    ],
+    "[Secret Passage] Chest - 3rd Section, Left": [
+      29855570
+    ],
+    "[Secret Passage] Chest - 3rd Section, Right": [
+      29855534
+    ],
+    "[Secret Passage] Chest - 4th Section, Near Exit": [
+      29855480
+    ],
+    "[Ship Graveyard] Barrel - East of ARM shop": [
+      11439760
+    ],
+    "[Ship Graveyard] Barrel - East of Inn": [
+      11439742
+    ],
+    "[Ship Graveyard] Barrel - West of Inn": [
+      11439706
+    ],
+    "[Ship Graveyard] Barrel - West of Save Bird": [
+      11439724
+    ],
+    "[Ship Graveyard] Big Box - North of Dan's House": [
+      11439598
+    ],
+    "[Ship Graveyard] Big Box - North of Item Shop 1": [
+      11439616
+    ],
+    "[Ship Graveyard] Big Box - North of Item Shop 2": [
+      11439634
+    ],
+    "[Ship Graveyard] Big Box - West of Dan's House 1": [
+      11439562
+    ],
+    "[Ship Graveyard] Big Box - West of Dan's House 2": [
+      11439580
+    ],
+    "[Ship Graveyard] Chest - Shipwreck Beach 3": [
+      11440154
+    ],
+    "[Ship Graveyard] Chest - Shipwreck Beach 4": [
+      11439832
+    ],
+    "[Ship Graveyard] Chest - Shipwreck Beach 5": [
+      11439814
+    ],
+    "[Ship Graveyard] Force - Sonic Vision": [
+      11449591
+    ],
+    "[Ship Graveyard] Pickup - Shipwreck Beach 1": [
+      11439778
+    ],
+    "[Ship Graveyard] Pickup - Shipwreck Beach 2": [
+      11439796
+    ],
+    "[Ship Graveyard] Pickup - Shipwreck Beach 6": [
+      11457474
+    ],
+    "[Surf Village] Barrel - East of chicken house": [
+      4619542
+    ],
+    "[Surf Village] Barrel - East of farm house": [
+      4619578
+    ],
+    "[Surf Village] Barrel - East of shop house": [
+      4619524
+    ],
+    "[Surf Village] Barrel - Mayor's House, Bottom Floor": [
+      4619560
+    ],
+    "[Surf Village] Box - Outside Mayor's House": [
+      4619596
+    ],
+    "[Surf Village] Box - South of stable": [
+      4619632
+    ],
+    "[Surf Village] Box - West Fence": [
+      4619650
+    ],
+    "[Surf Village] Box - West of stable": [
+      4619614
+    ],
+    "[Surf Village] NPC - Employer Gift": [
+      4637215
+    ],
+    "[Surf Village] NPC - Mayor Gift": [
+      4634916
+    ],
+    "[Sweet Candy] Boss - Zed 1": [
+      32599217,
+      85801457
+    ],
+    "[Sweet Candy] NPC - Bartholomew's Gift": [
+      32588934,
+      85791174
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 1": [
+      32588814,
+      85791054
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 2": [
+      32588844,
+      85791084
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 3": [
+      32588874,
+      85791114
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 4": [
+      32588904,
+      85791144
+    ],
+    "[Sweet Candy] Rune - Thunder Rune": [
+      32602534,
+      85804774
+    ],
+    "[Tarjon Village] Barrel - East of Entrance": [
+      13486488
+    ],
+    "[Tarjon Village] Barrel - East of North-East House": [
+      13486542
+    ],
+    "[Tarjon Village] Barrel - Inside Emiko's House, First Floor": [
+      13486578
+    ],
+    "[Tarjon Village] Barrel - Inside South-West House": [
+      13486524
+    ],
+    "[Tarjon Village] Barrel - South of Emiko's House": [
+      13486506
+    ],
+    "[Tarjon Village] Barrel - South of North-West House": [
+      13486560
+    ],
+    "[The Abyss] Chest - Amulet": [
+      51000800
+    ],
+    "[The Abyss] Chest - Dead Heat": [
+      51000424
+    ],
+    "[The Abyss] Chest - Power Boost": [
+      51001124
+    ],
+    "[The Abyss] Chest - Ruby Tiara": [
+      51000460
+    ],
+    "[The Abyss] Chest - Texas Number": [
+      51000442
+    ],
+    "[Tripillar] Chest - Bullet Clip": [
+      36679098
+    ],
+    "[Tripillar] Chest - Magic Carrot": [
+      36679080
+    ],
+    "[Tripillar] Chest - Potion Berry 1": [
+      36679026
+    ],
+    "[Tripillar] Chest - Potion Berry 2": [
+      36679044
+    ],
+    "[Tripillar] Chest - Potion Berry 3": [
+      36679008
+    ],
+    "[Tripillar] Chest - Potion Berry 4": [
+      36678954
+    ],
+    "[Tripillar] Chest - Potion Berry 5": [
+      36678990
+    ],
+    "[Tripillar] Chest - Potion Berry 6": [
+      36678972
+    ],
+    "[Tripillar] Chest - Secret Sign": [
+      36679062
+    ],
+    "[Vassim's Lab] Barrel - Duplicator": [
+      14167340
+    ],
+    "[Vassim's Lab] Barrel - Hyper Gear": [
+      14167358
+    ],
+    "[Vassim's Lab] Barrel - Magic Carrot": [
+      14167376
+    ],
+    "[Vassim's Lab] Barrel - Mega Berry": [
+      14167322
+    ],
+    "[Vassim's Lab] Big Box - Secret Tool": [
+      14167412
+    ],
+    "[Volcannon Trap] ARM - Rocket Launcher": [
+      36004870,
+      87842950
+    ],
+    "[Volcannon Trap] Chest - 1800 gella": [
+      35995280,
+      87833360
+    ],
+    "[Volcannon Trap] Chest - 971 gella": [
+      35996018,
+      87834098
+    ],
+    "[Volcannon Trap] Chest - Bullet Clip": [
+      35995298,
+      87833378
+    ],
+    "[Volcannon Trap] Chest - Crest Graph": [
+      35995370,
+      87833450
+    ],
+    "[Volcannon Trap] Chest - Lucky Card": [
+      35995352,
+      87833432
+    ],
+    "[Volcannon Trap] Chest - Magic Carrot": [
+      35996036,
+      87834116
+    ],
+    "[Volcannon Trap] Chest - Potion Berry 1": [
+      35996000,
+      87834080
+    ],
+    "[Volcannon Trap] Chest - Potion Berry 2": [
+      35996090,
+      87834170
+    ],
+    "[Volcannon Trap] Chest - Revive Fruit": [
+      35996072,
+      87834152
+    ],
+    "[Volcannon Trap] Chest - Secret Sign": [
+      35995316,
+      87833396
+    ],
+    "[Volcannon Trap] Chest - Silver Harp": [
+      35996054,
+      87834134
+    ],
+    "[Wandering Isle] Chest - Crest Graph": [
+      40768228
+    ],
+    "[Wandering Isle] Chest - Magic Carrot": [
+      40768192
+    ],
+    "[Wandering Isle] Chest - Red Jacket": [
+      40768282
+    ],
+    "[Wandering Isle] Chest - Sioux Poncho": [
+      40768246
+    ]
+  }
+}

@@ -1,0 +1,8974 @@
+{
+  "base_version": "97139633d5cdf296d380f72f03e88eaecf89da1bd3b49c88a45481be687dcac8",
+  "buffers": {
+    "[Adlehyde Castle] Chest - Council Room 1": [
+      {
+        "map_number": 28,
+        "var1": 22357770
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 10": [
+      {
+        "map_number": 28,
+        "var1": 22358272
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 2": [
+      {
+        "map_number": 28,
+        "var1": 22357792
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 3": [
+      {
+        "map_number": 28,
+        "var1": 22357814
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 4": [
+      {
+        "map_number": 28,
+        "var1": 22358140
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 5": [
+      {
+        "map_number": 28,
+        "var1": 22358162
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 6": [
+      {
+        "map_number": 28,
+        "var1": 22358184
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 7": [
+      {
+        "map_number": 28,
+        "var1": 22358206
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 8": [
+      {
+        "map_number": 28,
+        "var1": 22358228
+      }
+    ],
+    "[Adlehyde Castle] Chest - Council Room 9": [
+      {
+        "map_number": 28,
+        "var1": 22358250
+      }
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Bottom-Left": [
+      {
+        "map_number": 6,
+        "var1": 7351814
+      },
+      {
+        "map_number": 116,
+        "var1": 82380614
+      },
+      {
+        "map_number": 28,
+        "var1": 22357726
+      }
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Bottom-Right": [
+      {
+        "map_number": 6,
+        "var1": 7351836
+      },
+      {
+        "map_number": 116,
+        "var1": 82380636
+      },
+      {
+        "map_number": 28,
+        "var1": 22357748
+      }
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Middle": [
+      {
+        "map_number": 6,
+        "var1": 7351704
+      },
+      {
+        "map_number": 116,
+        "var1": 82380504
+      },
+      {
+        "map_number": 28,
+        "var1": 22357616
+      }
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Top-Left": [
+      {
+        "map_number": 6,
+        "var1": 7353037
+      },
+      {
+        "map_number": 116,
+        "var1": 82381837
+      },
+      {
+        "map_number": 28,
+        "var1": 22358949
+      }
+    ],
+    "[Adlehyde Castle] Chest - Duplicator Room Top-Right": [
+      {
+        "map_number": 6,
+        "var1": 7351792
+      },
+      {
+        "map_number": 116,
+        "var1": 82380592
+      },
+      {
+        "map_number": 28,
+        "var1": 22357704
+      }
+    ],
+    "[Adlehyde Castle] Chest - East Wing, Outside Near Water": [
+      {
+        "map_number": 6,
+        "var1": 7351748
+      },
+      {
+        "map_number": 116,
+        "var1": 82380548
+      },
+      {
+        "map_number": 28,
+        "var1": 22357660
+      }
+    ],
+    "[Adlehyde Castle] Chest - East Wing, Outside On Wall": [
+      {
+        "map_number": 6,
+        "var1": 7351770
+      },
+      {
+        "map_number": 116,
+        "var1": 82380570
+      },
+      {
+        "map_number": 28,
+        "var1": 22357682
+      }
+    ],
+    "[Adlehyde Castle] Chest - South of Kitchen": [
+      {
+        "map_number": 6,
+        "var1": 7351726
+      },
+      {
+        "map_number": 116,
+        "var1": 82380526
+      },
+      {
+        "map_number": 28,
+        "var1": 22357638
+      }
+    ],
+    "[Adlehyde Festival] Barrel - East Stalls": [
+      {
+        "map_number": 5,
+        "var1": 6668949
+      }
+    ],
+    "[Adlehyde Festival] Barrel - South Stalls": [
+      {
+        "map_number": 5,
+        "var1": 6668819
+      }
+    ],
+    "[Adlehyde Festival] Barrel - West Stalls": [
+      {
+        "map_number": 5,
+        "var1": 6668961
+      }
+    ],
+    "[Adlehyde] Barrel - 7-Shape House": [
+      {
+        "map_number": 4,
+        "var1": 5989091
+      },
+      {
+        "map_number": 30,
+        "var1": 23722893
+      },
+      {
+        "map_number": 31,
+        "var1": 24404973
+      },
+      {
+        "map_number": 32,
+        "var1": 25087053
+      },
+      {
+        "map_number": 33,
+        "var1": 25769133
+      },
+      {
+        "map_number": 27,
+        "var1": 21677842
+      },
+      {
+        "map_number": 29,
+        "var1": 23042002
+      },
+      {
+        "map_number": 117,
+        "var1": 83065042
+      }
+    ],
+    "[Adlehyde] Barrel - Engineer Tom's Shop": [
+      {
+        "map_number": 4,
+        "var1": 5989043
+      },
+      {
+        "map_number": 30,
+        "var1": 23722845
+      },
+      {
+        "map_number": 31,
+        "var1": 24404925
+      },
+      {
+        "map_number": 32,
+        "var1": 25087005
+      },
+      {
+        "map_number": 33,
+        "var1": 25769085
+      },
+      {
+        "map_number": 27,
+        "var1": 21677794
+      },
+      {
+        "map_number": 29,
+        "var1": 23041954
+      },
+      {
+        "map_number": 117,
+        "var1": 83064994
+      }
+    ],
+    "[Adlehyde] Barrel - Inn, Bottom Floor": [
+      {
+        "map_number": 4,
+        "var1": 5989055
+      },
+      {
+        "map_number": 30,
+        "var1": 23722857
+      },
+      {
+        "map_number": 31,
+        "var1": 24404937
+      },
+      {
+        "map_number": 32,
+        "var1": 25087017
+      },
+      {
+        "map_number": 33,
+        "var1": 25769097
+      },
+      {
+        "map_number": 27,
+        "var1": 21677806
+      },
+      {
+        "map_number": 29,
+        "var1": 23041966
+      },
+      {
+        "map_number": 117,
+        "var1": 83065006
+      }
+    ],
+    "[Adlehyde] Barrel - Mayor's House": [
+      {
+        "map_number": 4,
+        "var1": 5989079
+      },
+      {
+        "map_number": 30,
+        "var1": 23722881
+      },
+      {
+        "map_number": 31,
+        "var1": 24404961
+      },
+      {
+        "map_number": 32,
+        "var1": 25087041
+      },
+      {
+        "map_number": 33,
+        "var1": 25769121
+      },
+      {
+        "map_number": 27,
+        "var1": 21677830
+      },
+      {
+        "map_number": 29,
+        "var1": 23041990
+      },
+      {
+        "map_number": 117,
+        "var1": 83065030
+      }
+    ],
+    "[Adlehyde] Barrel - Secret Tunnel Shed": [
+      {
+        "map_number": 4,
+        "var1": 5989067
+      },
+      {
+        "map_number": 30,
+        "var1": 23722869
+      },
+      {
+        "map_number": 31,
+        "var1": 24404949
+      },
+      {
+        "map_number": 32,
+        "var1": 25087029
+      },
+      {
+        "map_number": 33,
+        "var1": 25769109
+      },
+      {
+        "map_number": 27,
+        "var1": 21677818
+      },
+      {
+        "map_number": 29,
+        "var1": 23041978
+      },
+      {
+        "map_number": 117,
+        "var1": 83065018
+      }
+    ],
+    "[Adlehyde] Big Box - Left Storage, Left": [
+      {
+        "map_number": 4,
+        "var1": 5989837
+      },
+      {
+        "map_number": 30,
+        "var1": 23723640
+      },
+      {
+        "map_number": 31,
+        "var1": 24405720
+      },
+      {
+        "map_number": 32,
+        "var1": 25087800
+      },
+      {
+        "map_number": 33,
+        "var1": 25769880
+      },
+      {
+        "map_number": 27,
+        "var1": 21678893
+      },
+      {
+        "map_number": 29,
+        "var1": 23043053
+      },
+      {
+        "map_number": 117,
+        "var1": 83066093
+      }
+    ],
+    "[Adlehyde] Big Box - Left Storage, Right": [
+      {
+        "map_number": 4,
+        "var1": 5988975
+      },
+      {
+        "map_number": 30,
+        "var1": 23722777
+      },
+      {
+        "map_number": 31,
+        "var1": 24404857
+      },
+      {
+        "map_number": 32,
+        "var1": 25086937
+      },
+      {
+        "map_number": 33,
+        "var1": 25769017
+      },
+      {
+        "map_number": 27,
+        "var1": 21677726
+      },
+      {
+        "map_number": 29,
+        "var1": 23041886
+      },
+      {
+        "map_number": 117,
+        "var1": 83064926
+      }
+    ],
+    "[Adlehyde] Big Box - West of Chapel": [
+      {
+        "map_number": 4,
+        "var1": 5988987
+      },
+      {
+        "map_number": 30,
+        "var1": 23722789
+      },
+      {
+        "map_number": 31,
+        "var1": 24404869
+      },
+      {
+        "map_number": 32,
+        "var1": 25086949
+      },
+      {
+        "map_number": 33,
+        "var1": 25769029
+      },
+      {
+        "map_number": 27,
+        "var1": 21677738
+      },
+      {
+        "map_number": 29,
+        "var1": 23041898
+      },
+      {
+        "map_number": 117,
+        "var1": 83064938
+      }
+    ],
+    "[Adlehyde] Boss - Belselk 1": [
+      {
+        "map_number": 27,
+        "var1": 21699038
+      },
+      {
+        "map_number": 29,
+        "var1": 23063198
+      },
+      {
+        "map_number": 117,
+        "var1": 83086238
+      }
+    ],
+    "[Adlehyde] Box - Right Storage, Left": [
+      {
+        "map_number": 4,
+        "var1": 5989103
+      },
+      {
+        "map_number": 30,
+        "var1": 23722905
+      },
+      {
+        "map_number": 31,
+        "var1": 24404985
+      },
+      {
+        "map_number": 32,
+        "var1": 25087065
+      },
+      {
+        "map_number": 33,
+        "var1": 25769145
+      },
+      {
+        "map_number": 27,
+        "var1": 21677854
+      },
+      {
+        "map_number": 29,
+        "var1": 23042014
+      },
+      {
+        "map_number": 117,
+        "var1": 83065054
+      }
+    ],
+    "[Adlehyde] Box - Right Storage, Right": [
+      {
+        "map_number": 4,
+        "var1": 5989115
+      },
+      {
+        "map_number": 30,
+        "var1": 23722917
+      },
+      {
+        "map_number": 31,
+        "var1": 24404997
+      },
+      {
+        "map_number": 32,
+        "var1": 25087077
+      },
+      {
+        "map_number": 33,
+        "var1": 25769157
+      },
+      {
+        "map_number": 27,
+        "var1": 21677866
+      },
+      {
+        "map_number": 29,
+        "var1": 23042026
+      },
+      {
+        "map_number": 117,
+        "var1": 83065066
+      }
+    ],
+    "[Adlehyde] Chest - Behind Trees": [
+      {
+        "map_number": 4,
+        "var1": 5989009
+      },
+      {
+        "map_number": 30,
+        "var1": 23722811
+      },
+      {
+        "map_number": 31,
+        "var1": 24404891
+      },
+      {
+        "map_number": 32,
+        "var1": 25086971
+      },
+      {
+        "map_number": 33,
+        "var1": 25769051
+      },
+      {
+        "map_number": 27,
+        "var1": 21677760
+      },
+      {
+        "map_number": 29,
+        "var1": 23041920
+      },
+      {
+        "map_number": 117,
+        "var1": 83064960
+      }
+    ],
+    "[Adlehyde] Chest - Secret Tunnel Shed": [
+      {
+        "map_number": 4,
+        "var1": 5989031
+      },
+      {
+        "map_number": 30,
+        "var1": 23722833
+      },
+      {
+        "map_number": 31,
+        "var1": 24404913
+      },
+      {
+        "map_number": 32,
+        "var1": 25086993
+      },
+      {
+        "map_number": 33,
+        "var1": 25769073
+      },
+      {
+        "map_number": 27,
+        "var1": 21677782
+      },
+      {
+        "map_number": 29,
+        "var1": 23041942
+      },
+      {
+        "map_number": 117,
+        "var1": 83064982
+      }
+    ],
+    "[Adlehyde] NPC - 1,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736824
+      },
+      {
+        "map_number": 31,
+        "var1": 24418904
+      },
+      {
+        "map_number": 32,
+        "var1": 25100984
+      },
+      {
+        "map_number": 33,
+        "var1": 25783064
+      }
+    ],
+    "[Adlehyde] NPC - 10,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736518
+      },
+      {
+        "map_number": 31,
+        "var1": 24418598
+      },
+      {
+        "map_number": 32,
+        "var1": 25100678
+      },
+      {
+        "map_number": 33,
+        "var1": 25782758
+      }
+    ],
+    "[Adlehyde] NPC - 100,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23735851
+      },
+      {
+        "map_number": 31,
+        "var1": 24417931
+      },
+      {
+        "map_number": 32,
+        "var1": 25100011
+      },
+      {
+        "map_number": 33,
+        "var1": 25782091
+      }
+    ],
+    "[Adlehyde] NPC - 2,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736743
+      },
+      {
+        "map_number": 31,
+        "var1": 24418823
+      },
+      {
+        "map_number": 32,
+        "var1": 25100903
+      },
+      {
+        "map_number": 33,
+        "var1": 25782983
+      }
+    ],
+    "[Adlehyde] NPC - 20,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736431
+      },
+      {
+        "map_number": 31,
+        "var1": 24418511
+      },
+      {
+        "map_number": 32,
+        "var1": 25100591
+      },
+      {
+        "map_number": 33,
+        "var1": 25782671
+      }
+    ],
+    "[Adlehyde] NPC - 3,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736664
+      },
+      {
+        "map_number": 31,
+        "var1": 24418744
+      },
+      {
+        "map_number": 32,
+        "var1": 25100824
+      },
+      {
+        "map_number": 33,
+        "var1": 25782904
+      }
+    ],
+    "[Adlehyde] NPC - 30,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736046
+      },
+      {
+        "map_number": 31,
+        "var1": 24418126
+      },
+      {
+        "map_number": 32,
+        "var1": 25100206
+      },
+      {
+        "map_number": 33,
+        "var1": 25782286
+      }
+    ],
+    "[Adlehyde] NPC - 5,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736604
+      },
+      {
+        "map_number": 31,
+        "var1": 24418684
+      },
+      {
+        "map_number": 32,
+        "var1": 25100764
+      },
+      {
+        "map_number": 33,
+        "var1": 25782844
+      }
+    ],
+    "[Adlehyde] NPC - 50,000 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23735967
+      },
+      {
+        "map_number": 31,
+        "var1": 24418047
+      },
+      {
+        "map_number": 32,
+        "var1": 25100127
+      },
+      {
+        "map_number": 33,
+        "var1": 25782207
+      }
+    ],
+    "[Adlehyde] NPC - 500 Gella Donation": [
+      {
+        "map_number": 30,
+        "var1": 23736908
+      },
+      {
+        "map_number": 31,
+        "var1": 24418988
+      },
+      {
+        "map_number": 32,
+        "var1": 25101068
+      },
+      {
+        "map_number": 33,
+        "var1": 25783148
+      }
+    ],
+    "[Ancient Arena] Barrel - Inn, Near Beds": [
+      {
+        "map_number": 17,
+        "var1": 14854935
+      }
+    ],
+    "[Ancient Arena] Barrel - Inn, Top-Right": [
+      {
+        "map_number": 17,
+        "var1": 14854783
+      }
+    ],
+    "[Ancient Arena] Barrel - Near Bar": [
+      {
+        "map_number": 17,
+        "var1": 14853928
+      }
+    ],
+    "[Ancient Arena] Chest - Duplicator Door, Left": [
+      {
+        "map_number": 17,
+        "var1": 14854923
+      }
+    ],
+    "[Ancient Arena] Chest - Duplicator Door, Middle": [
+      {
+        "map_number": 17,
+        "var1": 14853894
+      }
+    ],
+    "[Ancient Arena] Chest - Duplicator Door, Right": [
+      {
+        "map_number": 17,
+        "var1": 14853916
+      }
+    ],
+    "[Arctica Castle] ARM - Wild Bunch": [
+      {
+        "map_number": 64,
+        "var1": 46918552
+      },
+      {
+        "map_number": 123,
+        "var1": 87161272
+      }
+    ],
+    "[Arctica Castle] Chest - Boom Getter": [
+      {
+        "map_number": 64,
+        "var1": 46911804
+      },
+      {
+        "map_number": 123,
+        "var1": 87154524
+      }
+    ],
+    "[Arctica Castle] Chest - Full Revive 1": [
+      {
+        "map_number": 64,
+        "var1": 46911738
+      },
+      {
+        "map_number": 123,
+        "var1": 87154458
+      }
+    ],
+    "[Arctica Castle] Chest - Full Revive 2": [
+      {
+        "map_number": 64,
+        "var1": 46911716
+      },
+      {
+        "map_number": 123,
+        "var1": 87154436
+      }
+    ],
+    "[Arctica Castle] Chest - Lucky Card": [
+      {
+        "map_number": 64,
+        "var1": 46911892
+      },
+      {
+        "map_number": 123,
+        "var1": 87154612
+      }
+    ],
+    "[Arctica Castle] Chest - Mega Berry 1": [
+      {
+        "map_number": 64,
+        "var1": 46911760
+      },
+      {
+        "map_number": 123,
+        "var1": 87154480
+      }
+    ],
+    "[Arctica Castle] Chest - Mega Berry 2": [
+      {
+        "map_number": 64,
+        "var1": 46911782
+      },
+      {
+        "map_number": 123,
+        "var1": 87154502
+      }
+    ],
+    "[Arctica Castle] Chest - Nectar": [
+      {
+        "map_number": 64,
+        "var1": 46911826
+      },
+      {
+        "map_number": 123,
+        "var1": 87154546
+      }
+    ],
+    "[Arctica Castle] Chest - Secret Sign 1": [
+      {
+        "map_number": 64,
+        "var1": 46911848
+      },
+      {
+        "map_number": 123,
+        "var1": 87154568
+      }
+    ],
+    "[Arctica Castle] Chest - Secret Sign 2": [
+      {
+        "map_number": 64,
+        "var1": 46913027
+      },
+      {
+        "map_number": 123,
+        "var1": 87155747
+      }
+    ],
+    "[Arctica Castle] Chest - Secret Sign 3": [
+      {
+        "map_number": 64,
+        "var1": 46911694
+      },
+      {
+        "map_number": 123,
+        "var1": 87154414
+      }
+    ],
+    "[Arctica Castle] Chest - Secret Sign 4": [
+      {
+        "map_number": 64,
+        "var1": 46911870
+      },
+      {
+        "map_number": 123,
+        "var1": 87154590
+      }
+    ],
+    "[Baskar Village] Barrel - Inside North-West House": [
+      {
+        "map_number": 8,
+        "var1": 8713492
+      }
+    ],
+    "[Baskar Village] Barrel - Outside Chief's House": [
+      {
+        "map_number": 8,
+        "var1": 8714825
+      }
+    ],
+    "[Baskar Village] Barrel - Outside Item Shop, West": [
+      {
+        "map_number": 8,
+        "var1": 8714683
+      }
+    ],
+    "[Baskar Village] Barrel - Outside North-East House, West": [
+      {
+        "map_number": 8,
+        "var1": 8714813
+      }
+    ],
+    "[Baskar Village] Barrel - West Tent": [
+      {
+        "map_number": 8,
+        "var1": 8713480
+      }
+    ],
+    "[Baskar Village] Box - North of Fenced Crops": [
+      {
+        "map_number": 8,
+        "var1": 8713528
+      }
+    ],
+    "[Baskar Village] Box - Outside Item Shop, East": [
+      {
+        "map_number": 8,
+        "var1": 8713504
+      }
+    ],
+    "[Baskar Village] Box - Outside North-East House, East": [
+      {
+        "map_number": 8,
+        "var1": 8713516
+      }
+    ],
+    "[Baskar Village] NPC - Chief Gift": [
+      {
+        "map_number": 8,
+        "var1": 8717464
+      }
+    ],
+    "[Baskar Village] Rune - Hope Rune": [
+      {
+        "map_number": 8,
+        "var1": 8731933
+      }
+    ],
+    "[Berry Cave] Big Box - After Bomb Wall, West": [
+      {
+        "map_number": 35,
+        "var1": 27131482
+      },
+      {
+        "map_number": 118,
+        "var1": 83744122
+      }
+    ],
+    "[Berry Cave] Big Box - Before Bomb Wall": [
+      {
+        "map_number": 35,
+        "var1": 27131470
+      },
+      {
+        "map_number": 118,
+        "var1": 83744110
+      }
+    ],
+    "[Berry Cave] Big Box - Near Entrance": [
+      {
+        "map_number": 35,
+        "var1": 27131340
+      },
+      {
+        "map_number": 118,
+        "var1": 83743980
+      }
+    ],
+    "[Berry Cave] Boss - Zombie": [
+      {
+        "map_number": 35,
+        "var1": 27144475
+      },
+      {
+        "map_number": 118,
+        "var1": 83757115
+      }
+    ],
+    "[Berry Cave] Chest - After Bomb Wall, East": [
+      {
+        "map_number": 35,
+        "var1": 27130627
+      },
+      {
+        "map_number": 118,
+        "var1": 83743267
+      }
+    ],
+    "[Berry Cave] Chest - East of 5 Boxes": [
+      {
+        "map_number": 35,
+        "var1": 27130517
+      },
+      {
+        "map_number": 118,
+        "var1": 83743157
+      }
+    ],
+    "[Berry Cave] Chest - East of Bat Bridge": [
+      {
+        "map_number": 35,
+        "var1": 27130605
+      },
+      {
+        "map_number": 118,
+        "var1": 83743245
+      }
+    ],
+    "[Berry Cave] Chest - Holy Berry Room": [
+      {
+        "map_number": 35,
+        "var1": 27130583
+      },
+      {
+        "map_number": 118,
+        "var1": 83743223
+      }
+    ],
+    "[Berry Cave] Chest - Inside Bomb Wall, Left": [
+      {
+        "map_number": 35,
+        "var1": 27130473
+      },
+      {
+        "map_number": 118,
+        "var1": 83743113
+      }
+    ],
+    "[Berry Cave] Chest - Inside Bomb Wall, Middle": [
+      {
+        "map_number": 35,
+        "var1": 27130451
+      },
+      {
+        "map_number": 118,
+        "var1": 83743091
+      }
+    ],
+    "[Berry Cave] Chest - Inside Bomb Wall, Right": [
+      {
+        "map_number": 35,
+        "var1": 27130495
+      },
+      {
+        "map_number": 118,
+        "var1": 83743135
+      }
+    ],
+    "[Berry Cave] Chest - Near Save Point": [
+      {
+        "map_number": 35,
+        "var1": 27130561
+      },
+      {
+        "map_number": 118,
+        "var1": 83743201
+      }
+    ],
+    "[Berry Cave] Chest - South of Bat Bridge": [
+      {
+        "map_number": 35,
+        "var1": 27130539
+      },
+      {
+        "map_number": 118,
+        "var1": 83743179
+      }
+    ],
+    "[Berry Cave] Chest - South of Bombable Sign": [
+      {
+        "map_number": 35,
+        "var1": 27130649
+      },
+      {
+        "map_number": 118,
+        "var1": 83743289
+      }
+    ],
+    "[Berry Cave] Pickup - Holy Berry": [
+      {
+        "map_number": 35,
+        "var1": 27142234
+      },
+      {
+        "map_number": 118,
+        "var1": 83754874
+      }
+    ],
+    "[Cage Tower] ARM - 4th Floor, Middle": [
+      {
+        "map_number": 44,
+        "var1": 33279150
+      },
+      {
+        "map_number": 122,
+        "var1": 86481390
+      }
+    ],
+    "[Cage Tower] Chest - 11th Floor, Left": [
+      {
+        "map_number": 44,
+        "var1": 33270256
+      },
+      {
+        "map_number": 122,
+        "var1": 86472496
+      }
+    ],
+    "[Cage Tower] Chest - 11th Floor, Middle": [
+      {
+        "map_number": 44,
+        "var1": 33270278
+      },
+      {
+        "map_number": 122,
+        "var1": 86472518
+      }
+    ],
+    "[Cage Tower] Chest - 11th Floor, Right": [
+      {
+        "map_number": 44,
+        "var1": 33270300
+      },
+      {
+        "map_number": 122,
+        "var1": 86472540
+      }
+    ],
+    "[Cage Tower] Chest - 2nd Floor": [
+      {
+        "map_number": 44,
+        "var1": 33270234
+      },
+      {
+        "map_number": 122,
+        "var1": 86472474
+      }
+    ],
+    "[Cage Tower] Chest - 4th Floor, Left": [
+      {
+        "map_number": 44,
+        "var1": 33271545
+      },
+      {
+        "map_number": 122,
+        "var1": 86473785
+      }
+    ],
+    "[Cage Tower] Chest - 4th Floor, Right": [
+      {
+        "map_number": 44,
+        "var1": 33270212
+      },
+      {
+        "map_number": 122,
+        "var1": 86472452
+      }
+    ],
+    "[Court Seim] Barrel - Agile Apple": [
+      {
+        "map_number": 14,
+        "var1": 12807083
+      }
+    ],
+    "[Court Seim] Barrel - Crest Graph": [
+      {
+        "map_number": 14,
+        "var1": 12807945
+      }
+    ],
+    "[Court Seim] Barrel - Hardy Apple": [
+      {
+        "map_number": 14,
+        "var1": 12807107
+      }
+    ],
+    "[Court Seim] Barrel - Mystic Apple": [
+      {
+        "map_number": 14,
+        "var1": 12807095
+      }
+    ],
+    "[Court Seim] Barrel - Power Apple": [
+      {
+        "map_number": 14,
+        "var1": 12807119
+      }
+    ],
+    "[Curan Abbey] Barrel - Dormitory": [
+      {
+        "map_number": 3,
+        "var1": 5308568
+      },
+      {
+        "map_number": 20,
+        "var1": 16903367
+      }
+    ],
+    "[Curan Abbey] Barrel - Kitchen": [
+      {
+        "map_number": 3,
+        "var1": 5308580
+      },
+      {
+        "map_number": 20,
+        "var1": 16903379
+      }
+    ],
+    "[Curan Abbey] Barrel - Magic Vendor": [
+      {
+        "map_number": 3,
+        "var1": 5308134
+      },
+      {
+        "map_number": 20,
+        "var1": 16903237
+      }
+    ],
+    "[Curan Abbey] NPC - Magic Teacher Gift": [
+      {
+        "map_number": 3,
+        "var1": 5323085
+      },
+      {
+        "map_number": 20,
+        "var1": 16920486
+      }
+    ],
+    "[Dead Sanctuary] Chest - Crest Graph": [
+      {
+        "map_number": 56,
+        "var1": 41455584
+      }
+    ],
+    "[Dead Sanctuary] Chest - Elder Scroll": [
+      {
+        "map_number": 56,
+        "var1": 41455606
+      }
+    ],
+    "[Dead Sanctuary] Chest - Lunar Rod": [
+      {
+        "map_number": 56,
+        "var1": 41455672
+      }
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 1": [
+      {
+        "map_number": 56,
+        "var1": 41455540
+      }
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 2": [
+      {
+        "map_number": 56,
+        "var1": 41455562
+      }
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 3": [
+      {
+        "map_number": 56,
+        "var1": 41455628
+      }
+    ],
+    "[Dead Sanctuary] Chest - Mystic Apple 4": [
+      {
+        "map_number": 56,
+        "var1": 41455650
+      }
+    ],
+    "[Dead Sanctuary] Chest - Wise Slate": [
+      {
+        "map_number": 56,
+        "var1": 41456873
+      }
+    ],
+    "[Demon's Lab] ARM - Bazooka": [
+      {
+        "map_number": 57,
+        "var1": 42147986
+      }
+    ],
+    "[Demon's Lab] Chest - Bullet Clip 1": [
+      {
+        "map_number": 57,
+        "var1": 42137998
+      }
+    ],
+    "[Demon's Lab] Chest - Bullet Clip 2": [
+      {
+        "map_number": 57,
+        "var1": 42138020
+      }
+    ],
+    "[Demon's Lab] Chest - Energy Saber": [
+      {
+        "map_number": 57,
+        "var1": 42137932
+      }
+    ],
+    "[Demon's Lab] Chest - Mega Berry": [
+      {
+        "map_number": 57,
+        "var1": 42137954
+      }
+    ],
+    "[Demon's Lab] Chest - Potion Berry 1": [
+      {
+        "map_number": 57,
+        "var1": 42137910
+      }
+    ],
+    "[Demon's Lab] Chest - Potion Berry 2": [
+      {
+        "map_number": 57,
+        "var1": 42139221
+      }
+    ],
+    "[Demon's Lab] Chest - Potion Berry 3": [
+      {
+        "map_number": 57,
+        "var1": 42137888
+      }
+    ],
+    "[Demon's Lab] Chest - Revive Fruit": [
+      {
+        "map_number": 57,
+        "var1": 42137976
+      }
+    ],
+    "[Dragon Shrine] Chest - Crest Graph 1": [
+      {
+        "map_number": 54,
+        "var1": 40090443
+      }
+    ],
+    "[Dragon Shrine] Chest - Crest Graph 2": [
+      {
+        "map_number": 54,
+        "var1": 40090465
+      }
+    ],
+    "[Dragon Shrine] Chest - Crest Graph 3": [
+      {
+        "map_number": 54,
+        "var1": 40090487
+      }
+    ],
+    "[Dragon Shrine] Chest - Duplicator": [
+      {
+        "map_number": 54,
+        "var1": 40090421
+      }
+    ],
+    "[Dragon Shrine] Chest - Lucky Card": [
+      {
+        "map_number": 54,
+        "var1": 40090399
+      }
+    ],
+    "[Dragon Shrine] Chest - Magic Carrot": [
+      {
+        "map_number": 54,
+        "var1": 40091428
+      }
+    ],
+    "[Dragon Shrine] Chest - Magic Vase": [
+      {
+        "map_number": 54,
+        "var1": 40094086
+      }
+    ],
+    "[Dragon Shrine] Chest - Shining Cape": [
+      {
+        "map_number": 54,
+        "var1": 40090509
+      }
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Left": [
+      {
+        "map_number": 18,
+        "var1": 15535498
+      }
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Middle": [
+      {
+        "map_number": 18,
+        "var1": 15535520
+      }
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Right": [
+      {
+        "map_number": 18,
+        "var1": 15535542
+      }
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Left": [
+      {
+        "map_number": 18,
+        "var1": 15535432
+      }
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Middle": [
+      {
+        "map_number": 18,
+        "var1": 15535454
+      }
+    ],
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Right": [
+      {
+        "map_number": 18,
+        "var1": 15535476
+      }
+    ],
+    "[Elw Pyramid] Chest - Saint Centour East, West Room, Left": [
+      {
+        "map_number": 18,
+        "var1": 15535388
+      }
+    ],
+    "[Elw Pyramid] Chest - Saint Centour East, West Room, Right": [
+      {
+        "map_number": 18,
+        "var1": 15535410
+      }
+    ],
+    "[Elw Pyramid] Chest - Saint Centour North": [
+      {
+        "map_number": 18,
+        "var1": 15536417
+      }
+    ],
+    "[Epitaph Sea] Chest - Agile Apple": [
+      {
+        "map_number": 51,
+        "var1": 38044641
+      }
+    ],
+    "[Epitaph Sea] Chest - Bullet Clip": [
+      {
+        "map_number": 51,
+        "var1": 38044663
+      }
+    ],
+    "[Epitaph Sea] Chest - Crest Graph": [
+      {
+        "map_number": 51,
+        "var1": 38044707
+      }
+    ],
+    "[Epitaph Sea] Chest - Duplicator": [
+      {
+        "map_number": 51,
+        "var1": 38045560
+      }
+    ],
+    "[Epitaph Sea] Chest - Full Revive": [
+      {
+        "map_number": 51,
+        "var1": 38044597
+      }
+    ],
+    "[Epitaph Sea] Chest - Lucky Card": [
+      {
+        "map_number": 51,
+        "var1": 38044553
+      }
+    ],
+    "[Epitaph Sea] Chest - Magic Carrot": [
+      {
+        "map_number": 51,
+        "var1": 38044575
+      }
+    ],
+    "[Epitaph Sea] Chest - Mystic Apple": [
+      {
+        "map_number": 51,
+        "var1": 38044619
+      }
+    ],
+    "[Epitaph Sea] Chest - Potion Berry": [
+      {
+        "map_number": 51,
+        "var1": 38044751
+      }
+    ],
+    "[Epitaph Sea] Chest - Reflex": [
+      {
+        "map_number": 51,
+        "var1": 38044773
+      }
+    ],
+    "[Epitaph Sea] Chest - Rune Drive": [
+      {
+        "map_number": 51,
+        "var1": 38044729
+      }
+    ],
+    "[Epitaph Sea] Chest - Secret Sign": [
+      {
+        "map_number": 51,
+        "var1": 38044685
+      }
+    ],
+    "[Epitaph Sea] Chest - Talisman": [
+      {
+        "map_number": 51,
+        "var1": 38044531
+      }
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Adlehyde": [
+      {
+        "map_number": 0,
+        "var1": 3259464
+      }
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Mountain Pass": [
+      {
+        "map_number": 0,
+        "var1": 3258479
+      }
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Saint Centour": [
+      {
+        "map_number": 0,
+        "var1": 3258435
+      }
+    ],
+    "[Filgaia] Bottle - Inner Sea Near Tripillar": [
+      {
+        "map_number": 0,
+        "var1": 3258457
+      }
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Baskar": [
+      {
+        "map_number": 0,
+        "var1": 3258523
+      }
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Court Seim": [
+      {
+        "map_number": 0,
+        "var1": 3258501
+      }
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Demon's Lab": [
+      {
+        "map_number": 0,
+        "var1": 3258567
+      }
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Milama": [
+      {
+        "map_number": 0,
+        "var1": 3258589
+      }
+    ],
+    "[Filgaia] Bottle - Outer Sea Near Port Timney": [
+      {
+        "map_number": 0,
+        "var1": 3258545
+      }
+    ],
+    "[Forest Mound] Chest - Crest Graph 1": [
+      {
+        "map_number": 24,
+        "var1": 19627745
+      }
+    ],
+    "[Forest Mound] Chest - Crest Graph 2": [
+      {
+        "map_number": 24,
+        "var1": 19626412
+      }
+    ],
+    "[Forest Mound] Chest - Full Libra": [
+      {
+        "map_number": 24,
+        "var1": 19626434
+      }
+    ],
+    "[Forest Prison] Chest - Crest Graph 1": [
+      {
+        "map_number": 59,
+        "var1": 43502761
+      }
+    ],
+    "[Forest Prison] Chest - Crest Graph 2": [
+      {
+        "map_number": 59,
+        "var1": 43501450
+      }
+    ],
+    "[Forest Prison] Chest - Crest Graph 3": [
+      {
+        "map_number": 59,
+        "var1": 43501472
+      }
+    ],
+    "[Forest Prison] Chest - Crest Graph 4": [
+      {
+        "map_number": 59,
+        "var1": 43501494
+      }
+    ],
+    "[Forest Prison] Chest - Crest Graph 5": [
+      {
+        "map_number": 59,
+        "var1": 43501516
+      }
+    ],
+    "[Forest Prison] Chest - Mirage Coat": [
+      {
+        "map_number": 59,
+        "var1": 43501428
+      }
+    ],
+    "[Forest Prison] Chest - Prairie Coat": [
+      {
+        "map_number": 59,
+        "var1": 43501560
+      }
+    ],
+    "[Forest Prison] Chest - Warrior Vest": [
+      {
+        "map_number": 59,
+        "var1": 43501538
+      }
+    ],
+    "[Forgotten Ruins] Barrel - Bullet Clip": [
+      {
+        "map_number": 110,
+        "var1": 78285407
+      }
+    ],
+    "[Gate Generator] Chest - Bullet Clip 1": [
+      {
+        "map_number": 58,
+        "var1": 42819666
+      },
+      {
+        "map_number": 65,
+        "var1": 47594226
+      }
+    ],
+    "[Gate Generator] Chest - Bullet Clip 2": [
+      {
+        "map_number": 58,
+        "var1": 42819556
+      },
+      {
+        "map_number": 65,
+        "var1": 47594116
+      }
+    ],
+    "[Gate Generator] Chest - Crest Graph": [
+      {
+        "map_number": 58,
+        "var1": 42819600
+      },
+      {
+        "map_number": 65,
+        "var1": 47594160
+      }
+    ],
+    "[Gate Generator] Chest - Force Unit": [
+      {
+        "map_number": 58,
+        "var1": 42819622
+      },
+      {
+        "map_number": 65,
+        "var1": 47594182
+      }
+    ],
+    "[Gate Generator] Chest - Heal Berry": [
+      {
+        "map_number": 58,
+        "var1": 42820889
+      },
+      {
+        "map_number": 65,
+        "var1": 47595449
+      }
+    ],
+    "[Gate Generator] Chest - Magic Carrot 1": [
+      {
+        "map_number": 58,
+        "var1": 42819710
+      },
+      {
+        "map_number": 65,
+        "var1": 47594270
+      }
+    ],
+    "[Gate Generator] Chest - Magic Carrot 2": [
+      {
+        "map_number": 58,
+        "var1": 42819688
+      },
+      {
+        "map_number": 65,
+        "var1": 47594248
+      }
+    ],
+    "[Gate Generator] Chest - Nectar": [
+      {
+        "map_number": 58,
+        "var1": 42819754
+      },
+      {
+        "map_number": 65,
+        "var1": 47594314
+      }
+    ],
+    "[Gate Generator] Chest - Potion Berry 1": [
+      {
+        "map_number": 58,
+        "var1": 42819732
+      },
+      {
+        "map_number": 65,
+        "var1": 47594292
+      }
+    ],
+    "[Gate Generator] Chest - Potion Berry 2": [
+      {
+        "map_number": 58,
+        "var1": 42819644
+      },
+      {
+        "map_number": 65,
+        "var1": 47594204
+      }
+    ],
+    "[Gate Generator] Chest - Secret Sign": [
+      {
+        "map_number": 58,
+        "var1": 42819578
+      },
+      {
+        "map_number": 65,
+        "var1": 47594138
+      }
+    ],
+    "[Gemini's Corpse] ARM - Phaser": [
+      {
+        "map_number": 61,
+        "var1": 44868553
+      },
+      {
+        "map_number": 126,
+        "var1": 89203753
+      }
+    ],
+    "[Gemini's Corpse] Chest - Ambrosia": [
+      {
+        "map_number": 61,
+        "var1": 44865954
+      },
+      {
+        "map_number": 126,
+        "var1": 89201154
+      }
+    ],
+    "[Gemini's Corpse] Chest - Black Pass": [
+      {
+        "map_number": 61,
+        "var1": 44865844
+      },
+      {
+        "map_number": 126,
+        "var1": 89201044
+      }
+    ],
+    "[Gemini's Corpse] Chest - Crest Graph": [
+      {
+        "map_number": 61,
+        "var1": 44867177
+      },
+      {
+        "map_number": 126,
+        "var1": 89202377
+      }
+    ],
+    "[Gemini's Corpse] Chest - Duplicator": [
+      {
+        "map_number": 61,
+        "var1": 44865932
+      },
+      {
+        "map_number": 126,
+        "var1": 89201132
+      }
+    ],
+    "[Gemini's Corpse] Chest - Lucky Card": [
+      {
+        "map_number": 61,
+        "var1": 44865998
+      },
+      {
+        "map_number": 126,
+        "var1": 89201198
+      }
+    ],
+    "[Gemini's Corpse] Chest - Magic Carrot": [
+      {
+        "map_number": 61,
+        "var1": 44865976
+      },
+      {
+        "map_number": 126,
+        "var1": 89201176
+      }
+    ],
+    "[Gemini's Corpse] Chest - Mega Berry": [
+      {
+        "map_number": 61,
+        "var1": 44865866
+      },
+      {
+        "map_number": 126,
+        "var1": 89201066
+      }
+    ],
+    "[Gemini's Corpse] Chest - Pouch": [
+      {
+        "map_number": 61,
+        "var1": 44866020
+      },
+      {
+        "map_number": 126,
+        "var1": 89201220
+      }
+    ],
+    "[Gemini's Corpse] Chest - Power Glove": [
+      {
+        "map_number": 61,
+        "var1": 44868771
+      },
+      {
+        "map_number": 126,
+        "var1": 89203971
+      }
+    ],
+    "[Gemini's Corpse] Chest - Secret Sign 1": [
+      {
+        "map_number": 61,
+        "var1": 44865888
+      },
+      {
+        "map_number": 126,
+        "var1": 89201088
+      }
+    ],
+    "[Gemini's Corpse] Chest - Secret Sign 2": [
+      {
+        "map_number": 61,
+        "var1": 44865910
+      },
+      {
+        "map_number": 126,
+        "var1": 89201110
+      }
+    ],
+    "[Ghost Ship] Boss - Captain Geist": [
+      {
+        "map_number": 47,
+        "var1": 35320216
+      }
+    ],
+    "[Ghost Ship] Chest - Deck, Left": [
+      {
+        "map_number": 47,
+        "var1": 35316548
+      }
+    ],
+    "[Ghost Ship] Chest - Deck, Right": [
+      {
+        "map_number": 47,
+        "var1": 35317881
+      }
+    ],
+    "[Ghost Ship] Chest - Final Path Across Gap": [
+      {
+        "map_number": 47,
+        "var1": 35316658
+      }
+    ],
+    "[Ghost Ship] Chest - Final Path Left": [
+      {
+        "map_number": 47,
+        "var1": 35316570
+      }
+    ],
+    "[Ghost Ship] Chest - Left Path Before Grapple": [
+      {
+        "map_number": 47,
+        "var1": 35316636
+      }
+    ],
+    "[Ghost Ship] Chest - Right Path Before Grapple": [
+      {
+        "map_number": 47,
+        "var1": 35316614
+      }
+    ],
+    "[Ghost Ship] Chest - Right Path Inside Door": [
+      {
+        "map_number": 47,
+        "var1": 35316592
+      }
+    ],
+    "[Giant's Cradle] Chest - Crest Graph 1": [
+      {
+        "map_number": 50,
+        "var1": 37364071
+      }
+    ],
+    "[Giant's Cradle] Chest - Crest Graph 2": [
+      {
+        "map_number": 50,
+        "var1": 37362738
+      }
+    ],
+    "[Giant's Cradle] Chest - Magic Carrot 1": [
+      {
+        "map_number": 50,
+        "var1": 37362804
+      }
+    ],
+    "[Giant's Cradle] Chest - Magic Carrot 2": [
+      {
+        "map_number": 50,
+        "var1": 37362826
+      }
+    ],
+    "[Giant's Cradle] Chest - Potion Berry 1": [
+      {
+        "map_number": 50,
+        "var1": 37362760
+      }
+    ],
+    "[Giant's Cradle] Chest - Potion Berry 2": [
+      {
+        "map_number": 50,
+        "var1": 37362782
+      }
+    ],
+    "[Guardian Shrine] Chest - 1st Room, East": [
+      {
+        "map_number": 40,
+        "var1": 30544520
+      }
+    ],
+    "[Guardian Shrine] Chest - 1st Room, West": [
+      {
+        "map_number": 40,
+        "var1": 30545853
+      }
+    ],
+    "[Guardian Shrine] Chest - Left Path Room": [
+      {
+        "map_number": 40,
+        "var1": 30544542
+      }
+    ],
+    "[Guardian Shrine] Chest - Mystic Apple Room , Right": [
+      {
+        "map_number": 40,
+        "var1": 30544608
+      }
+    ],
+    "[Guardian Shrine] Chest - Mystic Apple Room, Left": [
+      {
+        "map_number": 40,
+        "var1": 30544586
+      }
+    ],
+    "[Guardian Shrine] Chest - Mystic Apple Room, Middle": [
+      {
+        "map_number": 40,
+        "var1": 30544630
+      }
+    ],
+    "[Guardian Shrine] Chest - Right Path Room": [
+      {
+        "map_number": 40,
+        "var1": 30544564
+      }
+    ],
+    "[Guardian Shrine] Force - Summon Guardian Cecilia": [
+      {
+        "map_number": 79,
+        "var1": 57141523
+      }
+    ],
+    "[Guardian Shrine] Force - Summon Guardian Jack": [
+      {
+        "map_number": 79,
+        "var1": 57141493
+      }
+    ],
+    "[Guardian Shrine] Force - Summon Guardian Rudy": [
+      {
+        "map_number": 79,
+        "var1": 57141463
+      }
+    ],
+    "[Guardian Shrine] Rune - Earth Rune": [
+      {
+        "map_number": 79,
+        "var1": 57141553
+      }
+    ],
+    "[Guardian Shrine] Rune - Fire Rune": [
+      {
+        "map_number": 79,
+        "var1": 57141887
+      }
+    ],
+    "[Guardian Shrine] Rune - Wind Rune": [
+      {
+        "map_number": 79,
+        "var1": 57141917
+      }
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 1": [
+      {
+        "map_number": 62,
+        "var1": 45549107
+      }
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 2": [
+      {
+        "map_number": 62,
+        "var1": 45547774
+      }
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 3": [
+      {
+        "map_number": 62,
+        "var1": 45547840
+      }
+    ],
+    "[Heaven Corridor] Chest - Crest Graph 4": [
+      {
+        "map_number": 62,
+        "var1": 45547862
+      }
+    ],
+    "[Heaven Corridor] Chest - Magic Carrot": [
+      {
+        "map_number": 62,
+        "var1": 45547818
+      }
+    ],
+    "[Heaven Corridor] Chest - Nectar": [
+      {
+        "map_number": 62,
+        "var1": 45547796
+      }
+    ],
+    "[Ka Dingel] Chest - Ambrosia 1": [
+      {
+        "map_number": 66,
+        "var1": 48278630
+      }
+    ],
+    "[Ka Dingel] Chest - Ambrosia 2": [
+      {
+        "map_number": 66,
+        "var1": 48279589
+      }
+    ],
+    "[Ka Dingel] Chest - Full Revive 1": [
+      {
+        "map_number": 66,
+        "var1": 48278344
+      }
+    ],
+    "[Ka Dingel] Chest - Full Revive 2": [
+      {
+        "map_number": 66,
+        "var1": 48278366
+      }
+    ],
+    "[Ka Dingel] Chest - Full Revive 3": [
+      {
+        "map_number": 66,
+        "var1": 48278586
+      }
+    ],
+    "[Ka Dingel] Chest - Full Revive 4": [
+      {
+        "map_number": 66,
+        "var1": 48278542
+      }
+    ],
+    "[Ka Dingel] Chest - Lucky Card": [
+      {
+        "map_number": 66,
+        "var1": 48278410
+      }
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 1": [
+      {
+        "map_number": 66,
+        "var1": 48278300
+      }
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 2": [
+      {
+        "map_number": 66,
+        "var1": 48278322
+      }
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 3": [
+      {
+        "map_number": 66,
+        "var1": 48278432
+      }
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 4": [
+      {
+        "map_number": 66,
+        "var1": 48278476
+      }
+    ],
+    "[Ka Dingel] Chest - Magic Carrot 5": [
+      {
+        "map_number": 66,
+        "var1": 48278498
+      }
+    ],
+    "[Ka Dingel] Chest - Mega Berry 1": [
+      {
+        "map_number": 66,
+        "var1": 48278256
+      }
+    ],
+    "[Ka Dingel] Chest - Mega Berry 2": [
+      {
+        "map_number": 66,
+        "var1": 48278278
+      }
+    ],
+    "[Ka Dingel] Chest - Mega Berry 3": [
+      {
+        "map_number": 66,
+        "var1": 48278454
+      }
+    ],
+    "[Ka Dingel] Chest - Mega Berry 4": [
+      {
+        "map_number": 66,
+        "var1": 48278564
+      }
+    ],
+    "[Ka Dingel] Chest - Mega Berry 5": [
+      {
+        "map_number": 66,
+        "var1": 48278520
+      }
+    ],
+    "[Ka Dingel] Chest - Metal Shield": [
+      {
+        "map_number": 66,
+        "var1": 48278652
+      }
+    ],
+    "[Ka Dingel] Chest - Nectar 1": [
+      {
+        "map_number": 66,
+        "var1": 48278388
+      }
+    ],
+    "[Ka Dingel] Chest - Nectar 2": [
+      {
+        "map_number": 66,
+        "var1": 48278608
+      }
+    ],
+    "[Lolithia's Tomb] Boss - Magtortous": [
+      {
+        "map_number": 37,
+        "var1": 28520870
+      },
+      {
+        "map_number": 119,
+        "var1": 84451430
+      }
+    ],
+    "[Lolithia's Tomb] Chest - 3rd Switch Room, Top": [
+      {
+        "map_number": 37,
+        "var1": 28499876
+      },
+      {
+        "map_number": 119,
+        "var1": 84430436
+      }
+    ],
+    "[Lolithia's Tomb] Chest - After 1st Switch Room": [
+      {
+        "map_number": 37,
+        "var1": 28500748
+      },
+      {
+        "map_number": 119,
+        "var1": 84431308
+      }
+    ],
+    "[Lolithia's Tomb] Chest - Bomb Ledge, Left": [
+      {
+        "map_number": 37,
+        "var1": 28500074
+      },
+      {
+        "map_number": 119,
+        "var1": 84430634
+      }
+    ],
+    "[Lolithia's Tomb] Chest - Bomb Ledge, Right": [
+      {
+        "map_number": 37,
+        "var1": 28499920
+      },
+      {
+        "map_number": 119,
+        "var1": 84430480
+      }
+    ],
+    "[Lolithia's Tomb] Chest - East Room, Left": [
+      {
+        "map_number": 37,
+        "var1": 28499942
+      },
+      {
+        "map_number": 119,
+        "var1": 84430502
+      }
+    ],
+    "[Lolithia's Tomb] Chest - East Room, Right": [
+      {
+        "map_number": 37,
+        "var1": 28499964
+      },
+      {
+        "map_number": 119,
+        "var1": 84430524
+      }
+    ],
+    "[Lolithia's Tomb] Chest - Lolithia Room, East": [
+      {
+        "map_number": 37,
+        "var1": 28500118
+      },
+      {
+        "map_number": 119,
+        "var1": 84430678
+      }
+    ],
+    "[Lolithia's Tomb] Chest - Lolithia Room, West": [
+      {
+        "map_number": 37,
+        "var1": 28500096
+      },
+      {
+        "map_number": 119,
+        "var1": 84430656
+      }
+    ],
+    "[Lolithia's Tomb] Chest - Tear Door Room, East": [
+      {
+        "map_number": 37,
+        "var1": 28499854
+      },
+      {
+        "map_number": 119,
+        "var1": 84430414
+      }
+    ],
+    "[Lolithia's Tomb] Chest - Tear Door Room, West": [
+      {
+        "map_number": 37,
+        "var1": 28499898
+      },
+      {
+        "map_number": 119,
+        "var1": 84430458
+      }
+    ],
+    "[Lolithia's Tomb] Chest - West Path 2nd Switch Room": [
+      {
+        "map_number": 37,
+        "var1": 28499986
+      },
+      {
+        "map_number": 119,
+        "var1": 84430546
+      }
+    ],
+    "[Lolithia's Tomb] Chest - West Room, Left": [
+      {
+        "map_number": 37,
+        "var1": 28500008
+      },
+      {
+        "map_number": 119,
+        "var1": 84430568
+      }
+    ],
+    "[Lolithia's Tomb] Chest - West Room, Middle": [
+      {
+        "map_number": 37,
+        "var1": 28500030
+      },
+      {
+        "map_number": 119,
+        "var1": 84430590
+      }
+    ],
+    "[Lolithia's Tomb] Chest - West Room, Right": [
+      {
+        "map_number": 37,
+        "var1": 28500052
+      },
+      {
+        "map_number": 119,
+        "var1": 84430612
+      }
+    ],
+    "[Lolithia's Tomb] NPC - Emma Reward": [
+      {
+        "map_number": 37,
+        "var1": 28512258
+      },
+      {
+        "map_number": 119,
+        "var1": 84442818
+      }
+    ],
+    "[Lolithia's Tomb] Trap Chest - 1st Switch Room": [
+      {
+        "map_number": 37,
+        "var1": 28499756
+      },
+      {
+        "map_number": 119,
+        "var1": 84430316
+      }
+    ],
+    "[Lolithia's Tomb] Trap Chest - 3rd Switch Room, Bottom": [
+      {
+        "map_number": 37,
+        "var1": 28499800
+      },
+      {
+        "map_number": 119,
+        "var1": 84430360
+      }
+    ],
+    "[Lolithia's Tomb] Trap Chest - After Four Blocks Switch Room": [
+      {
+        "map_number": 37,
+        "var1": 28499778
+      },
+      {
+        "map_number": 119,
+        "var1": 84430338
+      }
+    ],
+    "[Lolithia's Tomb] Trap Chest - East Path 2nd Switch Room": [
+      {
+        "map_number": 37,
+        "var1": 28499822
+      },
+      {
+        "map_number": 119,
+        "var1": 84430382
+      }
+    ],
+    "[Malduke] ARM - Arch Smash": [
+      {
+        "map_number": 67,
+        "var1": 48965874
+      },
+      {
+        "map_number": 120,
+        "var1": 85116114
+      }
+    ],
+    "[Malduke] Chest - Ambrosia": [
+      {
+        "map_number": 67,
+        "var1": 48960040
+      },
+      {
+        "map_number": 120,
+        "var1": 85110280
+      }
+    ],
+    "[Malduke] Chest - Arms": [
+      {
+        "map_number": 71,
+        "var1": 51686221
+      }
+    ],
+    "[Malduke] Chest - Assault Coat": [
+      {
+        "map_number": 71,
+        "var1": 51684910
+      }
+    ],
+    "[Malduke] Chest - Bullet Clip": [
+      {
+        "map_number": 67,
+        "var1": 48960849
+      },
+      {
+        "map_number": 120,
+        "var1": 85111089
+      }
+    ],
+    "[Malduke] Chest - Eye 1": [
+      {
+        "map_number": 69,
+        "var1": 50321686
+      }
+    ],
+    "[Malduke] Chest - Eye 2": [
+      {
+        "map_number": 69,
+        "var1": 50321708
+      }
+    ],
+    "[Malduke] Chest - Eye 3": [
+      {
+        "map_number": 69,
+        "var1": 50321664
+      }
+    ],
+    "[Malduke] Chest - Eye 4": [
+      {
+        "map_number": 69,
+        "var1": 50321642
+      }
+    ],
+    "[Malduke] Chest - Eye 5": [
+      {
+        "map_number": 69,
+        "var1": 50321620
+      }
+    ],
+    "[Malduke] Chest - Eye 6": [
+      {
+        "map_number": 69,
+        "var1": 50322649
+      }
+    ],
+    "[Malduke] Chest - Filgaia Robe": [
+      {
+        "map_number": 71,
+        "var1": 51685236
+      }
+    ],
+    "[Malduke] Chest - Guitar": [
+      {
+        "map_number": 67,
+        "var1": 48969359
+      },
+      {
+        "map_number": 120,
+        "var1": 85119599
+      }
+    ],
+    "[Malduke] Chest - Jolla Poncho": [
+      {
+        "map_number": 71,
+        "var1": 51684888
+      }
+    ],
+    "[Malduke] Chest - Magic Carrot 1": [
+      {
+        "map_number": 67,
+        "var1": 48960018
+      },
+      {
+        "map_number": 120,
+        "var1": 85110258
+      }
+    ],
+    "[Malduke] Chest - Magic Carrot 2": [
+      {
+        "map_number": 67,
+        "var1": 48959996
+      },
+      {
+        "map_number": 120,
+        "var1": 85110236
+      }
+    ],
+    "[Malduke] Chest - Nectar 1": [
+      {
+        "map_number": 67,
+        "var1": 48959908
+      },
+      {
+        "map_number": 120,
+        "var1": 85110148
+      }
+    ],
+    "[Malduke] Chest - Nectar 2": [
+      {
+        "map_number": 67,
+        "var1": 48959930
+      },
+      {
+        "map_number": 120,
+        "var1": 85110170
+      }
+    ],
+    "[Malduke] Chest - Nectar 3": [
+      {
+        "map_number": 67,
+        "var1": 48959886
+      },
+      {
+        "map_number": 120,
+        "var1": 85110126
+      }
+    ],
+    "[Malduke] Chest - Nectar 4": [
+      {
+        "map_number": 67,
+        "var1": 48959974
+      },
+      {
+        "map_number": 120,
+        "var1": 85110214
+      }
+    ],
+    "[Malduke] Chest - Nectar 5": [
+      {
+        "map_number": 67,
+        "var1": 48959952
+      },
+      {
+        "map_number": 120,
+        "var1": 85110192
+      }
+    ],
+    "[Malduke] Chest - Princess Rod": [
+      {
+        "map_number": 67,
+        "var1": 48959864
+      },
+      {
+        "map_number": 120,
+        "var1": 85110104
+      }
+    ],
+    "[Malduke] Chest - Silver Blade": [
+      {
+        "map_number": 67,
+        "var1": 48959820
+      },
+      {
+        "map_number": 120,
+        "var1": 85110060
+      }
+    ],
+    "[Malduke] Chest - Violator": [
+      {
+        "map_number": 67,
+        "var1": 48959842
+      },
+      {
+        "map_number": 120,
+        "var1": 85110082
+      }
+    ],
+    "[Malduke] Chest - Wings": [
+      {
+        "map_number": 72,
+        "var1": 52367441
+      }
+    ],
+    "[Maze of Death] Boss - Chaos": [
+      {
+        "map_number": 42,
+        "var1": 31910125
+      }
+    ],
+    "[Maze of Death] Chest - Left Path Near Pit": [
+      {
+        "map_number": 42,
+        "var1": 31908023
+      }
+    ],
+    "[Maze of Death] Chest - Left Path, North Room, Left": [
+      {
+        "map_number": 42,
+        "var1": 31906690
+      }
+    ],
+    "[Maze of Death] Chest - Left Path, North Room, Right": [
+      {
+        "map_number": 42,
+        "var1": 31906712
+      }
+    ],
+    "[Maze of Death] Chest - Path to Chaos, East": [
+      {
+        "map_number": 42,
+        "var1": 31906756
+      }
+    ],
+    "[Maze of Death] Chest - Path to Chaos, West": [
+      {
+        "map_number": 42,
+        "var1": 31906734
+      }
+    ],
+    "[Maze of Death] Chest - Right Path Near Pit": [
+      {
+        "map_number": 42,
+        "var1": 31906866
+      }
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 1": [
+      {
+        "map_number": 42,
+        "var1": 31906778
+      }
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 2": [
+      {
+        "map_number": 42,
+        "var1": 31906800
+      }
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 3": [
+      {
+        "map_number": 42,
+        "var1": 31906822
+      }
+    ],
+    "[Maze of Death] Chest - Right Path, Dead End Room 4": [
+      {
+        "map_number": 42,
+        "var1": 31906844
+      }
+    ],
+    "[Maze of Death] Pickup - Crystal Bud": [
+      {
+        "map_number": 42,
+        "var1": 31909767
+      }
+    ],
+    "[Maze of Death] Rune - Death Rune": [
+      {
+        "map_number": 42,
+        "var1": 31910417
+      }
+    ],
+    "[Memory Temple] Chest - Emiko Room, East": [
+      {
+        "map_number": 36,
+        "var1": 27813464
+      }
+    ],
+    "[Memory Temple] Chest - Emiko Room, North": [
+      {
+        "map_number": 36,
+        "var1": 27813486
+      }
+    ],
+    "[Memory Temple] Chest - Emiko Room, West": [
+      {
+        "map_number": 36,
+        "var1": 27813442
+      }
+    ],
+    "[Memory Temple] Chest - First Room, Entrance": [
+      {
+        "map_number": 36,
+        "var1": 27813398
+      }
+    ],
+    "[Memory Temple] Chest - First Room, North-West": [
+      {
+        "map_number": 36,
+        "var1": 27814405
+      }
+    ],
+    "[Memory Temple] Chest - Maze Room, Left": [
+      {
+        "map_number": 36,
+        "var1": 27813530
+      }
+    ],
+    "[Memory Temple] Chest - Maze Room, Right": [
+      {
+        "map_number": 36,
+        "var1": 27813552
+      }
+    ],
+    "[Memory Temple] Chest - Spear Room, East": [
+      {
+        "map_number": 36,
+        "var1": 27813508
+      }
+    ],
+    "[Memory Temple] Chest - Spear Room, West": [
+      {
+        "map_number": 36,
+        "var1": 27813376
+      }
+    ],
+    "[Memory Temple] Chest - Spike Room, South": [
+      {
+        "map_number": 36,
+        "var1": 27813420
+      }
+    ],
+    "[Milama Village] Barrel - Inside House East of Chapel": [
+      {
+        "map_number": 7,
+        "var1": 8032707
+      }
+    ],
+    "[Milama Village] Barrel - Inside Sibling's House": [
+      {
+        "map_number": 7,
+        "var1": 8032719
+      }
+    ],
+    "[Milama Village] Barrel - Inside South-East House": [
+      {
+        "map_number": 7,
+        "var1": 8032731
+      }
+    ],
+    "[Milama Village] Barrel - Ouside Radar House": [
+      {
+        "map_number": 7,
+        "var1": 8032683
+      }
+    ],
+    "[Milama Village] Barrel - Outside Grandpa's House": [
+      {
+        "map_number": 7,
+        "var1": 8032659
+      }
+    ],
+    "[Milama Village] Barrel - Outside Pub": [
+      {
+        "map_number": 7,
+        "var1": 8032695
+      }
+    ],
+    "[Milama Village] Barrel - Outside Sibling's House": [
+      {
+        "map_number": 7,
+        "var1": 8032647
+      }
+    ],
+    "[Milama Village] Barrel - Outside Waterfront House": [
+      {
+        "map_number": 7,
+        "var1": 8032743
+      }
+    ],
+    "[Milama Village] Barrel - South of Chapel": [
+      {
+        "map_number": 7,
+        "var1": 8033509
+      }
+    ],
+    "[Milama Village] Barrel - South of Inn": [
+      {
+        "map_number": 7,
+        "var1": 8032671
+      }
+    ],
+    "[Milama Village] Big Box - Outside Waterfront House, Left": [
+      {
+        "map_number": 7,
+        "var1": 8032779
+      }
+    ],
+    "[Milama Village] Big Box - Outside Waterfront House, Middle": [
+      {
+        "map_number": 7,
+        "var1": 8032767
+      }
+    ],
+    "[Milama Village] Big Box - Outside Waterfront House, Right": [
+      {
+        "map_number": 7,
+        "var1": 8032755
+      }
+    ],
+    "[Milama Village] Chest - Inside Radar House": [
+      {
+        "map_number": 7,
+        "var1": 8053315
+      }
+    ],
+    "[Milama Village] NPC - Pub Owner Gift": [
+      {
+        "map_number": 7,
+        "var1": 8038707
+      }
+    ],
+    "[Mount Zenom] Boss - Orga Widow": [
+      {
+        "map_number": 41,
+        "var1": 31227987
+      }
+    ],
+    "[Mount Zenom] Chest - Inside Tier 5": [
+      {
+        "map_number": 41,
+        "var1": 31225446
+      }
+    ],
+    "[Mount Zenom] Chest - Outside Tier 2, East": [
+      {
+        "map_number": 41,
+        "var1": 31224347
+      }
+    ],
+    "[Mount Zenom] Chest - Outside Tier 2, North": [
+      {
+        "map_number": 41,
+        "var1": 31224369
+      }
+    ],
+    "[Mount Zenom] Chest - Outside Tier 2, West": [
+      {
+        "map_number": 41,
+        "var1": 31224391
+      }
+    ],
+    "[Mount Zenom] Chest - Outside Tier 3": [
+      {
+        "map_number": 41,
+        "var1": 31224281
+      }
+    ],
+    "[Mount Zenom] Chest - Outside Tier 4,West": [
+      {
+        "map_number": 41,
+        "var1": 31224303
+      }
+    ],
+    "[Mount Zenom] Chest - Outside Tier 5, After Drop": [
+      {
+        "map_number": 41,
+        "var1": 31224325
+      }
+    ],
+    "[Mount Zenom] Fast Draw - Meteor Dive": [
+      {
+        "map_number": 41,
+        "var1": 31230674
+      }
+    ],
+    "[Mount Zenom] Rune - Summit Rune": [
+      {
+        "map_number": 41,
+        "var1": 31227693
+      }
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down": [
+      {
+        "map_number": 41,
+        "var1": 31224205
+      }
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down-Left": [
+      {
+        "map_number": 41,
+        "var1": 31224183
+      }
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down-Right": [
+      {
+        "map_number": 41,
+        "var1": 31224227
+      }
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Left": [
+      {
+        "map_number": 41,
+        "var1": 31224161
+      }
+    ],
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Right": [
+      {
+        "map_number": 41,
+        "var1": 31224249
+      }
+    ],
+    "[Mountain Pass] Chest - East Side Left Path, Left": [
+      {
+        "map_number": 38,
+        "var1": 29177116
+      }
+    ],
+    "[Mountain Pass] Chest - East Side Left Path, Right": [
+      {
+        "map_number": 38,
+        "var1": 29178145
+      }
+    ],
+    "[Mountain Pass] Chest - East Side Peak": [
+      {
+        "map_number": 38,
+        "var1": 29177138
+      }
+    ],
+    "[Mountain Pass] Chest - East Side, After Rock": [
+      {
+        "map_number": 38,
+        "var1": 29177248
+      }
+    ],
+    "[Mountain Pass] Chest - West Side Peak, Right": [
+      {
+        "map_number": 38,
+        "var1": 29177182
+      }
+    ],
+    "[Mountain Pass] Chest - West Side Peak, Top": [
+      {
+        "map_number": 38,
+        "var1": 29177160
+      }
+    ],
+    "[Mountain Pass] Chest - West Side, After Rock": [
+      {
+        "map_number": 38,
+        "var1": 29177270
+      }
+    ],
+    "[Mountain Pass] Chest - West Side, In Bushes": [
+      {
+        "map_number": 38,
+        "var1": 29177204
+      }
+    ],
+    "[Mountain Pass] Chest - West Side, Inside Bomb Wall": [
+      {
+        "map_number": 38,
+        "var1": 29177226
+      }
+    ],
+    "[Mountain Pass] Fast Draw - Sonic Buster": [
+      {
+        "map_number": 38,
+        "var1": 29179905
+      }
+    ],
+    "[Mountain Pass] Pickup - Lighter": [
+      {
+        "map_number": 38,
+        "var1": 29180512
+      }
+    ],
+    "[Pandemonium] Chest - Ambrosia": [
+      {
+        "map_number": 63,
+        "var1": 46232720
+      }
+    ],
+    "[Pandemonium] Chest - Bullet Clip": [
+      {
+        "map_number": 63,
+        "var1": 46232800
+      }
+    ],
+    "[Pandemonium] Chest - Crest Graph 1": [
+      {
+        "map_number": 63,
+        "var1": 46232764
+      }
+    ],
+    "[Pandemonium] Chest - Crest Graph 2": [
+      {
+        "map_number": 63,
+        "var1": 46232742
+      }
+    ],
+    "[Pandemonium] Chest - Lucky Card": [
+      {
+        "map_number": 63,
+        "var1": 46233891
+      }
+    ],
+    "[Pandemonium] Chest - Magic Carrot 1": [
+      {
+        "map_number": 63,
+        "var1": 46232788
+      }
+    ],
+    "[Pandemonium] Chest - Magic Carrot 2": [
+      {
+        "map_number": 63,
+        "var1": 46234043
+      }
+    ],
+    "[Pandemonium] Chest - Mega Berry": [
+      {
+        "map_number": 63,
+        "var1": 46232698
+      }
+    ],
+    "[Pandemonium] Chest - Mind Gem": [
+      {
+        "map_number": 63,
+        "var1": 46234031
+      }
+    ],
+    "[Pandemonium] Chest - Secret Sign": [
+      {
+        "map_number": 63,
+        "var1": 46232776
+      }
+    ],
+    "[Photosphere] ARM - Twin Orbs": [
+      {
+        "map_number": 53,
+        "var1": 39412955
+      }
+    ],
+    "[Photosphere] Chest - Agile Apple": [
+      {
+        "map_number": 53,
+        "var1": 39409344
+      }
+    ],
+    "[Photosphere] Chest - Full Revive": [
+      {
+        "map_number": 53,
+        "var1": 39409278
+      }
+    ],
+    "[Photosphere] Chest - Gauntlet": [
+      {
+        "map_number": 53,
+        "var1": 39409366
+      }
+    ],
+    "[Photosphere] Chest - Hardy Apple 1": [
+      {
+        "map_number": 53,
+        "var1": 39409300
+      }
+    ],
+    "[Photosphere] Chest - Hardy Apple 2": [
+      {
+        "map_number": 53,
+        "var1": 39409322
+      }
+    ],
+    "[Photosphere] Chest - Magic Carrot": [
+      {
+        "map_number": 53,
+        "var1": 39409498
+      }
+    ],
+    "[Photosphere] Chest - Mega Berry": [
+      {
+        "map_number": 53,
+        "var1": 39409388
+      }
+    ],
+    "[Photosphere] Chest - Potion Berry 1": [
+      {
+        "map_number": 53,
+        "var1": 39409432
+      }
+    ],
+    "[Photosphere] Chest - Potion Berry 2": [
+      {
+        "map_number": 53,
+        "var1": 39409410
+      }
+    ],
+    "[Photosphere] Chest - Potion Berry 3": [
+      {
+        "map_number": 53,
+        "var1": 39410611
+      }
+    ],
+    "[Photosphere] Chest - Potion Berry 4": [
+      {
+        "map_number": 53,
+        "var1": 39409454
+      }
+    ],
+    "[Photosphere] Chest - Potion Berry 5": [
+      {
+        "map_number": 53,
+        "var1": 39409476
+      }
+    ],
+    "[Photosphere] Chest - Revive Fruit 1": [
+      {
+        "map_number": 53,
+        "var1": 39409542
+      }
+    ],
+    "[Photosphere] Chest - Revive Fruit 2": [
+      {
+        "map_number": 53,
+        "var1": 39409564
+      }
+    ],
+    "[Photosphere] Chest - Revive Fruit 3": [
+      {
+        "map_number": 53,
+        "var1": 39409520
+      }
+    ],
+    "[Pleasing Garden] Boss - Gigmantis": [
+      {
+        "map_number": 46,
+        "var1": 34638362
+      }
+    ],
+    "[Pleasing Garden] Chest - Behind Switch Blocks, Left": [
+      {
+        "map_number": 46,
+        "var1": 34636321
+      }
+    ],
+    "[Pleasing Garden] Chest - Behind Switch Blocks, Right": [
+      {
+        "map_number": 46,
+        "var1": 34634988
+      }
+    ],
+    "[Pleasing Garden] Chest - Dead-end Room": [
+      {
+        "map_number": 46,
+        "var1": 34635010
+      }
+    ],
+    "[Pleasing Garden] Chest - East Portal Room": [
+      {
+        "map_number": 46,
+        "var1": 34635032
+      }
+    ],
+    "[Pleasing Garden] Pickup - Bracelet": [
+      {
+        "map_number": 46,
+        "var1": 34638224
+      }
+    ],
+    "[Pleasing Garden] Pickup - Grappling Hook": [
+      {
+        "map_number": 46,
+        "var1": 34639169
+      }
+    ],
+    "[Pleasing Garden] Rune - Flash Rune": [
+      {
+        "map_number": 46,
+        "var1": 34638562
+      }
+    ],
+    "[Port Timney] Barrel - East of North House": [
+      {
+        "map_number": 9,
+        "var1": 9395843
+      }
+    ],
+    "[Port Timney] Barrel - East of Storage Room": [
+      {
+        "map_number": 9,
+        "var1": 9395867
+      }
+    ],
+    "[Port Timney] Barrel - Inside North House": [
+      {
+        "map_number": 9,
+        "var1": 9395879
+      }
+    ],
+    "[Port Timney] Barrel - Inside Storage Room": [
+      {
+        "map_number": 9,
+        "var1": 9395855
+      }
+    ],
+    "[Port Timney] Barrel - North of Inn": [
+      {
+        "map_number": 9,
+        "var1": 9395831
+      }
+    ],
+    "[Port Timney] Barrel - South of Inn": [
+      {
+        "map_number": 9,
+        "var1": 9396953
+      }
+    ],
+    "[Port Timney] Chest - Inside Storage Room": [
+      {
+        "map_number": 9,
+        "var1": 9395819
+      }
+    ],
+    "[Port Timney] Chest - West of Pub": [
+      {
+        "map_number": 9,
+        "var1": 9395797
+      }
+    ],
+    "[Port Timney] Fast Draw - Trickster": [
+      {
+        "map_number": 9,
+        "var1": 9416252
+      }
+    ],
+    "[Port Timney] NPC - Bartholomew's Gift": [
+      {
+        "map_number": 9,
+        "var1": 9408329
+      }
+    ],
+    "[Rosetta Town] Barrel - 1 Gella Coin": [
+      {
+        "map_number": 13,
+        "var1": 12125231
+      }
+    ],
+    "[Rosetta Town] Barrel - 498 gella": [
+      {
+        "map_number": 13,
+        "var1": 12124065
+      }
+    ],
+    "[Rosetta Town] Chest - Crest Graph": [
+      {
+        "map_number": 13,
+        "var1": 12124113
+      }
+    ],
+    "[Rosetta Town] Chest - Hardy Apple": [
+      {
+        "map_number": 13,
+        "var1": 12124089
+      }
+    ],
+    "[Rosetta Town] Chest - Head Gear": [
+      {
+        "map_number": 13,
+        "var1": 12124101
+      }
+    ],
+    "[Rosetta Town] Chest - Magic Carrot": [
+      {
+        "map_number": 13,
+        "var1": 12124125
+      }
+    ],
+    "[Rosetta Town] Chest - Power Apple": [
+      {
+        "map_number": 13,
+        "var1": 12124077
+      }
+    ],
+    "[Sacred Shrine] Barrel - 2130 gella": [
+      {
+        "map_number": 34,
+        "var1": 26449094
+      },
+      {
+        "map_number": 52,
+        "var1": 38726534
+      }
+    ],
+    "[Sacred Shrine] Barrel - 320 gella": [
+      {
+        "map_number": 34,
+        "var1": 26449981
+      },
+      {
+        "map_number": 52,
+        "var1": 38727421
+      }
+    ],
+    "[Sacred Shrine] Barrel - 4800 gella": [
+      {
+        "map_number": 34,
+        "var1": 26449106
+      },
+      {
+        "map_number": 52,
+        "var1": 38726546
+      }
+    ],
+    "[Sacred Shrine] Barrel - Duplicator": [
+      {
+        "map_number": 34,
+        "var1": 26450123
+      },
+      {
+        "map_number": 52,
+        "var1": 38727563
+      }
+    ],
+    "[Sacred Shrine] Barrel - Potion Berry 1": [
+      {
+        "map_number": 34,
+        "var1": 26450111
+      },
+      {
+        "map_number": 52,
+        "var1": 38727551
+      }
+    ],
+    "[Sacred Shrine] Barrel - Potion Berry 2": [
+      {
+        "map_number": 34,
+        "var1": 26449082
+      },
+      {
+        "map_number": 52,
+        "var1": 38726522
+      }
+    ],
+    "[Sacred Shrine] Chest - Crest Graph": [
+      {
+        "map_number": 34,
+        "var1": 26449194
+      },
+      {
+        "map_number": 52,
+        "var1": 38726634
+      }
+    ],
+    "[Sacred Shrine] Chest - Magic Carrot": [
+      {
+        "map_number": 34,
+        "var1": 26449172
+      },
+      {
+        "map_number": 52,
+        "var1": 38726612
+      }
+    ],
+    "[Sacred Shrine] Chest - Potion Berry": [
+      {
+        "map_number": 34,
+        "var1": 26449238
+      },
+      {
+        "map_number": 52,
+        "var1": 38726678
+      }
+    ],
+    "[Sacred Shrine] Chest - Revive Fruit": [
+      {
+        "map_number": 34,
+        "var1": 26449260
+      },
+      {
+        "map_number": 52,
+        "var1": 38726700
+      }
+    ],
+    "[Sacred Shrine] Chest - Rune Drive": [
+      {
+        "map_number": 34,
+        "var1": 26449216
+      },
+      {
+        "map_number": 52,
+        "var1": 38726656
+      }
+    ],
+    "[Sacred Shrine] Chest - Secret Book": [
+      {
+        "map_number": 34,
+        "var1": 26449150
+      },
+      {
+        "map_number": 52,
+        "var1": 38726590
+      }
+    ],
+    "[Sacred Shrine] Chest - Secret Sign": [
+      {
+        "map_number": 34,
+        "var1": 26449128
+      },
+      {
+        "map_number": 52,
+        "var1": 38726568
+      }
+    ],
+    "[Saint Centour] Barrel - Outside Magic Shop, North": [
+      {
+        "map_number": 11,
+        "var1": 10761495
+      }
+    ],
+    "[Saint Centour] Barrel - Outside Pub, South": [
+      {
+        "map_number": 11,
+        "var1": 10760779
+      }
+    ],
+    "[Saint Centour] Barrel - Outside South-West House, South": [
+      {
+        "map_number": 11,
+        "var1": 10760767
+      }
+    ],
+    "[Saint Centour] Chest - Inside North House": [
+      {
+        "map_number": 11,
+        "var1": 10760803
+      }
+    ],
+    "[Saint Centour] Chest - Inside West House": [
+      {
+        "map_number": 11,
+        "var1": 10760815
+      }
+    ],
+    "[Saint Centour] Chest - North-West House Basement": [
+      {
+        "map_number": 11,
+        "var1": 10760643
+      }
+    ],
+    "[Saint Centour] Chest - Outside Inn, North": [
+      {
+        "map_number": 11,
+        "var1": 10760859
+      }
+    ],
+    "[Saint Centour] Chest - Outside Item Shop, East": [
+      {
+        "map_number": 11,
+        "var1": 10760881
+      }
+    ],
+    "[Saint Centour] Chest - Outside Item Shop, South": [
+      {
+        "map_number": 11,
+        "var1": 10760837
+      }
+    ],
+    "[Saint Centour] Chest - Outside North-West House, West": [
+      {
+        "map_number": 11,
+        "var1": 10760743
+      }
+    ],
+    "[Saint Centour] Chest - Outside Pub, East": [
+      {
+        "map_number": 11,
+        "var1": 10760791
+      }
+    ],
+    "[Saint Centour] Chest - Pub, Left": [
+      {
+        "map_number": 11,
+        "var1": 10760687
+      }
+    ],
+    "[Saint Centour] Chest - Pub, Middle": [
+      {
+        "map_number": 11,
+        "var1": 10760709
+      }
+    ],
+    "[Saint Centour] Chest - Pub, Right": [
+      {
+        "map_number": 11,
+        "var1": 10760731
+      }
+    ],
+    "[Saint Centour] Chest - South of Ione Paua": [
+      {
+        "map_number": 11,
+        "var1": 10760755
+      }
+    ],
+    "[Saint Centour] Chest - West House Basement": [
+      {
+        "map_number": 11,
+        "var1": 10760665
+      }
+    ],
+    "[Saint Centour] NPC - Researcher's Gift": [
+      {
+        "map_number": 11,
+        "var1": 10770304
+      }
+    ],
+    "[Saint Centour] Rune - Saint Rune": [
+      {
+        "map_number": 11,
+        "var1": 10766353
+      }
+    ],
+    "[Sand River] Chest - 1st Room, Left": [
+      {
+        "map_number": 45,
+        "var1": 33950428
+      }
+    ],
+    "[Sand River] Chest - 1st Room, Right": [
+      {
+        "map_number": 45,
+        "var1": 33950450
+      }
+    ],
+    "[Sand River] Chest - 2nd Room, Left": [
+      {
+        "map_number": 45,
+        "var1": 33950472
+      }
+    ],
+    "[Sand River] Chest - 2nd Room, Right": [
+      {
+        "map_number": 45,
+        "var1": 33950538
+      }
+    ],
+    "[Sand River] Chest - 3rd Room, Left": [
+      {
+        "map_number": 45,
+        "var1": 33951761
+      }
+    ],
+    "[Sand River] Chest - 3rd Room, Right": [
+      {
+        "map_number": 45,
+        "var1": 33950494
+      }
+    ],
+    "[Sand River] Chest - 6th Room": [
+      {
+        "map_number": 45,
+        "var1": 33950560
+      }
+    ],
+    "[Sand River] Chest - After Bomb Wall": [
+      {
+        "map_number": 45,
+        "var1": 33950516
+      }
+    ],
+    "[Sand River] Fast Draw - Heal Blade": [
+      {
+        "map_number": 45,
+        "var1": 33953667
+      }
+    ],
+    "[Sealed Library] Boss - Nelgaul": [
+      {
+        "map_number": 19,
+        "var1": 16224526
+      }
+    ],
+    "[Sealed Library] Chest - 1st Crystal Room, Bottom": [
+      {
+        "map_number": 19,
+        "var1": 16220618
+      }
+    ],
+    "[Sealed Library] Chest - 1st Crystal Room, Top": [
+      {
+        "map_number": 19,
+        "var1": 16220596
+      }
+    ],
+    "[Sealed Library] Chest - 2nd Crystal Room, Left": [
+      {
+        "map_number": 19,
+        "var1": 16221863
+      }
+    ],
+    "[Sealed Library] Chest - 2nd Crystal Room, Right": [
+      {
+        "map_number": 19,
+        "var1": 16220530
+      }
+    ],
+    "[Sealed Library] Chest - Library, Left": [
+      {
+        "map_number": 19,
+        "var1": 16220552
+      }
+    ],
+    "[Sealed Library] Chest - Library, Right": [
+      {
+        "map_number": 19,
+        "var1": 16220574
+      }
+    ],
+    "[Sealed Library] Rune - Water Rune": [
+      {
+        "map_number": 19,
+        "var1": 16225461
+      }
+    ],
+    "[Secret Passage] Chest - 1st Section, Across water": [
+      {
+        "map_number": 39,
+        "var1": 29859243
+      }
+    ],
+    "[Secret Passage] Chest - 1st Section, Near broken bridge": [
+      {
+        "map_number": 39,
+        "var1": 29857976
+      }
+    ],
+    "[Secret Passage] Chest - 2nd Section, Bottom": [
+      {
+        "map_number": 39,
+        "var1": 29858020
+      }
+    ],
+    "[Secret Passage] Chest - 2nd Section, Right": [
+      {
+        "map_number": 39,
+        "var1": 29857910
+      }
+    ],
+    "[Secret Passage] Chest - 3rd Section, Across water": [
+      {
+        "map_number": 39,
+        "var1": 29857954
+      }
+    ],
+    "[Secret Passage] Chest - 3rd Section, Left": [
+      {
+        "map_number": 39,
+        "var1": 29858042
+      }
+    ],
+    "[Secret Passage] Chest - 3rd Section, Right": [
+      {
+        "map_number": 39,
+        "var1": 29857998
+      }
+    ],
+    "[Secret Passage] Chest - 4th Section, Near Exit": [
+      {
+        "map_number": 39,
+        "var1": 29857932
+      }
+    ],
+    "[Ship Graveyard] Barrel - East of ARM shop": [
+      {
+        "map_number": 12,
+        "var1": 11442581
+      }
+    ],
+    "[Ship Graveyard] Barrel - East of Inn": [
+      {
+        "map_number": 12,
+        "var1": 11442569
+      }
+    ],
+    "[Ship Graveyard] Barrel - West of Inn": [
+      {
+        "map_number": 12,
+        "var1": 11442545
+      }
+    ],
+    "[Ship Graveyard] Barrel - West of Save Bird": [
+      {
+        "map_number": 12,
+        "var1": 11442557
+      }
+    ],
+    "[Ship Graveyard] Big Box - North of Dan's House": [
+      {
+        "map_number": 12,
+        "var1": 11442509
+      }
+    ],
+    "[Ship Graveyard] Big Box - North of Item Shop 1": [
+      {
+        "map_number": 12,
+        "var1": 11442521
+      }
+    ],
+    "[Ship Graveyard] Big Box - North of Item Shop 2": [
+      {
+        "map_number": 12,
+        "var1": 11442533
+      }
+    ],
+    "[Ship Graveyard] Big Box - West of Dan's House 1": [
+      {
+        "map_number": 12,
+        "var1": 11443359
+      }
+    ],
+    "[Ship Graveyard] Big Box - West of Dan's House 2": [
+      {
+        "map_number": 12,
+        "var1": 11442193
+      }
+    ],
+    "[Ship Graveyard] Chest - Shipwreck Beach 3": [
+      {
+        "map_number": 12,
+        "var1": 11442671
+      }
+    ],
+    "[Ship Graveyard] Chest - Shipwreck Beach 4": [
+      {
+        "map_number": 12,
+        "var1": 11442649
+      }
+    ],
+    "[Ship Graveyard] Chest - Shipwreck Beach 5": [
+      {
+        "map_number": 12,
+        "var1": 11442627
+      }
+    ],
+    "[Ship Graveyard] Force - Sonic Vision": [
+      {
+        "map_number": 12,
+        "var1": 11449599
+      }
+    ],
+    "[Ship Graveyard] Pickup - Shipwreck Beach 1": [
+      {
+        "map_number": 12,
+        "var1": 11442593
+      }
+    ],
+    "[Ship Graveyard] Pickup - Shipwreck Beach 2": [
+      {
+        "map_number": 12,
+        "var1": 11442605
+      }
+    ],
+    "[Ship Graveyard] Pickup - Shipwreck Beach 6": [
+      {
+        "map_number": 12,
+        "var1": 11457482
+      }
+    ],
+    "[Surf Village] Barrel - East of chicken house": [
+      {
+        "map_number": 2,
+        "var1": 4622951
+      }
+    ],
+    "[Surf Village] Barrel - East of farm house": [
+      {
+        "map_number": 2,
+        "var1": 4621922
+      }
+    ],
+    "[Surf Village] Barrel - East of shop house": [
+      {
+        "map_number": 2,
+        "var1": 4622821
+      }
+    ],
+    "[Surf Village] Barrel - Mayor's House, Bottom Floor": [
+      {
+        "map_number": 2,
+        "var1": 4622963
+      }
+    ],
+    "[Surf Village] Box - Outside Mayor's House": [
+      {
+        "map_number": 2,
+        "var1": 4621934
+      }
+    ],
+    "[Surf Village] Box - South of stable": [
+      {
+        "map_number": 2,
+        "var1": 4621958
+      }
+    ],
+    "[Surf Village] Box - West Fence": [
+      {
+        "map_number": 2,
+        "var1": 4621970
+      }
+    ],
+    "[Surf Village] Box - West of stable": [
+      {
+        "map_number": 2,
+        "var1": 4621946
+      }
+    ],
+    "[Surf Village] NPC - Employer Gift": [
+      {
+        "map_number": 2,
+        "var1": 4637223
+      }
+    ],
+    "[Surf Village] NPC - Mayor Gift": [
+      {
+        "map_number": 2,
+        "var1": 4634924
+      }
+    ],
+    "[Sweet Candy] Boss - Zed 1": [
+      {
+        "map_number": 43,
+        "var1": 32599225
+      },
+      {
+        "map_number": 121,
+        "var1": 85801465
+      }
+    ],
+    "[Sweet Candy] NPC - Bartholomew's Gift": [
+      {
+        "map_number": 43,
+        "var1": 32588942
+      },
+      {
+        "map_number": 121,
+        "var1": 85791182
+      }
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 1": [
+      {
+        "map_number": 43,
+        "var1": 32588822
+      },
+      {
+        "map_number": 121,
+        "var1": 85791062
+      }
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 2": [
+      {
+        "map_number": 43,
+        "var1": 32588852
+      },
+      {
+        "map_number": 121,
+        "var1": 85791092
+      }
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 3": [
+      {
+        "map_number": 43,
+        "var1": 32588882
+      },
+      {
+        "map_number": 121,
+        "var1": 85791122
+      }
+    ],
+    "[Sweet Candy] NPC - Wedding Gift 4": [
+      {
+        "map_number": 43,
+        "var1": 32588912
+      },
+      {
+        "map_number": 121,
+        "var1": 85791152
+      }
+    ],
+    "[Sweet Candy] Rune - Thunder Rune": [
+      {
+        "map_number": 43,
+        "var1": 32602542
+      },
+      {
+        "map_number": 121,
+        "var1": 85804782
+      }
+    ],
+    "[Tarjon Village] Barrel - East of Entrance": [
+      {
+        "map_number": 15,
+        "var1": 13489701
+      }
+    ],
+    "[Tarjon Village] Barrel - East of North-East House": [
+      {
+        "map_number": 15,
+        "var1": 13488802
+      }
+    ],
+    "[Tarjon Village] Barrel - Inside Emiko's House, First Floor": [
+      {
+        "map_number": 15,
+        "var1": 13488826
+      }
+    ],
+    "[Tarjon Village] Barrel - Inside South-West House": [
+      {
+        "map_number": 15,
+        "var1": 13489843
+      }
+    ],
+    "[Tarjon Village] Barrel - South of Emiko's House": [
+      {
+        "map_number": 15,
+        "var1": 13489831
+      }
+    ],
+    "[Tarjon Village] Barrel - South of North-West House": [
+      {
+        "map_number": 15,
+        "var1": 13488814
+      }
+    ],
+    "[The Abyss] Chest - Amulet": [
+      {
+        "map_number": 70,
+        "var1": 51004016
+      }
+    ],
+    "[The Abyss] Chest - Dead Heat": [
+      {
+        "map_number": 70,
+        "var1": 51005001
+      }
+    ],
+    "[The Abyss] Chest - Power Boost": [
+      {
+        "map_number": 70,
+        "var1": 51004038
+      }
+    ],
+    "[The Abyss] Chest - Ruby Tiara": [
+      {
+        "map_number": 70,
+        "var1": 51003994
+      }
+    ],
+    "[The Abyss] Chest - Texas Number": [
+      {
+        "map_number": 70,
+        "var1": 51003972
+      }
+    ],
+    "[Tripillar] Chest - Bullet Clip": [
+      {
+        "map_number": 49,
+        "var1": 36682039
+      }
+    ],
+    "[Tripillar] Chest - Magic Carrot": [
+      {
+        "map_number": 49,
+        "var1": 36682017
+      }
+    ],
+    "[Tripillar] Chest - Potion Berry 1": [
+      {
+        "map_number": 49,
+        "var1": 36681951
+      }
+    ],
+    "[Tripillar] Chest - Potion Berry 2": [
+      {
+        "map_number": 49,
+        "var1": 36681973
+      }
+    ],
+    "[Tripillar] Chest - Potion Berry 3": [
+      {
+        "map_number": 49,
+        "var1": 36681929
+      }
+    ],
+    "[Tripillar] Chest - Potion Berry 4": [
+      {
+        "map_number": 49,
+        "var1": 36682914
+      }
+    ],
+    "[Tripillar] Chest - Potion Berry 5": [
+      {
+        "map_number": 49,
+        "var1": 36681907
+      }
+    ],
+    "[Tripillar] Chest - Potion Berry 6": [
+      {
+        "map_number": 49,
+        "var1": 36681885
+      }
+    ],
+    "[Tripillar] Chest - Secret Sign": [
+      {
+        "map_number": 49,
+        "var1": 36681995
+      }
+    ],
+    "[Vassim's Lab] Barrel - Duplicator": [
+      {
+        "map_number": 16,
+        "var1": 14170895
+      }
+    ],
+    "[Vassim's Lab] Barrel - Hyper Gear": [
+      {
+        "map_number": 16,
+        "var1": 14170907
+      }
+    ],
+    "[Vassim's Lab] Barrel - Magic Carrot": [
+      {
+        "map_number": 16,
+        "var1": 14169562
+      }
+    ],
+    "[Vassim's Lab] Barrel - Mega Berry": [
+      {
+        "map_number": 16,
+        "var1": 14170461
+      }
+    ],
+    "[Vassim's Lab] Big Box - Secret Tool": [
+      {
+        "map_number": 16,
+        "var1": 14169574
+      }
+    ],
+    "[Volcannon Trap] ARM - Rocket Launcher": [
+      {
+        "map_number": 48,
+        "var1": 36004878
+      },
+      {
+        "map_number": 124,
+        "var1": 87842958
+      }
+    ],
+    "[Volcannon Trap] Chest - 1800 gella": [
+      {
+        "map_number": 48,
+        "var1": 35999755
+      },
+      {
+        "map_number": 124,
+        "var1": 87837835
+      }
+    ],
+    "[Volcannon Trap] Chest - 971 gella": [
+      {
+        "map_number": 48,
+        "var1": 35998532
+      },
+      {
+        "map_number": 124,
+        "var1": 87836612
+      }
+    ],
+    "[Volcannon Trap] Chest - Bullet Clip": [
+      {
+        "map_number": 48,
+        "var1": 35998422
+      },
+      {
+        "map_number": 124,
+        "var1": 87836502
+      }
+    ],
+    "[Volcannon Trap] Chest - Crest Graph": [
+      {
+        "map_number": 48,
+        "var1": 35998488
+      },
+      {
+        "map_number": 124,
+        "var1": 87836568
+      }
+    ],
+    "[Volcannon Trap] Chest - Lucky Card": [
+      {
+        "map_number": 48,
+        "var1": 35998466
+      },
+      {
+        "map_number": 124,
+        "var1": 87836546
+      }
+    ],
+    "[Volcannon Trap] Chest - Magic Carrot": [
+      {
+        "map_number": 48,
+        "var1": 35998554
+      },
+      {
+        "map_number": 124,
+        "var1": 87836634
+      }
+    ],
+    "[Volcannon Trap] Chest - Potion Berry 1": [
+      {
+        "map_number": 48,
+        "var1": 35998510
+      },
+      {
+        "map_number": 124,
+        "var1": 87836590
+      }
+    ],
+    "[Volcannon Trap] Chest - Potion Berry 2": [
+      {
+        "map_number": 48,
+        "var1": 35998620
+      },
+      {
+        "map_number": 124,
+        "var1": 87836700
+      }
+    ],
+    "[Volcannon Trap] Chest - Revive Fruit": [
+      {
+        "map_number": 48,
+        "var1": 35998598
+      },
+      {
+        "map_number": 124,
+        "var1": 87836678
+      }
+    ],
+    "[Volcannon Trap] Chest - Secret Sign": [
+      {
+        "map_number": 48,
+        "var1": 35998444
+      },
+      {
+        "map_number": 124,
+        "var1": 87836524
+      }
+    ],
+    "[Volcannon Trap] Chest - Silver Harp": [
+      {
+        "map_number": 48,
+        "var1": 35998576
+      },
+      {
+        "map_number": 124,
+        "var1": 87836656
+      }
+    ],
+    "[Wandering Isle] Chest - Crest Graph": [
+      {
+        "map_number": 55,
+        "var1": 40770753
+      }
+    ],
+    "[Wandering Isle] Chest - Magic Carrot": [
+      {
+        "map_number": 55,
+        "var1": 40772086
+      }
+    ],
+    "[Wandering Isle] Chest - Red Jacket": [
+      {
+        "map_number": 55,
+        "var1": 40770797
+      }
+    ],
+    "[Wandering Isle] Chest - Sioux Poncho": [
+      {
+        "map_number": 55,
+        "var1": 40770775
+      }
+    ]
+  },
+  "copy_counts": {
+    "[Adlehyde Castle] Chest - Council Room 1": 1,
+    "[Adlehyde Castle] Chest - Council Room 10": 1,
+    "[Adlehyde Castle] Chest - Council Room 2": 1,
+    "[Adlehyde Castle] Chest - Council Room 3": 1,
+    "[Adlehyde Castle] Chest - Council Room 4": 1,
+    "[Adlehyde Castle] Chest - Council Room 5": 1,
+    "[Adlehyde Castle] Chest - Council Room 6": 1,
+    "[Adlehyde Castle] Chest - Council Room 7": 1,
+    "[Adlehyde Castle] Chest - Council Room 8": 1,
+    "[Adlehyde Castle] Chest - Council Room 9": 1,
+    "[Adlehyde Castle] Chest - Duplicator Room Bottom-Left": 3,
+    "[Adlehyde Castle] Chest - Duplicator Room Bottom-Right": 3,
+    "[Adlehyde Castle] Chest - Duplicator Room Middle": 3,
+    "[Adlehyde Castle] Chest - Duplicator Room Top-Left": 3,
+    "[Adlehyde Castle] Chest - Duplicator Room Top-Right": 3,
+    "[Adlehyde Castle] Chest - East Wing, Outside Near Water": 3,
+    "[Adlehyde Castle] Chest - East Wing, Outside On Wall": 3,
+    "[Adlehyde Castle] Chest - South of Kitchen": 3,
+    "[Adlehyde Festival] Barrel - East Stalls": 1,
+    "[Adlehyde Festival] Barrel - South Stalls": 1,
+    "[Adlehyde Festival] Barrel - West Stalls": 1,
+    "[Adlehyde] Barrel - 7-Shape House": 8,
+    "[Adlehyde] Barrel - Engineer Tom's Shop": 8,
+    "[Adlehyde] Barrel - Inn, Bottom Floor": 8,
+    "[Adlehyde] Barrel - Mayor's House": 8,
+    "[Adlehyde] Barrel - Secret Tunnel Shed": 8,
+    "[Adlehyde] Big Box - Left Storage, Left": 8,
+    "[Adlehyde] Big Box - Left Storage, Right": 8,
+    "[Adlehyde] Big Box - West of Chapel": 8,
+    "[Adlehyde] Boss - Belselk 1": 3,
+    "[Adlehyde] Box - Right Storage, Left": 8,
+    "[Adlehyde] Box - Right Storage, Right": 8,
+    "[Adlehyde] Chest - Behind Trees": 8,
+    "[Adlehyde] Chest - Secret Tunnel Shed": 8,
+    "[Adlehyde] NPC - 1,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 10,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 100,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 2,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 20,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 3,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 30,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 5,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 50,000 Gella Donation": 4,
+    "[Adlehyde] NPC - 500 Gella Donation": 4,
+    "[Ancient Arena] Barrel - Inn, Near Beds": 1,
+    "[Ancient Arena] Barrel - Inn, Top-Right": 1,
+    "[Ancient Arena] Barrel - Near Bar": 1,
+    "[Ancient Arena] Chest - Duplicator Door, Left": 1,
+    "[Ancient Arena] Chest - Duplicator Door, Middle": 1,
+    "[Ancient Arena] Chest - Duplicator Door, Right": 1,
+    "[Arctica Castle] ARM - Wild Bunch": 2,
+    "[Arctica Castle] Chest - Boom Getter": 2,
+    "[Arctica Castle] Chest - Full Revive 1": 2,
+    "[Arctica Castle] Chest - Full Revive 2": 2,
+    "[Arctica Castle] Chest - Lucky Card": 2,
+    "[Arctica Castle] Chest - Mega Berry 1": 2,
+    "[Arctica Castle] Chest - Mega Berry 2": 2,
+    "[Arctica Castle] Chest - Nectar": 2,
+    "[Arctica Castle] Chest - Secret Sign 1": 2,
+    "[Arctica Castle] Chest - Secret Sign 2": 2,
+    "[Arctica Castle] Chest - Secret Sign 3": 2,
+    "[Arctica Castle] Chest - Secret Sign 4": 2,
+    "[Baskar Village] Barrel - Inside North-West House": 1,
+    "[Baskar Village] Barrel - Outside Chief's House": 1,
+    "[Baskar Village] Barrel - Outside Item Shop, West": 1,
+    "[Baskar Village] Barrel - Outside North-East House, West": 1,
+    "[Baskar Village] Barrel - West Tent": 1,
+    "[Baskar Village] Box - North of Fenced Crops": 1,
+    "[Baskar Village] Box - Outside Item Shop, East": 1,
+    "[Baskar Village] Box - Outside North-East House, East": 1,
+    "[Baskar Village] NPC - Chief Gift": 1,
+    "[Baskar Village] Rune - Hope Rune": 1,
+    "[Berry Cave] Big Box - After Bomb Wall, West": 2,
+    "[Berry Cave] Big Box - Before Bomb Wall": 2,
+    "[Berry Cave] Big Box - Near Entrance": 2,
+    "[Berry Cave] Boss - Zombie": 2,
+    "[Berry Cave] Chest - After Bomb Wall, East": 2,
+    "[Berry Cave] Chest - East of 5 Boxes": 2,
+    "[Berry Cave] Chest - East of Bat Bridge": 2,
+    "[Berry Cave] Chest - Holy Berry Room": 2,
+    "[Berry Cave] Chest - Inside Bomb Wall, Left": 2,
+    "[Berry Cave] Chest - Inside Bomb Wall, Middle": 2,
+    "[Berry Cave] Chest - Inside Bomb Wall, Right": 2,
+    "[Berry Cave] Chest - Near Save Point": 2,
+    "[Berry Cave] Chest - South of Bat Bridge": 2,
+    "[Berry Cave] Chest - South of Bombable Sign": 2,
+    "[Berry Cave] Pickup - Holy Berry": 2,
+    "[Cage Tower] ARM - 4th Floor, Middle": 2,
+    "[Cage Tower] Chest - 11th Floor, Left": 2,
+    "[Cage Tower] Chest - 11th Floor, Middle": 2,
+    "[Cage Tower] Chest - 11th Floor, Right": 2,
+    "[Cage Tower] Chest - 2nd Floor": 2,
+    "[Cage Tower] Chest - 4th Floor, Left": 2,
+    "[Cage Tower] Chest - 4th Floor, Right": 2,
+    "[Court Seim] Barrel - Agile Apple": 1,
+    "[Court Seim] Barrel - Crest Graph": 1,
+    "[Court Seim] Barrel - Hardy Apple": 1,
+    "[Court Seim] Barrel - Mystic Apple": 1,
+    "[Court Seim] Barrel - Power Apple": 1,
+    "[Curan Abbey] Barrel - Dormitory": 2,
+    "[Curan Abbey] Barrel - Kitchen": 2,
+    "[Curan Abbey] Barrel - Magic Vendor": 2,
+    "[Curan Abbey] NPC - Magic Teacher Gift": 2,
+    "[Dead Sanctuary] Chest - Crest Graph": 1,
+    "[Dead Sanctuary] Chest - Elder Scroll": 1,
+    "[Dead Sanctuary] Chest - Lunar Rod": 1,
+    "[Dead Sanctuary] Chest - Mystic Apple 1": 1,
+    "[Dead Sanctuary] Chest - Mystic Apple 2": 1,
+    "[Dead Sanctuary] Chest - Mystic Apple 3": 1,
+    "[Dead Sanctuary] Chest - Mystic Apple 4": 1,
+    "[Dead Sanctuary] Chest - Wise Slate": 1,
+    "[Demon's Lab] ARM - Bazooka": 1,
+    "[Demon's Lab] Chest - Bullet Clip 1": 1,
+    "[Demon's Lab] Chest - Bullet Clip 2": 1,
+    "[Demon's Lab] Chest - Energy Saber": 1,
+    "[Demon's Lab] Chest - Mega Berry": 1,
+    "[Demon's Lab] Chest - Potion Berry 1": 1,
+    "[Demon's Lab] Chest - Potion Berry 2": 1,
+    "[Demon's Lab] Chest - Potion Berry 3": 1,
+    "[Demon's Lab] Chest - Revive Fruit": 1,
+    "[Dragon Shrine] Chest - Crest Graph 1": 1,
+    "[Dragon Shrine] Chest - Crest Graph 2": 1,
+    "[Dragon Shrine] Chest - Crest Graph 3": 1,
+    "[Dragon Shrine] Chest - Duplicator": 1,
+    "[Dragon Shrine] Chest - Lucky Card": 1,
+    "[Dragon Shrine] Chest - Magic Carrot": 1,
+    "[Dragon Shrine] Chest - Magic Vase": 1,
+    "[Dragon Shrine] Chest - Shining Cape": 1,
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Left": 1,
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Middle": 1,
+    "[Elw Pyramid] Chest - Port Timney East, East Room, Right": 1,
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Left": 1,
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Middle": 1,
+    "[Elw Pyramid] Chest - Port Timney East, West Room, Right": 1,
+    "[Elw Pyramid] Chest - Saint Centour East, West Room, Left": 1,
+    "[Elw Pyramid] Chest - Saint Centour East, West Room, Right": 1,
+    "[Elw Pyramid] Chest - Saint Centour North": 1,
+    "[Epitaph Sea] Chest - Agile Apple": 1,
+    "[Epitaph Sea] Chest - Bullet Clip": 1,
+    "[Epitaph Sea] Chest - Crest Graph": 1,
+    "[Epitaph Sea] Chest - Duplicator": 1,
+    "[Epitaph Sea] Chest - Full Revive": 1,
+    "[Epitaph Sea] Chest - Lucky Card": 1,
+    "[Epitaph Sea] Chest - Magic Carrot": 1,
+    "[Epitaph Sea] Chest - Mystic Apple": 1,
+    "[Epitaph Sea] Chest - Potion Berry": 1,
+    "[Epitaph Sea] Chest - Reflex": 1,
+    "[Epitaph Sea] Chest - Rune Drive": 1,
+    "[Epitaph Sea] Chest - Secret Sign": 1,
+    "[Epitaph Sea] Chest - Talisman": 1,
+    "[Epitaph Sea] Trap Chest - Metal Bird": 1,
+    "[Filgaia] Bottle - Inner Sea Near Adlehyde": 1,
+    "[Filgaia] Bottle - Inner Sea Near Mountain Pass": 1,
+    "[Filgaia] Bottle - Inner Sea Near Saint Centour": 1,
+    "[Filgaia] Bottle - Inner Sea Near Tripillar": 1,
+    "[Filgaia] Bottle - Outer Sea Near Baskar": 1,
+    "[Filgaia] Bottle - Outer Sea Near Court Seim": 1,
+    "[Filgaia] Bottle - Outer Sea Near Demon's Lab": 1,
+    "[Filgaia] Bottle - Outer Sea Near Milama": 1,
+    "[Filgaia] Bottle - Outer Sea Near Port Timney": 1,
+    "[Forest Mound] Chest - Crest Graph 1": 1,
+    "[Forest Mound] Chest - Crest Graph 2": 1,
+    "[Forest Mound] Chest - Full Libra": 1,
+    "[Forest Prison] Chest - Crest Graph 1": 1,
+    "[Forest Prison] Chest - Crest Graph 2": 1,
+    "[Forest Prison] Chest - Crest Graph 3": 1,
+    "[Forest Prison] Chest - Crest Graph 4": 1,
+    "[Forest Prison] Chest - Crest Graph 5": 1,
+    "[Forest Prison] Chest - Mirage Coat": 1,
+    "[Forest Prison] Chest - Prairie Coat": 1,
+    "[Forest Prison] Chest - Warrior Vest": 1,
+    "[Forgotten Ruins] Barrel - Bullet Clip": 1,
+    "[Gate Generator] Chest - Bullet Clip 1": 2,
+    "[Gate Generator] Chest - Bullet Clip 2": 2,
+    "[Gate Generator] Chest - Crest Graph": 2,
+    "[Gate Generator] Chest - Force Unit": 2,
+    "[Gate Generator] Chest - Heal Berry": 2,
+    "[Gate Generator] Chest - Magic Carrot 1": 2,
+    "[Gate Generator] Chest - Magic Carrot 2": 2,
+    "[Gate Generator] Chest - Nectar": 2,
+    "[Gate Generator] Chest - Potion Berry 1": 2,
+    "[Gate Generator] Chest - Potion Berry 2": 2,
+    "[Gate Generator] Chest - Secret Sign": 2,
+    "[Gemini's Corpse] ARM - Phaser": 2,
+    "[Gemini's Corpse] Chest - Ambrosia": 2,
+    "[Gemini's Corpse] Chest - Black Pass": 2,
+    "[Gemini's Corpse] Chest - Crest Graph": 2,
+    "[Gemini's Corpse] Chest - Duplicator": 2,
+    "[Gemini's Corpse] Chest - Lucky Card": 2,
+    "[Gemini's Corpse] Chest - Magic Carrot": 2,
+    "[Gemini's Corpse] Chest - Mega Berry": 2,
+    "[Gemini's Corpse] Chest - Pouch": 2,
+    "[Gemini's Corpse] Chest - Power Glove": 2,
+    "[Gemini's Corpse] Chest - Secret Sign 1": 2,
+    "[Gemini's Corpse] Chest - Secret Sign 2": 2,
+    "[Ghost Ship] Boss - Captain Geist": 1,
+    "[Ghost Ship] Chest - Deck, Left": 1,
+    "[Ghost Ship] Chest - Deck, Right": 1,
+    "[Ghost Ship] Chest - Final Path Across Gap": 1,
+    "[Ghost Ship] Chest - Final Path Left": 1,
+    "[Ghost Ship] Chest - Left Path Before Grapple": 1,
+    "[Ghost Ship] Chest - Right Path Before Grapple": 1,
+    "[Ghost Ship] Chest - Right Path Inside Door": 1,
+    "[Giant's Cradle] Chest - Crest Graph 1": 1,
+    "[Giant's Cradle] Chest - Crest Graph 2": 1,
+    "[Giant's Cradle] Chest - Magic Carrot 1": 1,
+    "[Giant's Cradle] Chest - Magic Carrot 2": 1,
+    "[Giant's Cradle] Chest - Potion Berry 1": 1,
+    "[Giant's Cradle] Chest - Potion Berry 2": 1,
+    "[Guardian Shrine] Chest - 1st Room, East": 1,
+    "[Guardian Shrine] Chest - 1st Room, West": 1,
+    "[Guardian Shrine] Chest - Left Path Room": 1,
+    "[Guardian Shrine] Chest - Mystic Apple Room , Right": 1,
+    "[Guardian Shrine] Chest - Mystic Apple Room, Left": 1,
+    "[Guardian Shrine] Chest - Mystic Apple Room, Middle": 1,
+    "[Guardian Shrine] Chest - Right Path Room": 1,
+    "[Guardian Shrine] Force - Summon Guardian Cecilia": 1,
+    "[Guardian Shrine] Force - Summon Guardian Jack": 1,
+    "[Guardian Shrine] Force - Summon Guardian Rudy": 1,
+    "[Guardian Shrine] Rune - Earth Rune": 1,
+    "[Guardian Shrine] Rune - Fire Rune": 1,
+    "[Guardian Shrine] Rune - Wind Rune": 1,
+    "[Heaven Corridor] Chest - Crest Graph 1": 1,
+    "[Heaven Corridor] Chest - Crest Graph 2": 1,
+    "[Heaven Corridor] Chest - Crest Graph 3": 1,
+    "[Heaven Corridor] Chest - Crest Graph 4": 1,
+    "[Heaven Corridor] Chest - Magic Carrot": 1,
+    "[Heaven Corridor] Chest - Nectar": 1,
+    "[Ka Dingel] Chest - Ambrosia 1": 1,
+    "[Ka Dingel] Chest - Ambrosia 2": 1,
+    "[Ka Dingel] Chest - Full Revive 1": 1,
+    "[Ka Dingel] Chest - Full Revive 2": 1,
+    "[Ka Dingel] Chest - Full Revive 3": 1,
+    "[Ka Dingel] Chest - Full Revive 4": 1,
+    "[Ka Dingel] Chest - Lucky Card": 1,
+    "[Ka Dingel] Chest - Magic Carrot 1": 1,
+    "[Ka Dingel] Chest - Magic Carrot 2": 1,
+    "[Ka Dingel] Chest - Magic Carrot 3": 1,
+    "[Ka Dingel] Chest - Magic Carrot 4": 1,
+    "[Ka Dingel] Chest - Magic Carrot 5": 1,
+    "[Ka Dingel] Chest - Mega Berry 1": 1,
+    "[Ka Dingel] Chest - Mega Berry 2": 1,
+    "[Ka Dingel] Chest - Mega Berry 3": 1,
+    "[Ka Dingel] Chest - Mega Berry 4": 1,
+    "[Ka Dingel] Chest - Mega Berry 5": 1,
+    "[Ka Dingel] Chest - Metal Shield": 1,
+    "[Ka Dingel] Chest - Nectar 1": 1,
+    "[Ka Dingel] Chest - Nectar 2": 1,
+    "[Lolithia's Tomb] Boss - Magtortous": 2,
+    "[Lolithia's Tomb] Chest - 3rd Switch Room, Top": 2,
+    "[Lolithia's Tomb] Chest - After 1st Switch Room": 2,
+    "[Lolithia's Tomb] Chest - Bomb Ledge, Left": 2,
+    "[Lolithia's Tomb] Chest - Bomb Ledge, Right": 2,
+    "[Lolithia's Tomb] Chest - East Room, Left": 2,
+    "[Lolithia's Tomb] Chest - East Room, Right": 2,
+    "[Lolithia's Tomb] Chest - Lolithia Room, East": 2,
+    "[Lolithia's Tomb] Chest - Lolithia Room, West": 2,
+    "[Lolithia's Tomb] Chest - Tear Door Room, East": 2,
+    "[Lolithia's Tomb] Chest - Tear Door Room, West": 2,
+    "[Lolithia's Tomb] Chest - West Path 2nd Switch Room": 2,
+    "[Lolithia's Tomb] Chest - West Room, Left": 2,
+    "[Lolithia's Tomb] Chest - West Room, Middle": 2,
+    "[Lolithia's Tomb] Chest - West Room, Right": 2,
+    "[Lolithia's Tomb] NPC - Emma Reward": 2,
+    "[Lolithia's Tomb] Trap Chest - 1st Switch Room": 2,
+    "[Lolithia's Tomb] Trap Chest - 3rd Switch Room, Bottom": 2,
+    "[Lolithia's Tomb] Trap Chest - After Four Blocks Switch Room": 2,
+    "[Lolithia's Tomb] Trap Chest - East Path 2nd Switch Room": 2,
+    "[Malduke] ARM - Arch Smash": 2,
+    "[Malduke] Chest - Ambrosia": 2,
+    "[Malduke] Chest - Arms": 1,
+    "[Malduke] Chest - Assault Coat": 1,
+    "[Malduke] Chest - Bullet Clip": 2,
+    "[Malduke] Chest - Eye 1": 1,
+    "[Malduke] Chest - Eye 2": 1,
+    "[Malduke] Chest - Eye 3": 1,
+    "[Malduke] Chest - Eye 4": 1,
+    "[Malduke] Chest - Eye 5": 1,
+    "[Malduke] Chest - Eye 6": 1,
+    "[Malduke] Chest - Filgaia Robe": 1,
+    "[Malduke] Chest - Guitar": 2,
+    "[Malduke] Chest - Jolla Poncho": 1,
+    "[Malduke] Chest - Magic Carrot 1": 2,
+    "[Malduke] Chest - Magic Carrot 2": 2,
+    "[Malduke] Chest - Nectar 1": 2,
+    "[Malduke] Chest - Nectar 2": 2,
+    "[Malduke] Chest - Nectar 3": 2,
+    "[Malduke] Chest - Nectar 4": 2,
+    "[Malduke] Chest - Nectar 5": 2,
+    "[Malduke] Chest - Princess Rod": 2,
+    "[Malduke] Chest - Silver Blade": 2,
+    "[Malduke] Chest - Violator": 2,
+    "[Malduke] Chest - Wings": 1,
+    "[Maze of Death] Boss - Chaos": 1,
+    "[Maze of Death] Chest - Left Path Near Pit": 1,
+    "[Maze of Death] Chest - Left Path, North Room, Left": 1,
+    "[Maze of Death] Chest - Left Path, North Room, Right": 1,
+    "[Maze of Death] Chest - Path to Chaos, East": 1,
+    "[Maze of Death] Chest - Path to Chaos, West": 1,
+    "[Maze of Death] Chest - Right Path Near Pit": 1,
+    "[Maze of Death] Chest - Right Path, Dead End Room 1": 1,
+    "[Maze of Death] Chest - Right Path, Dead End Room 2": 1,
+    "[Maze of Death] Chest - Right Path, Dead End Room 3": 1,
+    "[Maze of Death] Chest - Right Path, Dead End Room 4": 1,
+    "[Maze of Death] Pickup - Crystal Bud": 1,
+    "[Maze of Death] Rune - Death Rune": 1,
+    "[Memory Temple] Chest - Emiko Room, East": 1,
+    "[Memory Temple] Chest - Emiko Room, North": 1,
+    "[Memory Temple] Chest - Emiko Room, West": 1,
+    "[Memory Temple] Chest - First Room, Entrance": 1,
+    "[Memory Temple] Chest - First Room, North-West": 1,
+    "[Memory Temple] Chest - Maze Room, Left": 1,
+    "[Memory Temple] Chest - Maze Room, Right": 1,
+    "[Memory Temple] Chest - Spear Room, East": 1,
+    "[Memory Temple] Chest - Spear Room, West": 1,
+    "[Memory Temple] Chest - Spike Room, South": 1,
+    "[Milama Village] Barrel - Inside House East of Chapel": 1,
+    "[Milama Village] Barrel - Inside Sibling's House": 1,
+    "[Milama Village] Barrel - Inside South-East House": 1,
+    "[Milama Village] Barrel - Ouside Radar House": 1,
+    "[Milama Village] Barrel - Outside Grandpa's House": 1,
+    "[Milama Village] Barrel - Outside Pub": 1,
+    "[Milama Village] Barrel - Outside Sibling's House": 1,
+    "[Milama Village] Barrel - Outside Waterfront House": 1,
+    "[Milama Village] Barrel - South of Chapel": 1,
+    "[Milama Village] Barrel - South of Inn": 1,
+    "[Milama Village] Big Box - Outside Waterfront House, Left": 1,
+    "[Milama Village] Big Box - Outside Waterfront House, Middle": 1,
+    "[Milama Village] Big Box - Outside Waterfront House, Right": 1,
+    "[Milama Village] Chest - Inside Radar House": 1,
+    "[Milama Village] NPC - Pub Owner Gift": 1,
+    "[Mount Zenom] Boss - Orga Widow": 1,
+    "[Mount Zenom] Chest - Inside Tier 5": 1,
+    "[Mount Zenom] Chest - Outside Tier 2, East": 1,
+    "[Mount Zenom] Chest - Outside Tier 2, North": 1,
+    "[Mount Zenom] Chest - Outside Tier 2, West": 1,
+    "[Mount Zenom] Chest - Outside Tier 3": 1,
+    "[Mount Zenom] Chest - Outside Tier 4,West": 1,
+    "[Mount Zenom] Chest - Outside Tier 5, After Drop": 1,
+    "[Mount Zenom] Fast Draw - Meteor Dive": 1,
+    "[Mount Zenom] Rune - Summit Rune": 1,
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down": 1,
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down-Left": 1,
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Down-Right": 1,
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Left": 1,
+    "[Mount Zenom] Trap Chest - Outside Tier 4, Right": 1,
+    "[Mountain Pass] Chest - East Side Left Path, Left": 1,
+    "[Mountain Pass] Chest - East Side Left Path, Right": 1,
+    "[Mountain Pass] Chest - East Side Peak": 1,
+    "[Mountain Pass] Chest - East Side, After Rock": 1,
+    "[Mountain Pass] Chest - West Side Peak, Right": 1,
+    "[Mountain Pass] Chest - West Side Peak, Top": 1,
+    "[Mountain Pass] Chest - West Side, After Rock": 1,
+    "[Mountain Pass] Chest - West Side, In Bushes": 1,
+    "[Mountain Pass] Chest - West Side, Inside Bomb Wall": 1,
+    "[Mountain Pass] Fast Draw - Sonic Buster": 1,
+    "[Mountain Pass] Pickup - Lighter": 1,
+    "[Pandemonium] Chest - Ambrosia": 1,
+    "[Pandemonium] Chest - Bullet Clip": 1,
+    "[Pandemonium] Chest - Crest Graph 1": 1,
+    "[Pandemonium] Chest - Crest Graph 2": 1,
+    "[Pandemonium] Chest - Lucky Card": 1,
+    "[Pandemonium] Chest - Magic Carrot 1": 1,
+    "[Pandemonium] Chest - Magic Carrot 2": 1,
+    "[Pandemonium] Chest - Mega Berry": 1,
+    "[Pandemonium] Chest - Mind Gem": 1,
+    "[Pandemonium] Chest - Secret Sign": 1,
+    "[Photosphere] ARM - Twin Orbs": 1,
+    "[Photosphere] Chest - Agile Apple": 1,
+    "[Photosphere] Chest - Full Revive": 1,
+    "[Photosphere] Chest - Gauntlet": 1,
+    "[Photosphere] Chest - Hardy Apple 1": 1,
+    "[Photosphere] Chest - Hardy Apple 2": 1,
+    "[Photosphere] Chest - Magic Carrot": 1,
+    "[Photosphere] Chest - Mega Berry": 1,
+    "[Photosphere] Chest - Potion Berry 1": 1,
+    "[Photosphere] Chest - Potion Berry 2": 1,
+    "[Photosphere] Chest - Potion Berry 3": 1,
+    "[Photosphere] Chest - Potion Berry 4": 1,
+    "[Photosphere] Chest - Potion Berry 5": 1,
+    "[Photosphere] Chest - Revive Fruit 1": 1,
+    "[Photosphere] Chest - Revive Fruit 2": 1,
+    "[Photosphere] Chest - Revive Fruit 3": 1,
+    "[Pleasing Garden] Boss - Gigmantis": 1,
+    "[Pleasing Garden] Chest - Behind Switch Blocks, Left": 1,
+    "[Pleasing Garden] Chest - Behind Switch Blocks, Right": 1,
+    "[Pleasing Garden] Chest - Dead-end Room": 1,
+    "[Pleasing Garden] Chest - East Portal Room": 1,
+    "[Pleasing Garden] Pickup - Bracelet": 1,
+    "[Pleasing Garden] Pickup - Grappling Hook": 1,
+    "[Pleasing Garden] Rune - Flash Rune": 1,
+    "[Port Timney] Barrel - East of North House": 1,
+    "[Port Timney] Barrel - East of Storage Room": 1,
+    "[Port Timney] Barrel - Inside North House": 1,
+    "[Port Timney] Barrel - Inside Storage Room": 1,
+    "[Port Timney] Barrel - North of Inn": 1,
+    "[Port Timney] Barrel - South of Inn": 1,
+    "[Port Timney] Chest - Inside Storage Room": 1,
+    "[Port Timney] Chest - West of Pub": 1,
+    "[Port Timney] Fast Draw - Trickster": 1,
+    "[Port Timney] NPC - Bartholomew's Gift": 1,
+    "[Rosetta Town] Barrel - 1 Gella Coin": 1,
+    "[Rosetta Town] Barrel - 498 gella": 1,
+    "[Rosetta Town] Chest - Crest Graph": 1,
+    "[Rosetta Town] Chest - Hardy Apple": 1,
+    "[Rosetta Town] Chest - Head Gear": 1,
+    "[Rosetta Town] Chest - Magic Carrot": 1,
+    "[Rosetta Town] Chest - Power Apple": 1,
+    "[Sacred Shrine] Barrel - 2130 gella": 2,
+    "[Sacred Shrine] Barrel - 320 gella": 2,
+    "[Sacred Shrine] Barrel - 4800 gella": 2,
+    "[Sacred Shrine] Barrel - Duplicator": 2,
+    "[Sacred Shrine] Barrel - Potion Berry 1": 2,
+    "[Sacred Shrine] Barrel - Potion Berry 2": 2,
+    "[Sacred Shrine] Chest - Crest Graph": 2,
+    "[Sacred Shrine] Chest - Magic Carrot": 2,
+    "[Sacred Shrine] Chest - Potion Berry": 2,
+    "[Sacred Shrine] Chest - Revive Fruit": 2,
+    "[Sacred Shrine] Chest - Rune Drive": 2,
+    "[Sacred Shrine] Chest - Secret Book": 2,
+    "[Sacred Shrine] Chest - Secret Sign": 2,
+    "[Saint Centour] Barrel - Outside Magic Shop, North": 1,
+    "[Saint Centour] Barrel - Outside Pub, South": 1,
+    "[Saint Centour] Barrel - Outside South-West House, South": 1,
+    "[Saint Centour] Chest - Inside North House": 1,
+    "[Saint Centour] Chest - Inside West House": 1,
+    "[Saint Centour] Chest - North-West House Basement": 1,
+    "[Saint Centour] Chest - Outside Inn, North": 1,
+    "[Saint Centour] Chest - Outside Item Shop, East": 1,
+    "[Saint Centour] Chest - Outside Item Shop, South": 1,
+    "[Saint Centour] Chest - Outside North-West House, West": 1,
+    "[Saint Centour] Chest - Outside Pub, East": 1,
+    "[Saint Centour] Chest - Pub, Left": 1,
+    "[Saint Centour] Chest - Pub, Middle": 1,
+    "[Saint Centour] Chest - Pub, Right": 1,
+    "[Saint Centour] Chest - South of Ione Paua": 1,
+    "[Saint Centour] Chest - West House Basement": 1,
+    "[Saint Centour] NPC - Researcher's Gift": 1,
+    "[Saint Centour] Rune - Saint Rune": 1,
+    "[Sand River] Chest - 1st Room, Left": 1,
+    "[Sand River] Chest - 1st Room, Right": 1,
+    "[Sand River] Chest - 2nd Room, Left": 1,
+    "[Sand River] Chest - 2nd Room, Right": 1,
+    "[Sand River] Chest - 3rd Room, Left": 1,
+    "[Sand River] Chest - 3rd Room, Right": 1,
+    "[Sand River] Chest - 6th Room": 1,
+    "[Sand River] Chest - After Bomb Wall": 1,
+    "[Sand River] Fast Draw - Heal Blade": 1,
+    "[Sealed Library] Boss - Nelgaul": 1,
+    "[Sealed Library] Chest - 1st Crystal Room, Bottom": 1,
+    "[Sealed Library] Chest - 1st Crystal Room, Top": 1,
+    "[Sealed Library] Chest - 2nd Crystal Room, Left": 1,
+    "[Sealed Library] Chest - 2nd Crystal Room, Right": 1,
+    "[Sealed Library] Chest - Library, Left": 1,
+    "[Sealed Library] Chest - Library, Right": 1,
+    "[Sealed Library] Rune - Water Rune": 1,
+    "[Secret Passage] Chest - 1st Section, Across water": 1,
+    "[Secret Passage] Chest - 1st Section, Near broken bridge": 1,
+    "[Secret Passage] Chest - 2nd Section, Bottom": 1,
+    "[Secret Passage] Chest - 2nd Section, Right": 1,
+    "[Secret Passage] Chest - 3rd Section, Across water": 1,
+    "[Secret Passage] Chest - 3rd Section, Left": 1,
+    "[Secret Passage] Chest - 3rd Section, Right": 1,
+    "[Secret Passage] Chest - 4th Section, Near Exit": 1,
+    "[Ship Graveyard] Barrel - East of ARM shop": 1,
+    "[Ship Graveyard] Barrel - East of Inn": 1,
+    "[Ship Graveyard] Barrel - West of Inn": 1,
+    "[Ship Graveyard] Barrel - West of Save Bird": 1,
+    "[Ship Graveyard] Big Box - North of Dan's House": 1,
+    "[Ship Graveyard] Big Box - North of Item Shop 1": 1,
+    "[Ship Graveyard] Big Box - North of Item Shop 2": 1,
+    "[Ship Graveyard] Big Box - West of Dan's House 1": 1,
+    "[Ship Graveyard] Big Box - West of Dan's House 2": 1,
+    "[Ship Graveyard] Chest - Shipwreck Beach 3": 1,
+    "[Ship Graveyard] Chest - Shipwreck Beach 4": 1,
+    "[Ship Graveyard] Chest - Shipwreck Beach 5": 1,
+    "[Ship Graveyard] Force - Sonic Vision": 1,
+    "[Ship Graveyard] Pickup - Shipwreck Beach 1": 1,
+    "[Ship Graveyard] Pickup - Shipwreck Beach 2": 1,
+    "[Ship Graveyard] Pickup - Shipwreck Beach 6": 1,
+    "[Surf Village] Barrel - East of chicken house": 1,
+    "[Surf Village] Barrel - East of farm house": 1,
+    "[Surf Village] Barrel - East of shop house": 1,
+    "[Surf Village] Barrel - Mayor's House, Bottom Floor": 1,
+    "[Surf Village] Box - Outside Mayor's House": 1,
+    "[Surf Village] Box - South of stable": 1,
+    "[Surf Village] Box - West Fence": 1,
+    "[Surf Village] Box - West of stable": 1,
+    "[Surf Village] NPC - Employer Gift": 1,
+    "[Surf Village] NPC - Mayor Gift": 1,
+    "[Sweet Candy] Boss - Zed 1": 2,
+    "[Sweet Candy] NPC - Bartholomew's Gift": 2,
+    "[Sweet Candy] NPC - Wedding Gift 1": 2,
+    "[Sweet Candy] NPC - Wedding Gift 2": 2,
+    "[Sweet Candy] NPC - Wedding Gift 3": 2,
+    "[Sweet Candy] NPC - Wedding Gift 4": 2,
+    "[Sweet Candy] Rune - Thunder Rune": 2,
+    "[Tarjon Village] Barrel - East of Entrance": 1,
+    "[Tarjon Village] Barrel - East of North-East House": 1,
+    "[Tarjon Village] Barrel - Inside Emiko's House, First Floor": 1,
+    "[Tarjon Village] Barrel - Inside South-West House": 1,
+    "[Tarjon Village] Barrel - South of Emiko's House": 1,
+    "[Tarjon Village] Barrel - South of North-West House": 1,
+    "[The Abyss] Chest - Amulet": 1,
+    "[The Abyss] Chest - Dead Heat": 1,
+    "[The Abyss] Chest - Power Boost": 1,
+    "[The Abyss] Chest - Ruby Tiara": 1,
+    "[The Abyss] Chest - Texas Number": 1,
+    "[Tripillar] Chest - Bullet Clip": 1,
+    "[Tripillar] Chest - Magic Carrot": 1,
+    "[Tripillar] Chest - Potion Berry 1": 1,
+    "[Tripillar] Chest - Potion Berry 2": 1,
+    "[Tripillar] Chest - Potion Berry 3": 1,
+    "[Tripillar] Chest - Potion Berry 4": 1,
+    "[Tripillar] Chest - Potion Berry 5": 1,
+    "[Tripillar] Chest - Potion Berry 6": 1,
+    "[Tripillar] Chest - Secret Sign": 1,
+    "[Vassim's Lab] Barrel - Duplicator": 1,
+    "[Vassim's Lab] Barrel - Hyper Gear": 1,
+    "[Vassim's Lab] Barrel - Magic Carrot": 1,
+    "[Vassim's Lab] Barrel - Mega Berry": 1,
+    "[Vassim's Lab] Big Box - Secret Tool": 1,
+    "[Volcannon Trap] ARM - Rocket Launcher": 2,
+    "[Volcannon Trap] Chest - 1800 gella": 2,
+    "[Volcannon Trap] Chest - 971 gella": 2,
+    "[Volcannon Trap] Chest - Bullet Clip": 2,
+    "[Volcannon Trap] Chest - Crest Graph": 2,
+    "[Volcannon Trap] Chest - Lucky Card": 2,
+    "[Volcannon Trap] Chest - Magic Carrot": 2,
+    "[Volcannon Trap] Chest - Potion Berry 1": 2,
+    "[Volcannon Trap] Chest - Potion Berry 2": 2,
+    "[Volcannon Trap] Chest - Revive Fruit": 2,
+    "[Volcannon Trap] Chest - Secret Sign": 2,
+    "[Volcannon Trap] Chest - Silver Harp": 2,
+    "[Wandering Isle] Chest - Crest Graph": 1,
+    "[Wandering Isle] Chest - Magic Carrot": 1,
+    "[Wandering Isle] Chest - Red Jacket": 1,
+    "[Wandering Isle] Chest - Sioux Poncho": 1
+  },
+  "item_names": {
+    "1 Gella Coin": "1 Gella Coin",
+    "100 Gella": "100 Gella",
+    "1000 Gella": "1000 Gella",
+    "10000 Gella": "10000 Gella",
+    "10gal Hat": "10gal Hat",
+    "200 Gella": "200 Gella",
+    "2000 Gella": "2000 Gella",
+    "300 Gella": "300 Gella",
+    "3000 Gella": "3000 Gella",
+    "500 Gella": "500 Gella",
+    "5000 Gella": "5000 Gella",
+    "<ARM> Arch Smash": "Arch Smash",
+    "<ARM> Bazooka": "Bazooka",
+    "<ARM> Hand Cann.": "Hand Cann.",
+    "<ARM> Phaser": "Phaser",
+    "<ARM> Prism Ray": "Prism Ray",
+    "<ARM> Rocket L.": "Rocket L.",
+    "<ARM> Twin Orbs": "Twin Orbs",
+    "<ARM> Wild Bunch": "Wild Bunch",
+    "<Fast Draw> Blast Charge": "Blast Charge",
+    "<Fast Draw> Cosmic Nova": "Cosmic Nova",
+    "<Fast Draw> Divide Shot": "Divide Shot",
+    "<Fast Draw> Guilty Blade": "Guilty Blade",
+    "<Fast Draw> Heal Blade": "Heal Blade",
+    "<Fast Draw> Magnum Fang": "Magnum Fang",
+    "<Fast Draw> Meteor Dive": "Meteor Dive",
+    "<Fast Draw> Phazer Zapp": "Phazer Zapp",
+    "<Fast Draw> Psycho Crack": "Psycho Crack",
+    "<Fast Draw> Shadow Bind": "Shadow Bind",
+    "<Fast Draw> Slash Rave": "Slash Rave",
+    "<Fast Draw> Sonic Buster": "Sonic Buster",
+    "<Fast Draw> Soul Breaker": "Soul Breaker",
+    "<Fast Draw> Trickster": "Trickster",
+    "<Fast Draw> Trump Card": "Trump Card",
+    "<Fast Draw> Void": "Void",
+    "<Force> ARM Lock On": "ARM Lock On",
+    "<Force> Accelerator": "Accelerator",
+    "<Force> Double Attack": "Double Attack",
+    "<Force> Dual Cast": "Dual Cast",
+    "<Force> Fury Shot": "Fury Shot",
+    "<Force> High Guardian": "High Guardian",
+    "<Force> Mystic": "Mystic",
+    "<Force> Protector": "Protector",
+    "<Force> Sonic Vision": "Sonic Vision",
+    "<Force> Summon Guardian Cecilia": "Summon Guardian",
+    "<Force> Summon Guardian Jack": "Summon Guardian",
+    "<Force> Summon Guardian Rudy": "Summon Guardian",
+    "<Spell> Air Screen": "Air Screen",
+    "<Spell> Analyze": "Analyze",
+    "<Spell> Anti Magic": "Anti Magic",
+    "<Spell> Arm. Down": "Arm. Down",
+    "<Spell> Awaken": "Awaken",
+    "<Spell> Banish": "Banish",
+    "<Spell> Blast": "Blast",
+    "<Spell> Bomb": "Bomb",
+    "<Spell> Break": "Break",
+    "<Spell> Confusion": "Confusion",
+    "<Spell> Counter Up": "Counter Up",
+    "<Spell> Curse": "Curse",
+    "<Spell> Dark Blow": "Dark Blow",
+    "<Spell> Darkness": "Darkness",
+    "<Spell> Dispell": "Dispell",
+    "<Spell> Dummy Doll": "Dummy Doll",
+    "<Spell> Eraser": "Eraser",
+    "<Spell> Escape": "Escape",
+    "<Spell> Field": "Field",
+    "<Spell> Flame": "Flame",
+    "<Spell> Flash": "Flash",
+    "<Spell> Freeze": "Freeze",
+    "<Spell> Heal": "Heal",
+    "<Spell> Hi-Blast": "Hi-Blast",
+    "<Spell> Hi-Break": "Hi-Break",
+    "<Spell> Hi-Flame": "Hi-Flame",
+    "<Spell> Hi-Freeze": "Hi-Freeze",
+    "<Spell> Hi-Heal": "Hi-Heal",
+    "<Spell> Hi-Prison": "Hi-Prison",
+    "<Spell> Hi-Reflect": "Hi-Reflect",
+    "<Spell> Hi-Revive": "Hi-Revive",
+    "<Spell> Hi-Shield": "Hi-Shield",
+    "<Spell> Hi-Spark": "Hi-Spark",
+    "<Spell> Hi-Vortex": "Hi-Vortex",
+    "<Spell> Hide": "Hide",
+    "<Spell> Hyper": "Hyper",
+    "<Spell> Invisible": "Invisible",
+    "<Spell> Life Drain": "Life Drain",
+    "<Spell> Life Guard": "Life Guard",
+    "<Spell> Light Blow": "Light Blow",
+    "<Spell> Lock State": "Lock State",
+    "<Spell> Lucky Shot": "Lucky Shot",
+    "<Spell> MP Drain": "MP Drain",
+    "<Spell> Prison": "Prison",
+    "<Spell> Protect": "Protect",
+    "<Spell> Quick": "Quick",
+    "<Spell> Rage": "Rage",
+    "<Spell> Rainbow": "Rainbow",
+    "<Spell> Randomizer": "Randomizer",
+    "<Spell> Reflect": "Reflect",
+    "<Spell> Remedy": "Remedy",
+    "<Spell> Restore": "Restore",
+    "<Spell> Revive": "Revive",
+    "<Spell> Saint": "Saint",
+    "<Spell> Shield": "Shield",
+    "<Spell> Silence": "Silence",
+    "<Spell> Sleep": "Sleep",
+    "<Spell> Slow Down": "Slow Down",
+    "<Spell> Soul Guard": "Soul Guard",
+    "<Spell> Spark": "Spark",
+    "<Spell> Suction": "Suction",
+    "<Spell> Teleport": "Teleport",
+    "<Spell> Valkyrie": "Valkyrie",
+    "<Spell> Vortex": "Vortex",
+    "Agile Apple": "Agile Apple",
+    "Ambrosia": "Ambrosia",
+    "Amulet": "Amulet",
+    "Angel Quill": "Angel Quill",
+    "Antidote": "Antidote",
+    "Aqua Ring": "Aqua Ring",
+    "Arctic Blade": "Arctic Blade",
+    "Armor Vest": "Armor Vest",
+    "Arms": "Arms",
+    "Assault Coat": "Assault Coat",
+    "Bandanna": "Bandanna",
+    "Bastard Sword": "Bastard Sword",
+    "Battle Cloak": "Battle Cloak",
+    "Black Feral": "Black Feral",
+    "Black Pass": "Black Pass",
+    "Blade Crash": "Blade Crash",
+    "Blue Circlet": "Blue Circlet",
+    "Blue Ribbon": "Blue Ribbon",
+    "Blue Virtue": "Blue Virtue",
+    "Blue Wind": "Blue Wind",
+    "Bombs": "Bombs",
+    "Bone": "Bone",
+    "Boom Getter": "Boom Getter",
+    "Bracelet": "Bracelet",
+    "Brass Band": "Brass Band",
+    "Braver Vest": "Braver Vest",
+    "Breeze Cape": "Breeze Cape",
+    "Bronze Sword": "Bronze Sword",
+    "Buckler": "Buckler",
+    "Bullet Clip": "Bullet Clip",
+    "Capuche": "Capuche",
+    "Castle Rune": "Castle Rune",
+    "Chain Cloak": "Chain Cloak",
+    "Chic Bolero": "Chic Bolero",
+    "Chris Knife": "Chris Knife",
+    "Chrome Blade": "Chrome Blade",
+    "Chrono Rune": "Chrono Rune",
+    "Claymore": "Claymore",
+    "Clear Chime": "Clear Chime",
+    "Courage Rune": "Courage Rune",
+    "Cowboy Hat": "Cowboy Hat",
+    "Crest Graph": "Crest Graph",
+    "Crest Wand": "Crest Wand",
+    "Cross Cloak": "Cross Cloak",
+    "Cross Saber": "Cross Saber",
+    "Crystal Bud": "Crystal Bud",
+    "Crystal Edge": "Crystal Edge",
+    "Cute Ribbon": "Cute Ribbon",
+    "Dawn Poncho": "Dawn Poncho",
+    "Dead Heat": "Dead Heat",
+    "Death Rune": "Death Rune",
+    "Demon Ring": "Demon Ring",
+    "Diary": "Diary",
+    "Dispellado": "Dispellado",
+    "Dist Dims": "Dist Dims",
+    "Divine Blade": "Divine Blade",
+    "Doom Bringer": "Doom Bringer",
+    "Dragon Idol": "Dragon Idol",
+    "Dream Wand": "Dream Wand",
+    "Duplicator": "Duplicator",
+    "Dusk Poncho": "Dusk Poncho",
+    "Earth Rune": "Earth Rune",
+    "Elder Scroll": "Elder Scroll",
+    "Energy Saber": "Energy Saber",
+    "Eradicator": "Eradicator",
+    "Extinction": "Extinction",
+    "Eye": "Eye",
+    "Eye #2": "Eye #2",
+    "Filgaia Robe": "Filgaia Robe",
+    "Fire Rune": "Fire Rune",
+    "Fish Badge": "Fish Badge",
+    "Flame Ring": "Flame Ring",
+    "Flash Rune": "Flash Rune",
+    "Force Unit": "Force Unit",
+    "Frog Badge": "Frog Badge",
+    "Full Libra": "Full Libra",
+    "Full Revive": "Full Revive",
+    "Garnet Coat": "Garnet Coat",
+    "Gauntlet": "Gauntlet",
+    "Gemini Circ. #1": "Gemini Circ. #1",
+    "Gemini Circ. #2": "Gemini Circ. #2",
+    "Geo Ring": "Geo Ring",
+    "Goat Doll": "Goat Doll",
+    "Goddess Idol": "Goddess Idol",
+    "Grapple": "Grapple",
+    "Guard Jacket": "Guard Jacket",
+    "Guitar": "Guitar",
+    "Hades Rune": "Hades Rune",
+    "Hanpan": "Hanpan",
+    "Hard Cloak": "Hard Cloak",
+    "Hard Guard": "Hard Guard",
+    "Hardy Apple": "Hardy Apple",
+    "Head Gear": "Head Gear",
+    "Heal Berry": "Heal Berry",
+    "Heat Salve": "Heat Salve",
+    "Heavens Rune": "Heavens Rune",
+    "Herb Arnica": "Herb Arnica",
+    "Hide Glove": "Hide Glove",
+    "Holy Berry": "Holy Berry",
+    "Holy Grail": "Holy Grail",
+    "Holy Medal": "Holy Medal",
+    "Holy Parasol": "Holy Parasol",
+    "Holy Ring": "Holy Ring",
+    "Holy Symbol": "Holy Symbol",
+    "Hope Rune": "Hope Rune",
+    "Hybrid Sword": "Hybrid Sword",
+    "Hyper Gear": "Hyper Gear",
+    "Ice Rune": "Ice Rune",
+    "Jade Wilder": "Jade Wilder",
+    "Jewel": "Jewel",
+    "Jolla Poncho": "Jolla Poncho",
+    "Journey Coat": "Journey Coat",
+    "Juggernaut": "Juggernaut",
+    "Key Plate": "Key Plate",
+    "Kizim Fire": "Kizim Fire",
+    "Life Rune": "Life Rune",
+    "Light Shroom": "Light Shroom",
+    "Lighter": "Lighter",
+    "Lion Idol": "Lion Idol",
+    "Lone Wolf": "Lone Wolf",
+    "Long Knife": "Long Knife",
+    "Long Sword": "Long Sword",
+    "Love Rune": "Love Rune",
+    "Lucky Card": "Lucky Card",
+    "Lunar Rod": "Lunar Rod",
+    "Lunatic Wand": "Lunatic Wand",
+    "Mage Staff": "Mage Staff",
+    "Magic Carrot": "Magic Carrot",
+    "Magic Map": "Magic Map",
+    "Magical Rod": "Magical Rod",
+    "Magus Robe": "Magus Robe",
+    "Medicine": "Medicine",
+    "Mega Berry": "Mega Berry",
+    "Memoirs Pen": "Memoirs Pen",
+    "Metal Band": "Metal Band",
+    "Metal Bird": "Metal Bird",
+    "Metal Jacket": "Metal Jacket",
+    "Metal Shield": "Metal Shield",
+    "Might Blade": "Might Blade",
+    "Mind Gem": "Mind Gem",
+    "Mirage Coat": "Mirage Coat",
+    "Missanga": "Missanga",
+    "Mist Blazer": "Mist Blazer",
+    "Moon Stone": "Moon Stone",
+    "My Grand Hat": "My Grand Hat",
+    "Mystic Apple": "Mystic Apple",
+    "Mystic Slate": "Mystic Slate",
+    "Mystic Word": "Mystic Word",
+    "Necronomicon": "Necronomicon",
+    "Nectar": "Nectar",
+    "Night Fencer": "Night Fencer",
+    "Ocarina": "Ocarina",
+    "Old Cape": "Old Cape",
+    "Olive Branch": "Olive Branch",
+    "Orb of Life": "Orb of Life",
+    "Orb of Power": "Orb of Power",
+    "P. Glove": "P. Glove",
+    "Pin Wheel": "Pin Wheel",
+    "Potion Berry": "Potion Berry",
+    "Pouch": "Pouch",
+    "Power Apple": "Power Apple",
+    "Power Boost": "Power Boost",
+    "Prairie Coat": "Prairie Coat",
+    "Pret-a-porte": "Pret-a-porte",
+    "Princess Rod": "Princess Rod",
+    "Prism Stick": "Prism Stick",
+    "Progressive Cecilia Armor": "Cecilia Armor",
+    "Progressive Cecilia Head": "Cecilia Head",
+    "Progressive Cecilia Left Hand": "Cecilia L.hand",
+    "Progressive Cecilia Weapon": "Cecilia Weapon",
+    "Progressive Jack Armor": "Jack Armor",
+    "Progressive Jack Head": "Jack Head",
+    "Progressive Jack Left Hand": "Jack L.hand",
+    "Progressive Jack Weapon": "Jack Weapon",
+    "Progressive Rudy Armor": "Rudy Armor",
+    "Progressive Rudy Head": "Rudy Head",
+    "Progressive Rudy Left Hand": "Rudy L.hand",
+    "Progressive Rudy Weapon": "Rudy Weapon",
+    "Protect Cape": "Protect Cape",
+    "Radar": "Radar",
+    "Rainbow Wand": "Rainbow Wand",
+    "Red Jacket": "Red Jacket",
+    "Red Malice": "Red Malice",
+    "Reflex": "Reflex",
+    "Reverse Edge": "Reverse Edge",
+    "Revive Fruit": "Revive Fruit",
+    "Round Shield": "Round Shield",
+    "Ruby Bische": "Ruby Bische",
+    "Ruby Tiara": "Ruby Tiara",
+    "Rune Drive": "Rune Drive",
+    "Rune Staff": "Rune Staff",
+    "Saber Fang": "Saber Fang",
+    "Saint Rune": "Saint Rune",
+    "Secret Book": "Secret Book",
+    "Secret Sign": "Secret Sign",
+    "Secret Tool": "Secret Tool",
+    "Serenade": "Serenade",
+    "Sheriff Star": "Sheriff Star",
+    "Sheriff Whop": "Sheriff Whop",
+    "Shining Cape": "Shining Cape",
+    "Side Blade": "Side Blade",
+    "Silver Band": "Silver Band",
+    "Silver Blade": "Silver Blade",
+    "Silver Harp": "Silver Harp",
+    "Sioux Poncho": "Sioux Poncho",
+    "Skates": "Skates",
+    "Small Flower": "Small Flower",
+    "Sorcery Wand": "Sorcery Wand",
+    "Spirit Blade": "Spirit Blade",
+    "Spirit Key": "Spirit Key",
+    "Spirit Ring": "Spirit Ring",
+    "Star Rune": "Star Rune",
+    "Summit Rune": "Summit Rune",
+    "Sun Poncho": "Sun Poncho",
+    "Sunbird Hat": "Sunbird Hat",
+    "Sunglasses": "Sunglasses",
+    "Survive Cape": "Survive Cape",
+    "Sword Radius": "Sword Radius",
+    "Sword Rune": "Sword Rune",
+    "Talisman": "Talisman",
+    "Tear": "Tear",
+    "Texas Number": "Texas Number",
+    "Thunder Ring": "Thunder Ring",
+    "Thunder Rune": "Thunder Rune",
+    "Toy Hammer": "Toy Hammer",
+    "Travel Vest": "Travel Vest",
+    "Triton Rune": "Triton Rune",
+    "Vase": "Vase",
+    "Violator": "Violator",
+    "Violet Rose": "Violet Rose",
+    "Vopal Razor": "Vopal Razor",
+    "Wand": "Wand",
+    "War Coat": "War Coat",
+    "Warrior Vest": "Warrior Vest",
+    "Watch": "Watch",
+    "Water Rune": "Water Rune",
+    "White Robe": "White Robe",
+    "Wind Ring": "Wind Ring",
+    "Wind Rune": "Wind Rune",
+    "Wind Vane": "Wind Vane",
+    "Wind-up Key": "Wind-up Key",
+    "Wings": "Wings",
+    "Wise Slate": "Wise Slate"
+  },
+  "pools": {
+    "0": [
+      {
+        "runs": [
+          [
+            3259318,
+            17
+          ]
+        ],
+        "start": 1774
+      },
+      {
+        "runs": [
+          [
+            3259470,
+            12
+          ]
+        ],
+        "start": 1926
+      },
+      {
+        "runs": [
+          [
+            3258595,
+            531
+          ]
+        ],
+        "start": 1051
+      }
+    ],
+    "1": [
+      {
+        "runs": [
+          [
+            3938557,
+            17
+          ]
+        ],
+        "start": 64773
+      },
+      {
+        "runs": [
+          [
+            3938687,
+            34
+          ]
+        ],
+        "start": 64903
+      },
+      {
+        "runs": [
+          [
+            3937658,
+            707
+          ]
+        ],
+        "start": 63874
+      }
+    ],
+    "10": [
+      {
+        "runs": [
+          [
+            10077769,
+            17
+          ]
+        ],
+        "start": 65265
+      },
+      {
+        "runs": [
+          [
+            10077899,
+            34
+          ]
+        ],
+        "start": 65395
+      },
+      {
+        "runs": [
+          [
+            10076870,
+            707
+          ]
+        ],
+        "start": 64366
+      }
+    ],
+    "100": [
+      {
+        "runs": [
+          [
+            71464793,
+            145
+          ]
+        ],
+        "start": 65089
+      },
+      {
+        "runs": [
+          [
+            71465051,
+            34
+          ]
+        ],
+        "start": 65347
+      },
+      {
+        "runs": [
+          [
+            71463932,
+            797
+          ]
+        ],
+        "start": 64228
+      }
+    ],
+    "101": [
+      {
+        "runs": [
+          [
+            72147043,
+            145
+          ]
+        ],
+        "start": 65259
+      },
+      {
+        "runs": [
+          [
+            72147301,
+            19
+          ],
+          [
+            72147624,
+            15
+          ]
+        ],
+        "start": 65517
+      },
+      {
+        "runs": [
+          [
+            72146182,
+            797
+          ]
+        ],
+        "start": 64398
+      }
+    ],
+    "102": [
+      {
+        "runs": [
+          [
+            72830923,
+            145
+          ]
+        ],
+        "start": 1219
+      },
+      {
+        "runs": [
+          [
+            72831181,
+            34
+          ]
+        ],
+        "start": 1477
+      },
+      {
+        "runs": [
+          [
+            72830062,
+            797
+          ]
+        ],
+        "start": 358
+      }
+    ],
+    "103": [
+      {
+        "runs": [
+          [
+            73511475,
+            5
+          ],
+          [
+            73511784,
+            140
+          ]
+        ],
+        "start": 65531
+      },
+      {
+        "runs": [
+          [
+            73512037,
+            34
+          ]
+        ],
+        "start": 253
+      },
+      {
+        "runs": [
+          [
+            73510614,
+            797
+          ]
+        ],
+        "start": 64670
+      }
+    ],
+    "104": [
+      {
+        "runs": [
+          [
+            74192647,
+            145
+          ]
+        ],
+        "start": 64623
+      },
+      {
+        "runs": [
+          [
+            74192905,
+            34
+          ]
+        ],
+        "start": 64881
+      },
+      {
+        "runs": [
+          [
+            74191786,
+            797
+          ]
+        ],
+        "start": 63762
+      }
+    ],
+    "105": [
+      {
+        "runs": [
+          [
+            74875279,
+            145
+          ]
+        ],
+        "start": 65175
+      },
+      {
+        "runs": [
+          [
+            74875537,
+            34
+          ]
+        ],
+        "start": 65433
+      },
+      {
+        "runs": [
+          [
+            74874418,
+            797
+          ]
+        ],
+        "start": 64314
+      }
+    ],
+    "106": [
+      {
+        "runs": [
+          [
+            75558183,
+            145
+          ]
+        ],
+        "start": 159
+      },
+      {
+        "runs": [
+          [
+            75558441,
+            34
+          ]
+        ],
+        "start": 417
+      },
+      {
+        "runs": [
+          [
+            75557018,
+            702
+          ],
+          [
+            75558024,
+            95
+          ]
+        ],
+        "start": 64834
+      }
+    ],
+    "107": [
+      {
+        "runs": [
+          [
+            76238821,
+            145
+          ]
+        ],
+        "start": 64557
+      },
+      {
+        "runs": [
+          [
+            76239079,
+            34
+          ]
+        ],
+        "start": 64815
+      },
+      {
+        "runs": [
+          [
+            76237960,
+            797
+          ]
+        ],
+        "start": 63696
+      }
+    ],
+    "108": [
+      {
+        "runs": [
+          [
+            76921181,
+            145
+          ]
+        ],
+        "start": 64837
+      },
+      {
+        "runs": [
+          [
+            76921439,
+            34
+          ]
+        ],
+        "start": 65095
+      },
+      {
+        "runs": [
+          [
+            76920320,
+            797
+          ]
+        ],
+        "start": 63976
+      }
+    ],
+    "109": [
+      {
+        "runs": [
+          [
+            77603631,
+            145
+          ]
+        ],
+        "start": 65207
+      },
+      {
+        "runs": [
+          [
+            77603889,
+            34
+          ]
+        ],
+        "start": 65465
+      },
+      {
+        "runs": [
+          [
+            77602770,
+            797
+          ]
+        ],
+        "start": 64346
+      }
+    ],
+    "11": [
+      {
+        "runs": [
+          [
+            10761501,
+            5
+          ]
+        ],
+        "start": 1077
+      },
+      {
+        "runs": [
+          [
+            10761650,
+            3
+          ]
+        ],
+        "start": 1226
+      },
+      {
+        "runs": [
+          [
+            10760887,
+            410
+          ]
+        ],
+        "start": 463
+      }
+    ],
+    "110": [
+      {
+        "runs": [
+          [
+            78285413,
+            5
+          ]
+        ],
+        "start": 64909
+      },
+      {
+        "runs": [
+          [
+            78285531,
+            34
+          ]
+        ],
+        "start": 65027
+      },
+      {
+        "runs": [
+          [
+            78284502,
+            707
+          ]
+        ],
+        "start": 63998
+      }
+    ],
+    "111": [
+      {
+        "runs": [
+          [
+            78967689,
+            17
+          ]
+        ],
+        "start": 65105
+      },
+      {
+        "runs": [
+          [
+            78967819,
+            34
+          ]
+        ],
+        "start": 65235
+      },
+      {
+        "runs": [
+          [
+            78966790,
+            707
+          ]
+        ],
+        "start": 64206
+      }
+    ],
+    "112": [
+      {
+        "runs": [
+          [
+            79649319,
+            145
+          ]
+        ],
+        "start": 64655
+      },
+      {
+        "runs": [
+          [
+            79649577,
+            34
+          ]
+        ],
+        "start": 64913
+      },
+      {
+        "runs": [
+          [
+            79648458,
+            797
+          ]
+        ],
+        "start": 63794
+      }
+    ],
+    "113": [
+      {
+        "runs": [
+          [
+            80331381,
+            145
+          ]
+        ],
+        "start": 64637
+      },
+      {
+        "runs": [
+          [
+            80331639,
+            34
+          ]
+        ],
+        "start": 64895
+      },
+      {
+        "runs": [
+          [
+            80330520,
+            797
+          ]
+        ],
+        "start": 63776
+      }
+    ],
+    "114": [
+      {
+        "runs": [
+          [
+            81013479,
+            145
+          ]
+        ],
+        "start": 64655
+      },
+      {
+        "runs": [
+          [
+            81013737,
+            34
+          ]
+        ],
+        "start": 64913
+      },
+      {
+        "runs": [
+          [
+            81012618,
+            797
+          ]
+        ],
+        "start": 63794
+      }
+    ],
+    "115": [
+      {
+        "runs": [
+          [
+            81695541,
+            145
+          ]
+        ],
+        "start": 64637
+      },
+      {
+        "runs": [
+          [
+            81695799,
+            34
+          ]
+        ],
+        "start": 64895
+      },
+      {
+        "runs": [
+          [
+            81694680,
+            797
+          ]
+        ],
+        "start": 63776
+      }
+    ],
+    "116": [
+      {
+        "runs": [
+          [
+            82381691,
+            17
+          ]
+        ],
+        "start": 2563
+      },
+      {
+        "runs": [
+          [
+            82381843,
+            12
+          ]
+        ],
+        "start": 2715
+      },
+      {
+        "runs": [
+          [
+            82380642,
+            230
+          ],
+          [
+            82381176,
+            323
+          ]
+        ],
+        "start": 1818
+      }
+    ],
+    "117": [
+      {
+        "runs": [
+          [
+            83066099,
+            5
+          ]
+        ],
+        "start": 4587
+      },
+      {
+        "runs": [
+          [
+            83066248,
+            3
+          ]
+        ],
+        "start": 4736
+      },
+      {
+        "runs": [
+          [
+            83065072,
+            232
+          ],
+          [
+            83065608,
+            287
+          ]
+        ],
+        "start": 3864
+      }
+    ],
+    "118": [
+      {
+        "runs": [
+          [
+            83743986,
+            5
+          ]
+        ],
+        "start": 1002
+      },
+      {
+        "runs": [
+          [
+            83744128,
+            10
+          ]
+        ],
+        "start": 1144
+      },
+      {
+        "runs": [
+          [
+            83743295,
+            487
+          ]
+        ],
+        "start": 311
+      }
+    ],
+    "119": [
+      {
+        "runs": [
+          [
+            84431162,
+            17
+          ]
+        ],
+        "start": 5490
+      },
+      {
+        "runs": [
+          [
+            84431314,
+            12
+          ]
+        ],
+        "start": 5642
+      },
+      {
+        "runs": [
+          [
+            84430684,
+            286
+          ]
+        ],
+        "start": 5012
+      }
+    ],
+    "12": [
+      {
+        "runs": [
+          [
+            11443365,
+            5
+          ]
+        ],
+        "start": 861
+      },
+      {
+        "runs": [
+          [
+            11443514,
+            3
+          ]
+        ],
+        "start": 1010
+      },
+      {
+        "runs": [
+          [
+            11442677,
+            484
+          ]
+        ],
+        "start": 173
+      }
+    ],
+    "120": [
+      {
+        "runs": [
+          [
+            85110943,
+            17
+          ]
+        ],
+        "start": 3495
+      },
+      {
+        "runs": [
+          [
+            85111095,
+            12
+          ]
+        ],
+        "start": 3647
+      },
+      {
+        "runs": [
+          [
+            85110286,
+            465
+          ]
+        ],
+        "start": 2838
+      }
+    ],
+    "121": [
+      {
+        "runs": [
+          [
+            85789921,
+            17
+          ]
+        ],
+        "start": 697
+      },
+      {
+        "runs": [
+          [
+            85790051,
+            34
+          ]
+        ],
+        "start": 827
+      },
+      {
+        "runs": [
+          [
+            85788718,
+            202
+          ],
+          [
+            85789224,
+            505
+          ]
+        ],
+        "start": 65334
+      }
+    ],
+    "122": [
+      {
+        "runs": [
+          [
+            86473335,
+            17
+          ]
+        ],
+        "start": 2031
+      },
+      {
+        "runs": [
+          [
+            86473791,
+            12
+          ]
+        ],
+        "start": 2183
+      },
+      {
+        "runs": [
+          [
+            86472546,
+            597
+          ]
+        ],
+        "start": 1242
+      }
+    ],
+    "123": [
+      {
+        "runs": [
+          [
+            87155297,
+            17
+          ]
+        ],
+        "start": 1913
+      },
+      {
+        "runs": [
+          [
+            87155753,
+            12
+          ]
+        ],
+        "start": 2065
+      },
+      {
+        "runs": [
+          [
+            87154618,
+            487
+          ]
+        ],
+        "start": 1234
+      }
+    ],
+    "124": [
+      {
+        "runs": [
+          [
+            87837385,
+            17
+          ]
+        ],
+        "start": 1921
+      },
+      {
+        "runs": [
+          [
+            87837841,
+            12
+          ]
+        ],
+        "start": 2073
+      },
+      {
+        "runs": [
+          [
+            87836706,
+            487
+          ]
+        ],
+        "start": 1242
+      }
+    ],
+    "125": [
+      {
+        "runs": [
+          [
+            88516575,
+            145
+          ]
+        ],
+        "start": 64871
+      },
+      {
+        "runs": [
+          [
+            88516833,
+            34
+          ]
+        ],
+        "start": 65129
+      },
+      {
+        "runs": [
+          [
+            88515714,
+            797
+          ]
+        ],
+        "start": 64010
+      }
+    ],
+    "126": [
+      {
+        "runs": [
+          [
+            89202231,
+            17
+          ]
+        ],
+        "start": 2303
+      },
+      {
+        "runs": [
+          [
+            89202383,
+            12
+          ]
+        ],
+        "start": 2455
+      },
+      {
+        "runs": [
+          [
+            89201226,
+            446
+          ],
+          [
+            89201976,
+            63
+          ]
+        ],
+        "start": 1602
+      }
+    ],
+    "127": [
+      {
+        "runs": [
+          [
+            89881131,
+            145
+          ]
+        ],
+        "start": 65267
+      },
+      {
+        "runs": [
+          [
+            89881389,
+            11
+          ],
+          [
+            89881704,
+            23
+          ]
+        ],
+        "start": 65525
+      },
+      {
+        "runs": [
+          [
+            89880270,
+            797
+          ]
+        ],
+        "start": 64406
+      }
+    ],
+    "13": [
+      {
+        "runs": [
+          [
+            12125237,
+            5
+          ]
+        ],
+        "start": 653
+      },
+      {
+        "runs": [
+          [
+            12125386,
+            3
+          ]
+        ],
+        "start": 802
+      },
+      {
+        "runs": [
+          [
+            12124131,
+            149
+          ],
+          [
+            12124584,
+            449
+          ]
+        ],
+        "start": 65387
+      }
+    ],
+    "14": [
+      {
+        "runs": [
+          [
+            12807951,
+            5
+          ]
+        ],
+        "start": 1287
+      },
+      {
+        "runs": [
+          [
+            12808100,
+            3
+          ]
+        ],
+        "start": 1436
+      },
+      {
+        "runs": [
+          [
+            12807125,
+            622
+          ]
+        ],
+        "start": 461
+      }
+    ],
+    "15": [
+      {
+        "runs": [
+          [
+            13489707,
+            5
+          ]
+        ],
+        "start": 963
+      },
+      {
+        "runs": [
+          [
+            13489849,
+            10
+          ]
+        ],
+        "start": 1105
+      },
+      {
+        "runs": [
+          [
+            13488832,
+            671
+          ]
+        ],
+        "start": 88
+      }
+    ],
+    "16": [
+      {
+        "runs": [
+          [
+            14170467,
+            5
+          ]
+        ],
+        "start": 65483
+      },
+      {
+        "runs": [
+          [
+            14170913,
+            10
+          ]
+        ],
+        "start": 89
+      },
+      {
+        "runs": [
+          [
+            14169580,
+            683
+          ]
+        ],
+        "start": 64596
+      }
+    ],
+    "17": [
+      {
+        "runs": [
+          [
+            14854789,
+            5
+          ]
+        ],
+        "start": 1885
+      },
+      {
+        "runs": [
+          [
+            14853934,
+            651
+          ]
+        ],
+        "start": 1030
+      }
+    ],
+    "18": [
+      {
+        "runs": [
+          [
+            15536271,
+            17
+          ]
+        ],
+        "start": 1287
+      },
+      {
+        "runs": [
+          [
+            15536423,
+            12
+          ]
+        ],
+        "start": 1439
+      },
+      {
+        "runs": [
+          [
+            15535548,
+            531
+          ]
+        ],
+        "start": 564
+      }
+    ],
+    "19": [
+      {
+        "runs": [
+          [
+            16221413,
+            17
+          ]
+        ],
+        "start": 4045
+      },
+      {
+        "runs": [
+          [
+            16221869,
+            12
+          ]
+        ],
+        "start": 4197
+      },
+      {
+        "runs": [
+          [
+            16220624,
+            597
+          ]
+        ],
+        "start": 3256
+      }
+    ],
+    "2": [
+      {
+        "runs": [
+          [
+            4622827,
+            5
+          ]
+        ],
+        "start": 1123
+      },
+      {
+        "runs": [
+          [
+            4622969,
+            10
+          ]
+        ],
+        "start": 1265
+      },
+      {
+        "runs": [
+          [
+            4621976,
+            647
+          ]
+        ],
+        "start": 272
+      }
+    ],
+    "20": [
+      {
+        "runs": [
+          [
+            16903243,
+            5
+          ]
+        ],
+        "start": 3795
+      },
+      {
+        "runs": [
+          [
+            16903385,
+            10
+          ]
+        ],
+        "start": 3937
+      },
+      {
+        "runs": [
+          [
+            16902332,
+            707
+          ]
+        ],
+        "start": 2884
+      }
+    ],
+    "21": [
+      {
+        "runs": [
+          [
+            17580169,
+            17
+          ]
+        ],
+        "start": 64785
+      },
+      {
+        "runs": [
+          [
+            17580299,
+            34
+          ]
+        ],
+        "start": 64915
+      },
+      {
+        "runs": [
+          [
+            17579270,
+            707
+          ]
+        ],
+        "start": 63886
+      }
+    ],
+    "22": [
+      {
+        "runs": [
+          [
+            18262267,
+            17
+          ]
+        ],
+        "start": 64803
+      },
+      {
+        "runs": [
+          [
+            18262397,
+            34
+          ]
+        ],
+        "start": 64933
+      },
+      {
+        "runs": [
+          [
+            18261368,
+            707
+          ]
+        ],
+        "start": 63904
+      }
+    ],
+    "23": [
+      {
+        "runs": [
+          [
+            18948363,
+            145
+          ]
+        ],
+        "start": 2675
+      },
+      {
+        "runs": [
+          [
+            18948621,
+            34
+          ]
+        ],
+        "start": 2933
+      },
+      {
+        "runs": [
+          [
+            18947198,
+            234
+          ],
+          [
+            18947736,
+            563
+          ]
+        ],
+        "start": 1814
+      }
+    ],
+    "24": [
+      {
+        "runs": [
+          [
+            19627599,
+            17
+          ]
+        ],
+        "start": 135
+      },
+      {
+        "runs": [
+          [
+            19627751,
+            12
+          ]
+        ],
+        "start": 287
+      },
+      {
+        "runs": [
+          [
+            19626440,
+            663
+          ]
+        ],
+        "start": 64816
+      }
+    ],
+    "26": [
+      {
+        "runs": [
+          [
+            20990911,
+            17
+          ]
+        ],
+        "start": 65127
+      },
+      {
+        "runs": [
+          [
+            20991041,
+            34
+          ]
+        ],
+        "start": 65257
+      },
+      {
+        "runs": [
+          [
+            20990012,
+            707
+          ]
+        ],
+        "start": 64228
+      }
+    ],
+    "27": [
+      {
+        "runs": [
+          [
+            21678899,
+            5
+          ]
+        ],
+        "start": 4587
+      },
+      {
+        "runs": [
+          [
+            21679048,
+            3
+          ]
+        ],
+        "start": 4736
+      },
+      {
+        "runs": [
+          [
+            21677872,
+            232
+          ],
+          [
+            21678408,
+            287
+          ]
+        ],
+        "start": 3864
+      }
+    ],
+    "28": [
+      {
+        "runs": [
+          [
+            22358803,
+            17
+          ]
+        ],
+        "start": 2715
+      },
+      {
+        "runs": [
+          [
+            22358955,
+            12
+          ]
+        ],
+        "start": 2867
+      },
+      {
+        "runs": [
+          [
+            22358278,
+            333
+          ]
+        ],
+        "start": 2190
+      }
+    ],
+    "29": [
+      {
+        "runs": [
+          [
+            23043059,
+            5
+          ]
+        ],
+        "start": 4587
+      },
+      {
+        "runs": [
+          [
+            23043208,
+            3
+          ]
+        ],
+        "start": 4736
+      },
+      {
+        "runs": [
+          [
+            23042032,
+            232
+          ],
+          [
+            23042568,
+            287
+          ]
+        ],
+        "start": 3864
+      }
+    ],
+    "3": [
+      {
+        "runs": [
+          [
+            5308140,
+            5
+          ]
+        ],
+        "start": 4052
+      },
+      {
+        "runs": [
+          [
+            5308586,
+            10
+          ]
+        ],
+        "start": 4194
+      },
+      {
+        "runs": [
+          [
+            5307229,
+            707
+          ]
+        ],
+        "start": 3141
+      }
+    ],
+    "30": [
+      {
+        "runs": [
+          [
+            23723646,
+            5
+          ]
+        ],
+        "start": 3398
+      },
+      {
+        "runs": [
+          [
+            23723795,
+            3
+          ]
+        ],
+        "start": 3547
+      },
+      {
+        "runs": [
+          [
+            23722923,
+            519
+          ]
+        ],
+        "start": 2675
+      }
+    ],
+    "31": [
+      {
+        "runs": [
+          [
+            24405726,
+            5
+          ]
+        ],
+        "start": 3398
+      },
+      {
+        "runs": [
+          [
+            24405875,
+            3
+          ]
+        ],
+        "start": 3547
+      },
+      {
+        "runs": [
+          [
+            24405003,
+            519
+          ]
+        ],
+        "start": 2675
+      }
+    ],
+    "32": [
+      {
+        "runs": [
+          [
+            25087806,
+            5
+          ]
+        ],
+        "start": 3398
+      },
+      {
+        "runs": [
+          [
+            25087955,
+            3
+          ]
+        ],
+        "start": 3547
+      },
+      {
+        "runs": [
+          [
+            25087083,
+            519
+          ]
+        ],
+        "start": 2675
+      }
+    ],
+    "33": [
+      {
+        "runs": [
+          [
+            25769886,
+            5
+          ]
+        ],
+        "start": 3398
+      },
+      {
+        "runs": [
+          [
+            25770035,
+            3
+          ]
+        ],
+        "start": 3547
+      },
+      {
+        "runs": [
+          [
+            25769163,
+            519
+          ]
+        ],
+        "start": 2675
+      }
+    ],
+    "34": [
+      {
+        "runs": [
+          [
+            26449987,
+            5
+          ]
+        ],
+        "start": 1723
+      },
+      {
+        "runs": [
+          [
+            26450129,
+            10
+          ]
+        ],
+        "start": 1865
+      },
+      {
+        "runs": [
+          [
+            26449266,
+            517
+          ]
+        ],
+        "start": 1002
+      }
+    ],
+    "35": [
+      {
+        "runs": [
+          [
+            27131346,
+            5
+          ]
+        ],
+        "start": 1002
+      },
+      {
+        "runs": [
+          [
+            27131488,
+            10
+          ]
+        ],
+        "start": 1144
+      },
+      {
+        "runs": [
+          [
+            27130655,
+            487
+          ]
+        ],
+        "start": 311
+      }
+    ],
+    "36": [
+      {
+        "runs": [
+          [
+            27814259,
+            17
+          ]
+        ],
+        "start": 1835
+      },
+      {
+        "runs": [
+          [
+            27814411,
+            12
+          ]
+        ],
+        "start": 1987
+      },
+      {
+        "runs": [
+          [
+            27813558,
+            509
+          ]
+        ],
+        "start": 1134
+      }
+    ],
+    "37": [
+      {
+        "runs": [
+          [
+            28500602,
+            17
+          ]
+        ],
+        "start": 5490
+      },
+      {
+        "runs": [
+          [
+            28500754,
+            12
+          ]
+        ],
+        "start": 5642
+      },
+      {
+        "runs": [
+          [
+            28500124,
+            286
+          ]
+        ],
+        "start": 5012
+      }
+    ],
+    "38": [
+      {
+        "runs": [
+          [
+            29177999,
+            17
+          ]
+        ],
+        "start": 1415
+      },
+      {
+        "runs": [
+          [
+            29178151,
+            12
+          ]
+        ],
+        "start": 1567
+      },
+      {
+        "runs": [
+          [
+            29177276,
+            531
+          ]
+        ],
+        "start": 692
+      }
+    ],
+    "39": [
+      {
+        "runs": [
+          [
+            29859097,
+            17
+          ]
+        ],
+        "start": 433
+      },
+      {
+        "runs": [
+          [
+            29859249,
+            12
+          ]
+        ],
+        "start": 585
+      },
+      {
+        "runs": [
+          [
+            29858048,
+            312
+          ],
+          [
+            29858664,
+            241
+          ]
+        ],
+        "start": 65224
+      }
+    ],
+    "4": [
+      {
+        "runs": [
+          [
+            5989843,
+            5
+          ]
+        ],
+        "start": 3675
+      },
+      {
+        "runs": [
+          [
+            5989992,
+            3
+          ]
+        ],
+        "start": 3824
+      },
+      {
+        "runs": [
+          [
+            5989121,
+            518
+          ]
+        ],
+        "start": 2953
+      }
+    ],
+    "40": [
+      {
+        "runs": [
+          [
+            30545707,
+            17
+          ]
+        ],
+        "start": 4355
+      },
+      {
+        "runs": [
+          [
+            30545859,
+            12
+          ]
+        ],
+        "start": 4507
+      },
+      {
+        "runs": [
+          [
+            30544636,
+            508
+          ],
+          [
+            30545448,
+            67
+          ]
+        ],
+        "start": 3588
+      }
+    ],
+    "41": [
+      {
+        "runs": [
+          [
+            31225300,
+            17
+          ]
+        ],
+        "start": 2172
+      },
+      {
+        "runs": [
+          [
+            31225452,
+            12
+          ]
+        ],
+        "start": 2324
+      },
+      {
+        "runs": [
+          [
+            31224397,
+            407
+          ]
+        ],
+        "start": 1573
+      }
+    ],
+    "42": [
+      {
+        "runs": [
+          [
+            31907877,
+            17
+          ]
+        ],
+        "start": 2669
+      },
+      {
+        "runs": [
+          [
+            31908029,
+            12
+          ]
+        ],
+        "start": 2821
+      },
+      {
+        "runs": [
+          [
+            31906872,
+            80
+          ],
+          [
+            31907256,
+            429
+          ]
+        ],
+        "start": 1968
+      }
+    ],
+    "43": [
+      {
+        "runs": [
+          [
+            32587681,
+            17
+          ]
+        ],
+        "start": 697
+      },
+      {
+        "runs": [
+          [
+            32587811,
+            34
+          ]
+        ],
+        "start": 827
+      },
+      {
+        "runs": [
+          [
+            32586478,
+            202
+          ],
+          [
+            32586984,
+            505
+          ]
+        ],
+        "start": 65334
+      }
+    ],
+    "44": [
+      {
+        "runs": [
+          [
+            33271095,
+            17
+          ]
+        ],
+        "start": 2031
+      },
+      {
+        "runs": [
+          [
+            33271551,
+            12
+          ]
+        ],
+        "start": 2183
+      },
+      {
+        "runs": [
+          [
+            33270306,
+            597
+          ]
+        ],
+        "start": 1242
+      }
+    ],
+    "45": [
+      {
+        "runs": [
+          [
+            33951615,
+            17
+          ]
+        ],
+        "start": 471
+      },
+      {
+        "runs": [
+          [
+            33951767,
+            12
+          ]
+        ],
+        "start": 623
+      },
+      {
+        "runs": [
+          [
+            33950566,
+            274
+          ],
+          [
+            33951144,
+            279
+          ]
+        ],
+        "start": 65262
+      }
+    ],
+    "46": [
+      {
+        "runs": [
+          [
+            34636175,
+            17
+          ]
+        ],
+        "start": 2647
+      },
+      {
+        "runs": [
+          [
+            34636327,
+            12
+          ]
+        ],
+        "start": 2799
+      },
+      {
+        "runs": [
+          [
+            34635038,
+            234
+          ],
+          [
+            34635576,
+            407
+          ]
+        ],
+        "start": 1814
+      }
+    ],
+    "47": [
+      {
+        "runs": [
+          [
+            35317735,
+            17
+          ]
+        ],
+        "start": 2127
+      },
+      {
+        "runs": [
+          [
+            35317887,
+            12
+          ]
+        ],
+        "start": 2279
+      },
+      {
+        "runs": [
+          [
+            35316664,
+            575
+          ]
+        ],
+        "start": 1360
+      }
+    ],
+    "48": [
+      {
+        "runs": [
+          [
+            35999305,
+            17
+          ]
+        ],
+        "start": 1921
+      },
+      {
+        "runs": [
+          [
+            35999761,
+            12
+          ]
+        ],
+        "start": 2073
+      },
+      {
+        "runs": [
+          [
+            35998626,
+            487
+          ]
+        ],
+        "start": 1242
+      }
+    ],
+    "49": [
+      {
+        "runs": [
+          [
+            36682768,
+            17
+          ]
+        ],
+        "start": 3000
+      },
+      {
+        "runs": [
+          [
+            36682920,
+            12
+          ]
+        ],
+        "start": 3152
+      },
+      {
+        "runs": [
+          [
+            36682045,
+            531
+          ]
+        ],
+        "start": 2277
+      }
+    ],
+    "5": [
+      {
+        "runs": [
+          [
+            6668825,
+            5
+          ]
+        ],
+        "start": 881
+      },
+      {
+        "runs": [
+          [
+            6668967,
+            10
+          ]
+        ],
+        "start": 1023
+      },
+      {
+        "runs": [
+          [
+            6667610,
+            30
+          ],
+          [
+            6667944,
+            677
+          ]
+        ],
+        "start": 65506
+      }
+    ],
+    "50": [
+      {
+        "runs": [
+          [
+            37363925,
+            17
+          ]
+        ],
+        "start": 2077
+      },
+      {
+        "runs": [
+          [
+            37364077,
+            12
+          ]
+        ],
+        "start": 2229
+      },
+      {
+        "runs": [
+          [
+            37362832,
+            597
+          ]
+        ],
+        "start": 1288
+      }
+    ],
+    "51": [
+      {
+        "runs": [
+          [
+            38045414,
+            17
+          ]
+        ],
+        "start": 1790
+      },
+      {
+        "runs": [
+          [
+            38045566,
+            12
+          ]
+        ],
+        "start": 1942
+      },
+      {
+        "runs": [
+          [
+            38044779,
+            443
+          ]
+        ],
+        "start": 1155
+      }
+    ],
+    "52": [
+      {
+        "runs": [
+          [
+            38727427,
+            5
+          ]
+        ],
+        "start": 1723
+      },
+      {
+        "runs": [
+          [
+            38727569,
+            10
+          ]
+        ],
+        "start": 1865
+      },
+      {
+        "runs": [
+          [
+            38726706,
+            517
+          ]
+        ],
+        "start": 1002
+      }
+    ],
+    "53": [
+      {
+        "runs": [
+          [
+            39410465,
+            17
+          ]
+        ],
+        "start": 2377
+      },
+      {
+        "runs": [
+          [
+            39410617,
+            12
+          ]
+        ],
+        "start": 2529
+      },
+      {
+        "runs": [
+          [
+            39409570,
+            262
+          ],
+          [
+            39410136,
+            137
+          ]
+        ],
+        "start": 1786
+      }
+    ],
+    "54": [
+      {
+        "runs": [
+          [
+            40091282,
+            17
+          ]
+        ],
+        "start": 1418
+      },
+      {
+        "runs": [
+          [
+            40091434,
+            12
+          ]
+        ],
+        "start": 1570
+      },
+      {
+        "runs": [
+          [
+            40090515,
+            575
+          ]
+        ],
+        "start": 651
+      }
+    ],
+    "55": [
+      {
+        "runs": [
+          [
+            40771636,
+            4
+          ],
+          [
+            40771944,
+            13
+          ]
+        ],
+        "start": 65532
+      },
+      {
+        "runs": [
+          [
+            40772092,
+            12
+          ]
+        ],
+        "start": 148
+      },
+      {
+        "runs": [
+          [
+            40770803,
+            641
+          ]
+        ],
+        "start": 64699
+      }
+    ],
+    "56": [
+      {
+        "runs": [
+          [
+            41456727,
+            17
+          ]
+        ],
+        "start": 2399
+      },
+      {
+        "runs": [
+          [
+            41456879,
+            12
+          ]
+        ],
+        "start": 2551
+      },
+      {
+        "runs": [
+          [
+            41455678,
+            394
+          ],
+          [
+            41456376,
+            159
+          ]
+        ],
+        "start": 1654
+      }
+    ],
+    "57": [
+      {
+        "runs": [
+          [
+            42139075,
+            17
+          ]
+        ],
+        "start": 2667
+      },
+      {
+        "runs": [
+          [
+            42139227,
+            12
+          ]
+        ],
+        "start": 2819
+      },
+      {
+        "runs": [
+          [
+            42138026,
+            126
+          ],
+          [
+            42138456,
+            427
+          ]
+        ],
+        "start": 1922
+      }
+    ],
+    "58": [
+      {
+        "runs": [
+          [
+            42820743,
+            17
+          ]
+        ],
+        "start": 2255
+      },
+      {
+        "runs": [
+          [
+            42820895,
+            12
+          ]
+        ],
+        "start": 2407
+      },
+      {
+        "runs": [
+          [
+            42819760,
+            472
+          ],
+          [
+            42820536,
+            15
+          ]
+        ],
+        "start": 1576
+      }
+    ],
+    "59": [
+      {
+        "runs": [
+          [
+            43502311,
+            1
+          ],
+          [
+            43502616,
+            16
+          ]
+        ],
+        "start": 2047
+      },
+      {
+        "runs": [
+          [
+            43502767,
+            12
+          ]
+        ],
+        "start": 2199
+      },
+      {
+        "runs": [
+          [
+            43501566,
+            553
+          ]
+        ],
+        "start": 1302
+      }
+    ],
+    "6": [
+      {
+        "runs": [
+          [
+            7352891,
+            17
+          ]
+        ],
+        "start": 2563
+      },
+      {
+        "runs": [
+          [
+            7353043,
+            12
+          ]
+        ],
+        "start": 2715
+      },
+      {
+        "runs": [
+          [
+            7351842,
+            230
+          ],
+          [
+            7352376,
+            323
+          ]
+        ],
+        "start": 1818
+      }
+    ],
+    "60": [
+      {
+        "runs": [
+          [
+            44183813,
+            17
+          ]
+        ],
+        "start": 1469
+      },
+      {
+        "runs": [
+          [
+            44183943,
+            34
+          ]
+        ],
+        "start": 1599
+      },
+      {
+        "runs": [
+          [
+            44182914,
+            707
+          ]
+        ],
+        "start": 570
+      }
+    ],
+    "61": [
+      {
+        "runs": [
+          [
+            44867031,
+            17
+          ]
+        ],
+        "start": 2303
+      },
+      {
+        "runs": [
+          [
+            44867183,
+            12
+          ]
+        ],
+        "start": 2455
+      },
+      {
+        "runs": [
+          [
+            44866026,
+            446
+          ],
+          [
+            44866776,
+            63
+          ]
+        ],
+        "start": 1602
+      }
+    ],
+    "62": [
+      {
+        "runs": [
+          [
+            45548961,
+            17
+          ]
+        ],
+        "start": 2153
+      },
+      {
+        "runs": [
+          [
+            45549113,
+            12
+          ]
+        ],
+        "start": 2305
+      },
+      {
+        "runs": [
+          [
+            45547868,
+            597
+          ]
+        ],
+        "start": 1364
+      }
+    ],
+    "63": [
+      {
+        "runs": [
+          [
+            46233897,
+            5
+          ]
+        ],
+        "start": 4705
+      },
+      {
+        "runs": [
+          [
+            46232806,
+            178
+          ],
+          [
+            46233288,
+            405
+          ]
+        ],
+        "start": 3918
+      }
+    ],
+    "64": [
+      {
+        "runs": [
+          [
+            46912577,
+            17
+          ]
+        ],
+        "start": 1913
+      },
+      {
+        "runs": [
+          [
+            46913033,
+            12
+          ]
+        ],
+        "start": 2065
+      },
+      {
+        "runs": [
+          [
+            46911898,
+            487
+          ]
+        ],
+        "start": 1234
+      }
+    ],
+    "65": [
+      {
+        "runs": [
+          [
+            47595303,
+            17
+          ]
+        ],
+        "start": 2255
+      },
+      {
+        "runs": [
+          [
+            47595455,
+            12
+          ]
+        ],
+        "start": 2407
+      },
+      {
+        "runs": [
+          [
+            47594320,
+            472
+          ],
+          [
+            47595096,
+            15
+          ]
+        ],
+        "start": 1576
+      }
+    ],
+    "66": [
+      {
+        "runs": [
+          [
+            48279139,
+            17
+          ]
+        ],
+        "start": 4011
+      },
+      {
+        "runs": [
+          [
+            48279595,
+            12
+          ]
+        ],
+        "start": 4163
+      },
+      {
+        "runs": [
+          [
+            48278658,
+            289
+          ]
+        ],
+        "start": 3530
+      }
+    ],
+    "67": [
+      {
+        "runs": [
+          [
+            48960703,
+            17
+          ]
+        ],
+        "start": 3495
+      },
+      {
+        "runs": [
+          [
+            48960855,
+            12
+          ]
+        ],
+        "start": 3647
+      },
+      {
+        "runs": [
+          [
+            48960046,
+            465
+          ]
+        ],
+        "start": 2838
+      }
+    ],
+    "68": [
+      {
+        "runs": [
+          [
+            49638087,
+            145
+          ]
+        ],
+        "start": 64943
+      },
+      {
+        "runs": [
+          [
+            49638345,
+            34
+          ]
+        ],
+        "start": 65201
+      },
+      {
+        "runs": [
+          [
+            49637226,
+            797
+          ]
+        ],
+        "start": 64082
+      }
+    ],
+    "69": [
+      {
+        "runs": [
+          [
+            50322503,
+            17
+          ]
+        ],
+        "start": 1439
+      },
+      {
+        "runs": [
+          [
+            50322655,
+            12
+          ]
+        ],
+        "start": 1591
+      },
+      {
+        "runs": [
+          [
+            50321714,
+            597
+          ]
+        ],
+        "start": 650
+      }
+    ],
+    "7": [
+      {
+        "runs": [
+          [
+            8033515,
+            5
+          ]
+        ],
+        "start": 1411
+      },
+      {
+        "runs": [
+          [
+            8033664,
+            3
+          ]
+        ],
+        "start": 1560
+      },
+      {
+        "runs": [
+          [
+            8032785,
+            526
+          ]
+        ],
+        "start": 681
+      }
+    ],
+    "70": [
+      {
+        "runs": [
+          [
+            51004855,
+            17
+          ]
+        ],
+        "start": 1711
+      },
+      {
+        "runs": [
+          [
+            51005007,
+            12
+          ]
+        ],
+        "start": 1863
+      },
+      {
+        "runs": [
+          [
+            51004044,
+            619
+          ]
+        ],
+        "start": 900
+      }
+    ],
+    "71": [
+      {
+        "runs": [
+          [
+            51686075,
+            17
+          ]
+        ],
+        "start": 851
+      },
+      {
+        "runs": [
+          [
+            51686227,
+            12
+          ]
+        ],
+        "start": 1003
+      },
+      {
+        "runs": [
+          [
+            51685242,
+            641
+          ]
+        ],
+        "start": 18
+      }
+    ],
+    "72": [
+      {
+        "runs": [
+          [
+            52366991,
+            9
+          ],
+          [
+            52367304,
+            8
+          ]
+        ],
+        "start": 65527
+      },
+      {
+        "runs": [
+          [
+            52367447,
+            12
+          ]
+        ],
+        "start": 143
+      },
+      {
+        "runs": [
+          [
+            52366092,
+            707
+          ]
+        ],
+        "start": 64628
+      }
+    ],
+    "73": [
+      {
+        "runs": [
+          [
+            53048415,
+            145
+          ]
+        ],
+        "start": 64871
+      },
+      {
+        "runs": [
+          [
+            53048673,
+            34
+          ]
+        ],
+        "start": 65129
+      },
+      {
+        "runs": [
+          [
+            53047554,
+            797
+          ]
+        ],
+        "start": 64010
+      }
+    ],
+    "74": [
+      {
+        "runs": [
+          [
+            53730891,
+            145
+          ]
+        ],
+        "start": 65267
+      },
+      {
+        "runs": [
+          [
+            53731149,
+            11
+          ],
+          [
+            53731464,
+            23
+          ]
+        ],
+        "start": 65525
+      },
+      {
+        "runs": [
+          [
+            53730030,
+            797
+          ]
+        ],
+        "start": 64406
+      }
+    ],
+    "75": [
+      {
+        "runs": [
+          [
+            54412461,
+            145
+          ]
+        ],
+        "start": 64757
+      },
+      {
+        "runs": [
+          [
+            54412719,
+            34
+          ]
+        ],
+        "start": 65015
+      },
+      {
+        "runs": [
+          [
+            54411600,
+            797
+          ]
+        ],
+        "start": 63896
+      }
+    ],
+    "76": [
+      {
+        "runs": [
+          [
+            55095805,
+            145
+          ]
+        ],
+        "start": 181
+      },
+      {
+        "runs": [
+          [
+            55096063,
+            34
+          ]
+        ],
+        "start": 439
+      },
+      {
+        "runs": [
+          [
+            55094640,
+            680
+          ],
+          [
+            55095624,
+            117
+          ]
+        ],
+        "start": 64856
+      }
+    ],
+    "77": [
+      {
+        "runs": [
+          [
+            55778357,
+            145
+          ]
+        ],
+        "start": 653
+      },
+      {
+        "runs": [
+          [
+            55778615,
+            34
+          ]
+        ],
+        "start": 911
+      },
+      {
+        "runs": [
+          [
+            55777192,
+            208
+          ],
+          [
+            55777704,
+            589
+          ]
+        ],
+        "start": 65328
+      }
+    ],
+    "78": [
+      {
+        "runs": [
+          [
+            56459211,
+            145
+          ]
+        ],
+        "start": 65267
+      },
+      {
+        "runs": [
+          [
+            56459469,
+            11
+          ],
+          [
+            56459784,
+            23
+          ]
+        ],
+        "start": 65525
+      },
+      {
+        "runs": [
+          [
+            56458350,
+            797
+          ]
+        ],
+        "start": 64406
+      }
+    ],
+    "79": [
+      {
+        "runs": [
+          [
+            57140701,
+            145
+          ]
+        ],
+        "start": 64677
+      },
+      {
+        "runs": [
+          [
+            57140959,
+            34
+          ]
+        ],
+        "start": 64935
+      },
+      {
+        "runs": [
+          [
+            57139840,
+            797
+          ]
+        ],
+        "start": 63816
+      }
+    ],
+    "8": [
+      {
+        "runs": [
+          [
+            8714689,
+            5
+          ]
+        ],
+        "start": 505
+      },
+      {
+        "runs": [
+          [
+            8714831,
+            10
+          ]
+        ],
+        "start": 647
+      },
+      {
+        "runs": [
+          [
+            8713534,
+            346
+          ],
+          [
+            8714184,
+            301
+          ]
+        ],
+        "start": 65190
+      }
+    ],
+    "80": [
+      {
+        "runs": [
+          [
+            57823207,
+            145
+          ]
+        ],
+        "start": 65103
+      },
+      {
+        "runs": [
+          [
+            57823465,
+            34
+          ]
+        ],
+        "start": 65361
+      },
+      {
+        "runs": [
+          [
+            57822346,
+            797
+          ]
+        ],
+        "start": 64242
+      }
+    ],
+    "81": [
+      {
+        "runs": [
+          [
+            58505021,
+            145
+          ]
+        ],
+        "start": 64837
+      },
+      {
+        "runs": [
+          [
+            58505279,
+            34
+          ]
+        ],
+        "start": 65095
+      },
+      {
+        "runs": [
+          [
+            58504160,
+            797
+          ]
+        ],
+        "start": 63976
+      }
+    ],
+    "82": [
+      {
+        "runs": [
+          [
+            59187407,
+            145
+          ]
+        ],
+        "start": 65143
+      },
+      {
+        "runs": [
+          [
+            59187665,
+            34
+          ]
+        ],
+        "start": 65401
+      },
+      {
+        "runs": [
+          [
+            59186546,
+            797
+          ]
+        ],
+        "start": 64282
+      }
+    ],
+    "83": [
+      {
+        "runs": [
+          [
+            59869287,
+            145
+          ]
+        ],
+        "start": 64943
+      },
+      {
+        "runs": [
+          [
+            59869545,
+            34
+          ]
+        ],
+        "start": 65201
+      },
+      {
+        "runs": [
+          [
+            59868426,
+            797
+          ]
+        ],
+        "start": 64082
+      }
+    ],
+    "84": [
+      {
+        "runs": [
+          [
+            60551661,
+            145
+          ]
+        ],
+        "start": 65237
+      },
+      {
+        "runs": [
+          [
+            60551919,
+            34
+          ]
+        ],
+        "start": 65495
+      },
+      {
+        "runs": [
+          [
+            60550800,
+            797
+          ]
+        ],
+        "start": 64376
+      }
+    ],
+    "85": [
+      {
+        "runs": [
+          [
+            61233295,
+            145
+          ]
+        ],
+        "start": 64791
+      },
+      {
+        "runs": [
+          [
+            61233553,
+            34
+          ]
+        ],
+        "start": 65049
+      },
+      {
+        "runs": [
+          [
+            61232434,
+            797
+          ]
+        ],
+        "start": 63930
+      }
+    ],
+    "86": [
+      {
+        "runs": [
+          [
+            61915527,
+            145
+          ]
+        ],
+        "start": 64943
+      },
+      {
+        "runs": [
+          [
+            61915785,
+            34
+          ]
+        ],
+        "start": 65201
+      },
+      {
+        "runs": [
+          [
+            61914666,
+            797
+          ]
+        ],
+        "start": 64082
+      }
+    ],
+    "87": [
+      {
+        "runs": [
+          [
+            62597449,
+            145
+          ]
+        ],
+        "start": 64785
+      },
+      {
+        "runs": [
+          [
+            62597707,
+            34
+          ]
+        ],
+        "start": 65043
+      },
+      {
+        "runs": [
+          [
+            62596588,
+            797
+          ]
+        ],
+        "start": 63924
+      }
+    ],
+    "88": [
+      {
+        "runs": [
+          [
+            63279447,
+            145
+          ]
+        ],
+        "start": 64703
+      },
+      {
+        "runs": [
+          [
+            63279705,
+            34
+          ]
+        ],
+        "start": 64961
+      },
+      {
+        "runs": [
+          [
+            63278586,
+            797
+          ]
+        ],
+        "start": 63842
+      }
+    ],
+    "89": [
+      {
+        "runs": [
+          [
+            63962087,
+            145
+          ]
+        ],
+        "start": 65263
+      },
+      {
+        "runs": [
+          [
+            63962345,
+            15
+          ],
+          [
+            63962664,
+            19
+          ]
+        ],
+        "start": 65521
+      },
+      {
+        "runs": [
+          [
+            63961226,
+            797
+          ]
+        ],
+        "start": 64402
+      }
+    ],
+    "9": [
+      {
+        "runs": [
+          [
+            9396959,
+            5
+          ]
+        ],
+        "start": 695
+      },
+      {
+        "runs": [
+          [
+            9397108,
+            3
+          ]
+        ],
+        "start": 844
+      },
+      {
+        "runs": [
+          [
+            9395885,
+            75
+          ],
+          [
+            9396264,
+            491
+          ]
+        ],
+        "start": 65461
+      }
+    ],
+    "90": [
+      {
+        "runs": [
+          [
+            64643495,
+            145
+          ]
+        ],
+        "start": 64591
+      },
+      {
+        "runs": [
+          [
+            64643753,
+            34
+          ]
+        ],
+        "start": 64849
+      },
+      {
+        "runs": [
+          [
+            64642634,
+            797
+          ]
+        ],
+        "start": 63730
+      }
+    ],
+    "91": [
+      {
+        "runs": [
+          [
+            65326051,
+            17
+          ]
+        ],
+        "start": 65067
+      },
+      {
+        "runs": [
+          [
+            65326181,
+            34
+          ]
+        ],
+        "start": 65197
+      },
+      {
+        "runs": [
+          [
+            65325152,
+            707
+          ]
+        ],
+        "start": 64168
+      }
+    ],
+    "92": [
+      {
+        "runs": [
+          [
+            66007865,
+            145
+          ]
+        ],
+        "start": 64801
+      },
+      {
+        "runs": [
+          [
+            66008123,
+            34
+          ]
+        ],
+        "start": 65059
+      },
+      {
+        "runs": [
+          [
+            66007004,
+            797
+          ]
+        ],
+        "start": 63940
+      }
+    ],
+    "93": [
+      {
+        "runs": [
+          [
+            66690327,
+            17
+          ]
+        ],
+        "start": 65183
+      },
+      {
+        "runs": [
+          [
+            66690457,
+            34
+          ]
+        ],
+        "start": 65313
+      },
+      {
+        "runs": [
+          [
+            66689428,
+            707
+          ]
+        ],
+        "start": 64284
+      }
+    ],
+    "94": [
+      {
+        "runs": [
+          [
+            67371759,
+            145
+          ]
+        ],
+        "start": 64535
+      },
+      {
+        "runs": [
+          [
+            67372017,
+            34
+          ]
+        ],
+        "start": 64793
+      },
+      {
+        "runs": [
+          [
+            67370898,
+            797
+          ]
+        ],
+        "start": 63674
+      }
+    ],
+    "95": [
+      {
+        "runs": [
+          [
+            68053901,
+            145
+          ]
+        ],
+        "start": 64597
+      },
+      {
+        "runs": [
+          [
+            68054159,
+            34
+          ]
+        ],
+        "start": 64855
+      },
+      {
+        "runs": [
+          [
+            68053040,
+            797
+          ]
+        ],
+        "start": 63736
+      }
+    ],
+    "96": [
+      {
+        "runs": [
+          [
+            68736745,
+            145
+          ]
+        ],
+        "start": 65361
+      },
+      {
+        "runs": [
+          [
+            68737307,
+            34
+          ]
+        ],
+        "start": 83
+      },
+      {
+        "runs": [
+          [
+            68735884,
+            797
+          ]
+        ],
+        "start": 64500
+      }
+    ],
+    "97": [
+      {
+        "runs": [
+          [
+            69418023,
+            145
+          ]
+        ],
+        "start": 64559
+      },
+      {
+        "runs": [
+          [
+            69418281,
+            34
+          ]
+        ],
+        "start": 64817
+      },
+      {
+        "runs": [
+          [
+            69417162,
+            797
+          ]
+        ],
+        "start": 63698
+      }
+    ],
+    "98": [
+      {
+        "runs": [
+          [
+            70100751,
+            145
+          ]
+        ],
+        "start": 65207
+      },
+      {
+        "runs": [
+          [
+            70101009,
+            34
+          ]
+        ],
+        "start": 65465
+      },
+      {
+        "runs": [
+          [
+            70099890,
+            797
+          ]
+        ],
+        "start": 64346
+      }
+    ],
+    "99": [
+      {
+        "runs": [
+          [
+            70782527,
+            145
+          ]
+        ],
+        "start": 64903
+      },
+      {
+        "runs": [
+          [
+            70782785,
+            34
+          ]
+        ],
+        "start": 65161
+      },
+      {
+        "runs": [
+          [
+            70781666,
+            797
+          ]
+        ],
+        "start": 64042
+      }
+    ]
+  }
+}
